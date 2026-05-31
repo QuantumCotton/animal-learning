@@ -1,0 +1,1795 @@
+{
+  "generated": "2026-05-31",
+  "rubric": "Strict kid engagement: surprise, concrete imagery, no I'm/My/Santa, no textbook tone.",
+  "total": 255,
+  "keep": 255,
+  "below80": 0,
+  "rewritesApplied": 100,
+  "animals": [
+    {
+      "id": "aardvark",
+      "score": 88,
+      "rewritten": true,
+      "en": "Aardvarks slurp ants with a sticky tongue longer than a ruler, turning anthills into all-you-can-eat buffets.",
+      "status": "keep"
+    },
+    {
+      "id": "abyssal_spiderfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Abyssal spiderfish sprawl on the seafloor with long spiny fins, looking like spiders that traded webs for deep-sea chill.",
+      "status": "keep"
+    },
+    {
+      "id": "acorn_worm",
+      "score": 88,
+      "rewritten": true,
+      "en": "Acorn worms look like slim acorns that spit sticky mucus nets to catch food—gross, but brilliant for a worm.",
+      "status": "keep"
+    },
+    {
+      "id": "adelie_penguin",
+      "score": 88,
+      "rewritten": false,
+      "en": "Adélie penguins steal pebbles from neighbors' nests—naughty rock collectors!",
+      "status": "keep"
+    },
+    {
+      "id": "albatross",
+      "score": 88,
+      "rewritten": false,
+      "en": "Albatrosses glide for hours without flapping—ocean wanderers with airplane wings!",
+      "status": "keep"
+    },
+    {
+      "id": "alpaca",
+      "score": 88,
+      "rewritten": false,
+      "en": "Alpaca fleece is softer than sheep wool and comes in 22 natural colors—nature's rainbow yarn!",
+      "status": "keep"
+    },
+    {
+      "id": "anaconda",
+      "score": 88,
+      "rewritten": false,
+      "en": "Green anacondas are the heaviest snakes—they swim like silent river logs!",
+      "status": "keep"
+    },
+    {
+      "id": "angelfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Angelfish glide through coral like flat golden frisbees, turning corners with fins that sparkle in sunbeams.",
+      "status": "keep"
+    },
+    {
+      "id": "anglerfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Anglerfish dangle glowing lures to attract prey in the dark deep sea!",
+      "status": "keep"
+    },
+    {
+      "id": "anteater",
+      "score": 88,
+      "rewritten": false,
+      "en": "Giant anteaters have 2-ft tongues that flick in and out 150 times a minute!",
+      "status": "keep"
+    },
+    {
+      "id": "arctic_fox",
+      "score": 88,
+      "rewritten": false,
+      "en": "Arctic foxes turn snow-white in winter and brown in summer—seasonal outfit swap!",
+      "status": "keep"
+    },
+    {
+      "id": "arctic_hare",
+      "score": 88,
+      "rewritten": false,
+      "en": "Arctic hares sprint up to 40 mph in snow—white lightning with long legs!",
+      "status": "keep"
+    },
+    {
+      "id": "arctic_wolf",
+      "score": 88,
+      "rewritten": true,
+      "en": "An Arctic wolf can vanish in blowing snow with its white coat, moving so quietly that the tundra feels like it’s holding its breath.",
+      "status": "keep"
+    },
+    {
+      "id": "armadillo",
+      "score": 93,
+      "rewritten": false,
+      "en": "Armadillos jump straight up when startled—surprise bounce armor!",
+      "status": "keep"
+    },
+    {
+      "id": "aye_aye",
+      "score": 88,
+      "rewritten": false,
+      "en": "Aye-ayes tap trees with a long middle finger to find grubs—woodpecker fingers!",
+      "status": "keep"
+    },
+    {
+      "id": "badger",
+      "score": 88,
+      "rewritten": false,
+      "en": "Badgers dig tunnel homes with bedrooms and pantries—underground mansions!",
+      "status": "keep"
+    },
+    {
+      "id": "barn_owl",
+      "score": 88,
+      "rewritten": false,
+      "en": "Barn owls screech instead of hoot and hear mice under snow!",
+      "status": "keep"
+    },
+    {
+      "id": "barnacle",
+      "score": 88,
+      "rewritten": true,
+      "en": "Barnacles glue their heads to rocks and kick food into their mouths with feathery legs—upside-down filter fans.",
+      "status": "keep"
+    },
+    {
+      "id": "barracuda",
+      "score": 88,
+      "rewritten": false,
+      "en": "Barracudas flash silver and zip through reefs like underwater rockets!",
+      "status": "keep"
+    },
+    {
+      "id": "barreleye",
+      "score": 92,
+      "rewritten": true,
+      "en": "Barreleye fish have see-through heads so you can peek at their green tube eyes—like a fish with a glass helmet.",
+      "status": "keep"
+    },
+    {
+      "id": "basket_star",
+      "score": 88,
+      "rewritten": true,
+      "en": "Basket stars open branching arms like living lace nets, catching plankton snacks from passing currents.",
+      "status": "keep"
+    },
+    {
+      "id": "beaked_whale",
+      "score": 88,
+      "rewritten": true,
+      "en": "Beaked whales can dive deeper than almost any mammal on one breath—like holding your nose for a roller-coaster ride to the abyss.",
+      "status": "keep"
+    },
+    {
+      "id": "beaver",
+      "score": 88,
+      "rewritten": false,
+      "en": "Beavers build dams that create ponds—animal engineers changing whole valleys!",
+      "status": "keep"
+    },
+    {
+      "id": "beluga_whale",
+      "score": 88,
+      "rewritten": false,
+      "en": "Belugas are white 'sea canaries' that chirp, whistle, and mimic sounds!",
+      "status": "keep"
+    },
+    {
+      "id": "bengal_tiger",
+      "score": 92,
+      "rewritten": true,
+      "en": "Bengal tiger stripes are as unique as fingerprints, and a roar can rumble through the air like a giant drumbeat.",
+      "status": "keep"
+    },
+    {
+      "id": "big_red_jelly",
+      "score": 88,
+      "rewritten": true,
+      "en": "Big red jellies drift like giant crimson umbrellas in the deep, pulsing slow and spooky through the dark.",
+      "status": "keep"
+    },
+    {
+      "id": "black_bear",
+      "score": 88,
+      "rewritten": false,
+      "en": "Black bears climb trees like giant teddy bears looking for honey!",
+      "status": "keep"
+    },
+    {
+      "id": "black_swallower",
+      "score": 92,
+      "rewritten": false,
+      "en": "Black swallowers eat fish twice their size—their stomach stretches like a balloon!",
+      "status": "keep"
+    },
+    {
+      "id": "blobfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Blobfish look like grumpy jelly on land but normal in deep water pressure!",
+      "status": "keep"
+    },
+    {
+      "id": "blue_jay",
+      "score": 88,
+      "rewritten": false,
+      "en": "Blue jays mimic hawk calls to scare other birds away from food!",
+      "status": "keep"
+    },
+    {
+      "id": "blue_tang",
+      "score": 88,
+      "rewritten": true,
+      "en": "Blue tangs zip through reefs in electric blue with sunny tail tips, like swimming highlighters with fins.",
+      "status": "keep"
+    },
+    {
+      "id": "boa_constrictor",
+      "score": 88,
+      "rewritten": false,
+      "en": "Boas squeeze prey gently with muscles, then swallow whole—no chewing needed!",
+      "status": "keep"
+    },
+    {
+      "id": "bobcat",
+      "score": 88,
+      "rewritten": true,
+      "en": "Bobcats have short bobbed tails and tufted ears, sneaking through forests like mini lynxes on tiptoe.",
+      "status": "keep"
+    },
+    {
+      "id": "border_collie",
+      "score": 88,
+      "rewritten": true,
+      "en": "Border collies are brainy herders that use a laser-stare to guide sheep—like furry air-traffic controllers on the farm.",
+      "status": "keep"
+    },
+    {
+      "id": "bottlenose_dolphin",
+      "score": 88,
+      "rewritten": false,
+      "en": "Dolphins call each other by signature whistles—each has a unique name!",
+      "status": "keep"
+    },
+    {
+      "id": "bowhead_whale",
+      "score": 88,
+      "rewritten": false,
+      "en": "Bowheads may live over 200 years—the oldest mammals on Earth!",
+      "status": "keep"
+    },
+    {
+      "id": "boxfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Boxfish swim in tiny armored boxes with puckered lips, wiggling through reefs like little underwater robots.",
+      "status": "keep"
+    },
+    {
+      "id": "brain_coral",
+      "score": 88,
+      "rewritten": true,
+      "en": "Brain corals grow wrinkly mounds that look like giant thinking caps, building reef cities one bump at a time.",
+      "status": "keep"
+    },
+    {
+      "id": "brisingid_starfish",
+      "score": 92,
+      "rewritten": true,
+      "en": "Brisingid starfish lift many arms into the current like a feather duster, catching drifting snacks in the deep dark.",
+      "status": "keep"
+    },
+    {
+      "id": "brown_bear",
+      "score": 88,
+      "rewritten": false,
+      "en": "Brown bears catch salmon leaping up waterfalls—nature's ultimate fishing show!",
+      "status": "keep"
+    },
+    {
+      "id": "bush_baby",
+      "score": 88,
+      "rewritten": false,
+      "en": "Bush babies leap 6 ft between branches with huge eyes like night goggles!",
+      "status": "keep"
+    },
+    {
+      "id": "butterflyfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Butterflyfish swim in bright pairs through coral, flashing stripes like underwater butterflies on a date.",
+      "status": "keep"
+    },
+    {
+      "id": "cacomistle",
+      "score": 92,
+      "rewritten": true,
+      "en": "The cacomistle tiptoes on branches at night, using its ringed tail like a balance rope in a fuzzy circus act.",
+      "status": "keep"
+    },
+    {
+      "id": "capuchin_monkey",
+      "score": 88,
+      "rewritten": false,
+      "en": "Capuchins use rocks to crack nuts—little monkeys with stone hammers!",
+      "status": "keep"
+    },
+    {
+      "id": "cardinal",
+      "score": 88,
+      "rewritten": false,
+      "en": "Male cardinals wear bright red feathers like feathered superheroes at feeders!",
+      "status": "keep"
+    },
+    {
+      "id": "caribou",
+      "score": 88,
+      "rewritten": false,
+      "en": "Caribou herds migrate farther than any land mammal—thousands of miles a year!",
+      "status": "keep"
+    },
+    {
+      "id": "chameleon",
+      "score": 88,
+      "rewritten": false,
+      "en": "Chameleons shoot tongues faster than you blink to catch bugs!",
+      "status": "keep"
+    },
+    {
+      "id": "chicken",
+      "score": 83,
+      "rewritten": false,
+      "en": "Chickens can remember over 100 faces—including yours—and they talk to each other with more than 30 different clucks!",
+      "status": "keep"
+    },
+    {
+      "id": "chimaera",
+      "score": 92,
+      "rewritten": true,
+      "en": "Chimaeras are “ghost sharks” from deep water, with smooth bodies and strange snouts that make them look like ancient ocean secrets.",
+      "status": "keep"
+    },
+    {
+      "id": "chimpanzee",
+      "score": 88,
+      "rewritten": false,
+      "en": "Chimps use sticks as tools to fish termites—wild scientists with snacks!",
+      "status": "keep"
+    },
+    {
+      "id": "chipmunk",
+      "score": 88,
+      "rewritten": false,
+      "en": "Chipmunks stuff cheeks with nuts until they look like furry footballs!",
+      "status": "keep"
+    },
+    {
+      "id": "civet",
+      "score": 88,
+      "rewritten": false,
+      "en": "Civets smell like popcorn from scent glands—stinky but surprisingly snacky!",
+      "status": "keep"
+    },
+    {
+      "id": "cleaner_shrimp",
+      "score": 88,
+      "rewritten": true,
+      "en": "Cleaner shrimp run fish spas, picking off itchy parasites while customers hold still for a free tickle clean.",
+      "status": "keep"
+    },
+    {
+      "id": "clownfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Clownfish live safely in stinging anemones—best friends with a squishy fortress!",
+      "status": "keep"
+    },
+    {
+      "id": "cockatiel",
+      "score": 93,
+      "rewritten": false,
+      "en": "Cockatiels sport crest mohawks that rise when surprised or happy!",
+      "status": "keep"
+    },
+    {
+      "id": "coffinfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Coffinfish inflate like spiky balloons and walk on fin-feet on the seafloor!",
+      "status": "keep"
+    },
+    {
+      "id": "colossal_squid",
+      "score": 88,
+      "rewritten": false,
+      "en": "Colossal squids have swiveling hooks on tentacles—the kraken is real!",
+      "status": "keep"
+    },
+    {
+      "id": "comb_jelly",
+      "score": 88,
+      "rewritten": false,
+      "en": "Comb jellies rainbow-pulse rows of cilia like living fiber-optic ribbons!",
+      "status": "keep"
+    },
+    {
+      "id": "conch_snail",
+      "score": 88,
+      "rewritten": false,
+      "en": "Conchs have a shiny pink interior and a long eye stalk that peeks around!",
+      "status": "keep"
+    },
+    {
+      "id": "cookiecutter_shark",
+      "score": 88,
+      "rewritten": false,
+      "en": "Cookiecutter sharks bite round plugs out of whales, submarines, and even sonar!",
+      "status": "keep"
+    },
+    {
+      "id": "cow",
+      "score": 92,
+      "rewritten": false,
+      "en": "Cows have four stomachs, so they can turn grass into energy like a super-powered salad factory!",
+      "status": "keep"
+    },
+    {
+      "id": "coyote",
+      "score": 88,
+      "rewritten": true,
+      "en": "Coyotes yip and howl from forests to city parks, proving you can be wild, clever, and still find dinner anywhere.",
+      "status": "keep"
+    },
+    {
+      "id": "cusk_eel",
+      "score": 93,
+      "rewritten": true,
+      "en": "Cusk eels hide in muddy burrows like ribbon ninjas, peeking out with wiggly heads to ambush passing snacks.",
+      "status": "keep"
+    },
+    {
+      "id": "cuttlefish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Cuttlefish ripple colors across their skin like living TV screens!",
+      "status": "keep"
+    },
+    {
+      "id": "deep_sea_amphipod",
+      "score": 92,
+      "rewritten": true,
+      "en": "Deep-sea amphipods bounce along the seafloor like alien popcorn, munching whatever tasty crumbs drift down from above.",
+      "status": "keep"
+    },
+    {
+      "id": "deep_sea_cucumber",
+      "score": 88,
+      "rewritten": false,
+      "en": "Some deep sea cucumbers glow when touched—living glow sticks of the abyss!",
+      "status": "keep"
+    },
+    {
+      "id": "deep_sea_jellyfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Deep sea jellies drift like glowing ghosts with tentacles longer than buses!",
+      "status": "keep"
+    },
+    {
+      "id": "donkey",
+      "score": 88,
+      "rewritten": false,
+      "en": "Donkeys have huge ears that work like satellite dishes—they hear danger from far away!",
+      "status": "keep"
+    },
+    {
+      "id": "dragonfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Dragonfish flash red and blue lights invisible to most prey—secret night vision battle!",
+      "status": "keep"
+    },
+    {
+      "id": "duck",
+      "score": 88,
+      "rewritten": false,
+      "en": "Ducks have waterproof feathers—special oil from a gland near the tail keeps them dry underwater!",
+      "status": "keep"
+    },
+    {
+      "id": "dumbo_octopus",
+      "score": 88,
+      "rewritten": false,
+      "en": "Dumbo octopuses flap ear fins like Disney elephants in the abyss!",
+      "status": "keep"
+    },
+    {
+      "id": "eagle",
+      "score": 88,
+      "rewritten": true,
+      "en": "Eagles spot tiny prey from skyscraper heights, then dive with talons that grip harder than your strongest handshake.",
+      "status": "keep"
+    },
+    {
+      "id": "elephant",
+      "score": 88,
+      "rewritten": true,
+      "en": "An elephant’s trunk has thousands of muscles, so it can pick up a peanut, spray a shower, or give a gentle high-five.",
+      "status": "keep"
+    },
+    {
+      "id": "elephant_seal",
+      "score": 88,
+      "rewritten": false,
+      "en": "Male elephant seals roar and jiggle noses in epic beach battles!",
+      "status": "keep"
+    },
+    {
+      "id": "elk",
+      "score": 88,
+      "rewritten": false,
+      "en": "Male elk bugle in fall—a wild trumpet call that echoes through mountains!",
+      "status": "keep"
+    },
+    {
+      "id": "emperor_penguin",
+      "score": 88,
+      "rewritten": false,
+      "en": "Emperor dads balance eggs on feet for two months in Antarctic blizzards!",
+      "status": "keep"
+    },
+    {
+      "id": "ermine",
+      "score": 92,
+      "rewritten": false,
+      "en": "Ermine wear a snowy white coat in winter with a black-tipped tail like a paintbrush!",
+      "status": "keep"
+    },
+    {
+      "id": "faceless_cusk",
+      "score": 97,
+      "rewritten": true,
+      "en": "The faceless cusk seems to have no face because its mouth hides underneath, like a deep-sea trapdoor full of surprises.",
+      "status": "keep"
+    },
+    {
+      "id": "falcon",
+      "score": 88,
+      "rewritten": false,
+      "en": "Peregrine falcons dive faster than race cars—over 200 mph!",
+      "status": "keep"
+    },
+    {
+      "id": "fangtooth",
+      "score": 88,
+      "rewritten": true,
+      "en": "Fangtooth fish pack the biggest teeth for their size in the ocean—a grin that could win a scary contest.",
+      "status": "keep"
+    },
+    {
+      "id": "fennec_fox",
+      "score": 88,
+      "rewritten": false,
+      "en": "Fennec foxes have giant ears that radiate heat and hear beetles under sand!",
+      "status": "keep"
+    },
+    {
+      "id": "ferret",
+      "score": 88,
+      "rewritten": false,
+      "en": "Ferrets do a happy 'war dance'—bouncing and bumping when they're super excited!",
+      "status": "keep"
+    },
+    {
+      "id": "fiddler_crab",
+      "score": 92,
+      "rewritten": false,
+      "en": "Male fiddler crabs wave one giant claw like a violin bow to impress friends!",
+      "status": "keep"
+    },
+    {
+      "id": "firefly",
+      "score": 88,
+      "rewritten": false,
+      "en": "Fireflies blink bioluminescent codes to find friends on summer nights!",
+      "status": "keep"
+    },
+    {
+      "id": "flashlight_fish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Flashlight fish have glowing spots under their eyes—they blink lights to talk!",
+      "status": "keep"
+    },
+    {
+      "id": "flounder",
+      "score": 88,
+      "rewritten": true,
+      "en": "Flounders begin life with eyes on both sides, then one eye slides over for the ultimate fish makeover.",
+      "status": "keep"
+    },
+    {
+      "id": "frilled_shark",
+      "score": 88,
+      "rewritten": false,
+      "en": "Frilled sharks look like sea serpents with frilly gill slits!",
+      "status": "keep"
+    },
+    {
+      "id": "fruit_bat",
+      "score": 88,
+      "rewritten": true,
+      "en": "Fruit bats spread seeds and pollen as they fly, helping new trees grow—like night gardeners with wings.",
+      "status": "keep"
+    },
+    {
+      "id": "gecko",
+      "score": 88,
+      "rewritten": false,
+      "en": "Geckos stick to ceilings with toe pads so sticky they can hold your weight scaled down!",
+      "status": "keep"
+    },
+    {
+      "id": "genet",
+      "score": 92,
+      "rewritten": true,
+      "en": "A genet is a night-time tree acrobat, sliding and leaping with a long striped tail that looks like a sneaky balance pole.",
+      "status": "keep"
+    },
+    {
+      "id": "ghost_shark",
+      "score": 92,
+      "rewritten": true,
+      "en": "Ghost sharks glide through deep reefs with spooky eyes and plate teeth, looking like ancient fish from a midnight story.",
+      "status": "keep"
+    },
+    {
+      "id": "giant_clam",
+      "score": 88,
+      "rewritten": false,
+      "en": "Giant clams shimmer with algae gardens inside their shells—living rainbows!",
+      "status": "keep"
+    },
+    {
+      "id": "giant_squid",
+      "score": 88,
+      "rewritten": true,
+      "en": "Giant squids battle sperm whales in the deep, turning the dark ocean into a real-life legend book.",
+      "status": "keep"
+    },
+    {
+      "id": "giant_tube_worm",
+      "score": 88,
+      "rewritten": false,
+      "en": "Giant tube worms live at boiling deep vents with no gut—bacteria feed them!",
+      "status": "keep"
+    },
+    {
+      "id": "glass_sponge",
+      "score": 88,
+      "rewritten": true,
+      "en": "Glass sponges build lacy skeletons from silica that look like spun-glass sculptures—fancy houses for deep water.",
+      "status": "keep"
+    },
+    {
+      "id": "goat",
+      "score": 88,
+      "rewritten": false,
+      "en": "Goats are amazing climbers—they can scale steep cliffs and even balance on tiny ledges!",
+      "status": "keep"
+    },
+    {
+      "id": "goblin_shark",
+      "score": 92,
+      "rewritten": false,
+      "en": "Goblin sharks shoot jaws forward like alien monsters—living fossils!",
+      "status": "keep"
+    },
+    {
+      "id": "golden_retriever",
+      "score": 88,
+      "rewritten": true,
+      "en": "Golden retrievers fetch like champions and greet people with whole-body wags, as if happiness has a tail and fluffy ears.",
+      "status": "keep"
+    },
+    {
+      "id": "goldfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Goldfish remember feeding tricks for months, busting the myth that they forget everything in three seconds flat.",
+      "status": "keep"
+    },
+    {
+      "id": "goose",
+      "score": 88,
+      "rewritten": false,
+      "en": "Geese fly in a V formation so friends up front block wind for friends behind—teamwork in the sky!",
+      "status": "keep"
+    },
+    {
+      "id": "gorilla",
+      "score": 88,
+      "rewritten": false,
+      "en": "Gorillas beat their chests to show strength—but they also giggle when tickled!",
+      "status": "keep"
+    },
+    {
+      "id": "great_horned_owl",
+      "score": 88,
+      "rewritten": false,
+      "en": "Great horned owls have ear tufts like horns and can carry prey heavier than themselves!",
+      "status": "keep"
+    },
+    {
+      "id": "great_white_shark",
+      "score": 88,
+      "rewritten": false,
+      "en": "Great whites breach like missiles launching at seals!",
+      "status": "keep"
+    },
+    {
+      "id": "green_iguana",
+      "score": 88,
+      "rewritten": false,
+      "en": "Green iguanas can drop their tails when grabbed—it wiggles while they escape!",
+      "status": "keep"
+    },
+    {
+      "id": "grenadier_fish",
+      "score": 92,
+      "rewritten": true,
+      "en": "Grenadier fish cruise the abyss with giant heads and rat-long tails, looking like a wiggly ribbon that forgot to stop growing.",
+      "status": "keep"
+    },
+    {
+      "id": "guinea_pig",
+      "score": 88,
+      "rewritten": false,
+      "en": "Guinea pigs pop and whistle when excited—they're tiny chat machines with fur!",
+      "status": "keep"
+    },
+    {
+      "id": "gulper_eel",
+      "score": 88,
+      "rewritten": false,
+      "en": "Gulper eels swallow prey bigger than themselves—living parachute mouths!",
+      "status": "keep"
+    },
+    {
+      "id": "hammerhead_shark",
+      "score": 88,
+      "rewritten": false,
+      "en": "Hammerhead sharks have T-shaped heads that work like stereo sonar!",
+      "status": "keep"
+    },
+    {
+      "id": "hamster",
+      "score": 88,
+      "rewritten": false,
+      "en": "Hamsters stuff food into cheek pouches that stretch all the way to their shoulders—nature's grocery bags!",
+      "status": "keep"
+    },
+    {
+      "id": "harbor_seal",
+      "score": 88,
+      "rewritten": false,
+      "en": "Harbor seals banana-pose on rocks to keep flippers dry and warm!",
+      "status": "keep"
+    },
+    {
+      "id": "harp_seal",
+      "score": 88,
+      "rewritten": false,
+      "en": "Harp seal pups have fluffy white coats for two weeks—snowball babies on ice!",
+      "status": "keep"
+    },
+    {
+      "id": "hatchetfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Hatchetfish are shaped like silver hatchets with glowing bellies, flashing lights to chat in the midnight sea.",
+      "status": "keep"
+    },
+    {
+      "id": "hawk",
+      "score": 88,
+      "rewritten": false,
+      "en": "Hawks see eight times sharper than humans—they spot a mouse from a skyscraper height!",
+      "status": "keep"
+    },
+    {
+      "id": "hedgehog",
+      "score": 92,
+      "rewritten": false,
+      "en": "When scared, hedgehogs roll into a spiky ball—like a living pin cushion!",
+      "status": "keep"
+    },
+    {
+      "id": "hermit_crab",
+      "score": 88,
+      "rewritten": false,
+      "en": "Hermit crabs swap shells as they grow—mobile homes on the beach!",
+      "status": "keep"
+    },
+    {
+      "id": "horse",
+      "score": 88,
+      "rewritten": false,
+      "en": "Horses can sleep standing up thanks to a special lock in their legs—like built-in kickstands!",
+      "status": "keep"
+    },
+    {
+      "id": "horseshoe_crab",
+      "score": 88,
+      "rewritten": true,
+      "en": "Horseshoe crabs are older than dinosaurs, and their blue blood helps doctors check if medicines and tools are safe.",
+      "status": "keep"
+    },
+    {
+      "id": "howler_monkey",
+      "score": 88,
+      "rewritten": false,
+      "en": "Howler monkeys have the loudest call of any land animal—it can be heard 3 miles away!",
+      "status": "keep"
+    },
+    {
+      "id": "hummingbird",
+      "score": 88,
+      "rewritten": false,
+      "en": "Hummingbirds hover like helicopters and their wings buzz at 80 beats per second!",
+      "status": "keep"
+    },
+    {
+      "id": "hyena",
+      "score": 88,
+      "rewritten": false,
+      "en": "Hyena giggles sound spooky but mean they're excited during a meal!",
+      "status": "keep"
+    },
+    {
+      "id": "jaguar",
+      "score": 88,
+      "rewritten": false,
+      "en": "Jaguars have rosette spots and bite so strong they crack turtle shells!",
+      "status": "keep"
+    },
+    {
+      "id": "japanese_spider_crab",
+      "score": 88,
+      "rewritten": true,
+      "en": "Japanese spider crabs stretch legs wider than a car, earning the title of world’s widest crustacean superstar.",
+      "status": "keep"
+    },
+    {
+      "id": "jellyfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Jellyfish drift without bones or brains, pulsing like living lava lamps that sting if you boop the wrong tentacle.",
+      "status": "keep"
+    },
+    {
+      "id": "jerboa",
+      "score": 88,
+      "rewritten": false,
+      "en": "Jerboas bounce on kangaroo legs and barely use front paws—desert pogo sticks!",
+      "status": "keep"
+    },
+    {
+      "id": "kinkajou",
+      "score": 88,
+      "rewritten": false,
+      "en": "Kinkajous hang upside down to eat honey—they're rainforest honey bears!",
+      "status": "keep"
+    },
+    {
+      "id": "koala",
+      "score": 88,
+      "rewritten": true,
+      "en": "Koalas hug eucalyptus trees and nap up to 20 hours, saving energy like fluffy little phone chargers that sleep most of the day.",
+      "status": "keep"
+    },
+    {
+      "id": "krill",
+      "score": 88,
+      "rewritten": true,
+      "en": "Krill gather in giant pink swarms that feed whales, fish, and penguins—tiny shrimps with a huge job in the food chain.",
+      "status": "keep"
+    },
+    {
+      "id": "krill_antarctic",
+      "score": 88,
+      "rewritten": true,
+      "en": "Antarctic krill swarm in pink clouds so huge that satellites can spot them from space—ocean glitter with legs.",
+      "status": "keep"
+    },
+    {
+      "id": "lanternfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Lanternfish sparkle with belly lights in the deep sea, and there are so many they might be the most common fish on Earth.",
+      "status": "keep"
+    },
+    {
+      "id": "leafcutter_ant",
+      "score": 88,
+      "rewritten": false,
+      "en": "Leafcutter ants march carrying leaf pieces like tiny green sails!",
+      "status": "keep"
+    },
+    {
+      "id": "lemming",
+      "score": 88,
+      "rewritten": false,
+      "en": "Lemmings don't really jump off cliffs—they boom and bust in population cycles!",
+      "status": "keep"
+    },
+    {
+      "id": "lemur",
+      "score": 88,
+      "rewritten": false,
+      "en": "Ring-tailed lemurs sunbathe sitting yoga-style with arms out—warming up together!",
+      "status": "keep"
+    },
+    {
+      "id": "leopard",
+      "score": 88,
+      "rewritten": false,
+      "en": "Leopards drag prey up trees—dinner with a view away from lions!",
+      "status": "keep"
+    },
+    {
+      "id": "leopard_seal",
+      "score": 88,
+      "rewritten": true,
+      "en": "Leopard seals have spotted coats and grinning faces, ruling icy waters as top hunters with a splash of drama.",
+      "status": "keep"
+    },
+    {
+      "id": "lion",
+      "score": 88,
+      "rewritten": false,
+      "en": "A lion's roar can be heard 5 miles away—it shakes the savannah!",
+      "status": "keep"
+    },
+    {
+      "id": "lionfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Lionfish fan venomous spines like underwater lions with fancy manes!",
+      "status": "keep"
+    },
+    {
+      "id": "lizardfish",
+      "score": 93,
+      "rewritten": true,
+      "en": "Lizardfish bury in sand with only eyes showing, then SNAP—one fast bite turns a passing fish into lunch.",
+      "status": "keep"
+    },
+    {
+      "id": "llama",
+      "score": 89,
+      "rewritten": true,
+      "en": "Llamas hum when they’re happy, a soft song that sounds like a fuzzy friend saying ‘life is good today.’",
+      "status": "keep"
+    },
+    {
+      "id": "lobster",
+      "score": 88,
+      "rewritten": true,
+      "en": "Lobsters taste with their legs and can live longer than a century—clawed grandmas of the seafloor.",
+      "status": "keep"
+    },
+    {
+      "id": "lynx",
+      "score": 88,
+      "rewritten": false,
+      "en": "Lynx have snowshoe paws and black ear tufts like built-in antennae!",
+      "status": "keep"
+    },
+    {
+      "id": "macaw",
+      "score": 88,
+      "rewritten": false,
+      "en": "Macaws flash rainbow feathers and mate for life—flying jewels!",
+      "status": "keep"
+    },
+    {
+      "id": "manatee",
+      "score": 88,
+      "rewritten": true,
+      "en": "Manatees are gentle giants that munch seagrass for hours and sometimes give friends a slow-motion hug with their flippers.",
+      "status": "keep"
+    },
+    {
+      "id": "mandarinfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Mandarinfish shimmer with psychedelic colors—tiny dragons of the reef!",
+      "status": "keep"
+    },
+    {
+      "id": "manta_ray",
+      "score": 88,
+      "rewritten": false,
+      "en": "Manta rays glide like flying carpets and leap entirely out of the water!",
+      "status": "keep"
+    },
+    {
+      "id": "mariana_snailfish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Mariana snailfish live deeper than any other fish—almost 27,000 feet down, where the pressure could squish a truck.",
+      "status": "keep"
+    },
+    {
+      "id": "mole",
+      "score": 88,
+      "rewritten": false,
+      "en": "Moles are champion diggers—they can tunnel 18 ft in one hour underground!",
+      "status": "keep"
+    },
+    {
+      "id": "monophore",
+      "score": 93,
+      "rewritten": true,
+      "en": "The monophore snail vanished from science for decades, then popped up alive again—like the deep sea’s surprise comeback star!",
+      "status": "keep"
+    },
+    {
+      "id": "moorish_idol",
+      "score": 88,
+      "rewritten": true,
+      "en": "Moorish idols trail a long ribbon fin behind them, swimming like dressed-up reef royalty in a fancy underwater parade.",
+      "status": "keep"
+    },
+    {
+      "id": "moose",
+      "score": 88,
+      "rewritten": false,
+      "en": "Moose antlers can span 6 ft—wider than most cars!",
+      "status": "keep"
+    },
+    {
+      "id": "moray_eel",
+      "score": 88,
+      "rewritten": true,
+      "en": "Moray eels open and close their mouths to breathe—it looks scary, but it’s just underwater gulping, not a mean face.",
+      "status": "keep"
+    },
+    {
+      "id": "moth",
+      "score": 88,
+      "rewritten": true,
+      "en": "Some moths wear disguise wings that copy wasps or owl eyes, throwing a costume party to trick hungry hunters.",
+      "status": "keep"
+    },
+    {
+      "id": "mouse",
+      "score": 88,
+      "rewritten": true,
+      "en": "Mice whiskers feel the world like radar, helping them zip through dark walls without bumping into trouble.",
+      "status": "keep"
+    },
+    {
+      "id": "mule",
+      "score": 92,
+      "rewritten": true,
+      "en": "A mule is a horse-donkey mix with super steady feet, built to climb rocky trails like a mountain helper on four hooves.",
+      "status": "keep"
+    },
+    {
+      "id": "musk_ox",
+      "score": 88,
+      "rewritten": false,
+      "en": "Musk oxen circle babies in a shield wall when wolves attack—living fortress!",
+      "status": "keep"
+    },
+    {
+      "id": "mussel",
+      "score": 88,
+      "rewritten": true,
+      "en": "Mussels make super-sticky threads to glue themselves to rocks, holding on through waves like underwater Velcro.",
+      "status": "keep"
+    },
+    {
+      "id": "napoleon_wrasse",
+      "score": 88,
+      "rewritten": true,
+      "en": "Napoleon wrasse are reef giants with bumpy foreheads, and divers say some even come close like curious underwater puppies.",
+      "status": "keep"
+    },
+    {
+      "id": "narwhal",
+      "score": 88,
+      "rewritten": false,
+      "en": "Narwhals grow unicorn tusks up to 10 ft—the tusk is actually a spiral tooth!",
+      "status": "keep"
+    },
+    {
+      "id": "nautilus",
+      "score": 88,
+      "rewritten": false,
+      "en": "Nautiluses are living fossils with beautiful spiral shells and 90 tentacles!",
+      "status": "keep"
+    },
+    {
+      "id": "nudibranch",
+      "score": 88,
+      "rewritten": false,
+      "en": "Sea slugs wear rainbow colors and some steal stinging cells from jellyfish!",
+      "status": "keep"
+    },
+    {
+      "id": "oarfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Oarfish are ribbon-thin sea serpents that wash ashore and start sea monster legends!",
+      "status": "keep"
+    },
+    {
+      "id": "octopus",
+      "score": 88,
+      "rewritten": false,
+      "en": "Octopuses have three hearts and blue blood—and solve puzzles to open jars!",
+      "status": "keep"
+    },
+    {
+      "id": "okapi",
+      "score": 88,
+      "rewritten": false,
+      "en": "Okapis have zebra stripes on legs but are giraffe relatives—forest giraffes in disguise!",
+      "status": "keep"
+    },
+    {
+      "id": "opossum",
+      "score": 88,
+      "rewritten": false,
+      "en": "Opossums play dead so convincingly that predators walk away—ultimate pretend nap!",
+      "status": "keep"
+    },
+    {
+      "id": "orangutan",
+      "score": 88,
+      "rewritten": true,
+      "en": "Orangutans build fresh leaf nests to sleep in, like forest architects making a new bed in the treetops each night.",
+      "status": "keep"
+    },
+    {
+      "id": "orca",
+      "score": 88,
+      "rewritten": true,
+      "en": "Orcas wear black-and-white tuxedo coats and hunt in tight family pods, chatting with clicks that sound like underwater Morse code.",
+      "status": "keep"
+    },
+    {
+      "id": "oyster",
+      "score": 88,
+      "rewritten": true,
+      "en": "Oysters can switch from female to male (and sometimes back), a real ocean trick that helps their shell-family make more babies.",
+      "status": "keep"
+    },
+    {
+      "id": "pangolin",
+      "score": 88,
+      "rewritten": false,
+      "en": "Pangolins roll into scaly balls—real-life dragon eggs with legs!",
+      "status": "keep"
+    },
+    {
+      "id": "parakeet",
+      "score": 88,
+      "rewritten": true,
+      "en": "Parakeets chatter in whistles and beeps, copying sounds like tiny feathered DJs remixing the room all day.",
+      "status": "keep"
+    },
+    {
+      "id": "parrot",
+      "score": 88,
+      "rewritten": true,
+      "en": "Parrots copy sounds, crack puzzles, and laugh like feathered comedians who never forget a favorite word.",
+      "status": "keep"
+    },
+    {
+      "id": "parrotfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Parrotfish crunch coral with beak teeth and poop sand—beach builders!",
+      "status": "keep"
+    },
+    {
+      "id": "pelican",
+      "score": 88,
+      "rewritten": false,
+      "en": "Pelicans scoop fish in huge bill pouches that hold 3 gallons of water!",
+      "status": "keep"
+    },
+    {
+      "id": "penguin",
+      "score": 88,
+      "rewritten": true,
+      "en": "Penguins can’t fly in air, but they rocket through water like torpedoes, steering with stiff wings and happy feet.",
+      "status": "keep"
+    },
+    {
+      "id": "pig",
+      "score": 82,
+      "rewritten": false,
+      "en": "Pigs are super smart—some studies say they learn tricks as fast as dogs and even enjoy playtime!",
+      "status": "keep"
+    },
+    {
+      "id": "ping_pong_tree_sponge",
+      "score": 88,
+      "rewritten": true,
+      "en": "Ping-pong tree sponges stack round balls like deep-sea Jenga, filtering the water all day to catch tiny snacks.",
+      "status": "keep"
+    },
+    {
+      "id": "plankton",
+      "score": 88,
+      "rewritten": true,
+      "en": "Ocean plankton may be tiny, but it helps make about half the oxygen you breathe—floating mini air-factories everywhere!",
+      "status": "keep"
+    },
+    {
+      "id": "poison_dart_frog",
+      "score": 85,
+      "rewritten": false,
+      "en": "Tiny poison dart frogs wear neon colors that shout 'Don't eat me!'",
+      "status": "keep"
+    },
+    {
+      "id": "polar_bear",
+      "score": 88,
+      "rewritten": false,
+      "en": "Polar bears have black skin under white fur—sun heats them like solar panels!",
+      "status": "keep"
+    },
+    {
+      "id": "pony",
+      "score": 88,
+      "rewritten": true,
+      "en": "Ponies may be small, but they are tough workers, pulling carts and carrying riders with strong legs that never quit.",
+      "status": "keep"
+    },
+    {
+      "id": "porcupine",
+      "score": 88,
+      "rewritten": false,
+      "en": "Porcupines have 30,000 quills—each one a tiny spiky umbrella for protection!",
+      "status": "keep"
+    },
+    {
+      "id": "pot_bellied_pig",
+      "score": 82,
+      "rewritten": true,
+      "en": "Pot-bellied pigs love belly rubs and can learn names and tricks fast, proving that “farm cute” can also be super smart.",
+      "status": "keep"
+    },
+    {
+      "id": "ptarmigan",
+      "score": 88,
+      "rewritten": true,
+      "en": "Ptarmigan swap to snow-white feathers in winter and grow extra feathery snowshoes on their feet for fluffy tundra walks.",
+      "status": "keep"
+    },
+    {
+      "id": "pufferfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Pufferfish puff up like spiky balloons when scared—don't-pop ocean balls!",
+      "status": "keep"
+    },
+    {
+      "id": "puffin",
+      "score": 88,
+      "rewritten": false,
+      "en": "Puffins carry dozens of fish crosswise in colorful beaks—clown birds of the sea!",
+      "status": "keep"
+    },
+    {
+      "id": "python",
+      "score": 88,
+      "rewritten": false,
+      "en": "Pythons have stretchy jaws that open wide enough to swallow deer!",
+      "status": "keep"
+    },
+    {
+      "id": "rabbit",
+      "score": 92,
+      "rewritten": true,
+      "en": "Rabbits cool off through their big ears and can boing three feet high—like a furry pogo stick with a cotton tail.",
+      "status": "keep"
+    },
+    {
+      "id": "raccoon",
+      "score": 88,
+      "rewritten": false,
+      "en": "Raccoons wash food in water—even when there's no water, they still 'wash'!",
+      "status": "keep"
+    },
+    {
+      "id": "rat",
+      "score": 88,
+      "rewritten": false,
+      "en": "Rats giggle when tickled—scientists hear it with special microphones!",
+      "status": "keep"
+    },
+    {
+      "id": "red_eyed_tree_frog",
+      "score": 93,
+      "rewritten": false,
+      "en": "When scared they flash giant red eyes and orange feet—surprise superhero reveal!",
+      "status": "keep"
+    },
+    {
+      "id": "red_fox",
+      "score": 88,
+      "rewritten": false,
+      "en": "Foxes use Earth's magnetic field to aim pounces through snow at hidden mice!",
+      "status": "keep"
+    },
+    {
+      "id": "reef_shark",
+      "score": 88,
+      "rewritten": true,
+      "en": "Reef sharks zip through coral alleys like quiet lifeguards, keeping the reef healthy by chasing sick fish away.",
+      "status": "keep"
+    },
+    {
+      "id": "reindeer",
+      "score": 88,
+      "rewritten": true,
+      "en": "Reindeer hooves spread like snowshoes, helping them walk on soft snow, and their noses warm icy air before each breath.",
+      "status": "keep"
+    },
+    {
+      "id": "river_otter",
+      "score": 88,
+      "rewritten": false,
+      "en": "River otters slide on snow and mud for fun—nature's playground slides!",
+      "status": "keep"
+    },
+    {
+      "id": "rockhopper_penguin",
+      "score": 88,
+      "rewritten": false,
+      "en": "Rockhoppers hop up cliffs with spiky yellow crests like punk rock feathers!",
+      "status": "keep"
+    },
+    {
+      "id": "rooster",
+      "score": 92,
+      "rewritten": true,
+      "en": "A rooster’s sunrise crow can travel far, like a feathered alarm clock announcing morning to the whole neighborhood.",
+      "status": "keep"
+    },
+    {
+      "id": "salamander",
+      "score": 88,
+      "rewritten": false,
+      "en": "Salamanders can regrow legs and tails—superhero amphibians!",
+      "status": "keep"
+    },
+    {
+      "id": "sand_dollar",
+      "score": 88,
+      "rewritten": true,
+      "en": "Sand dollars are flat urchins with tiny hairs that move them slowly, like living coins crawling across the seafloor.",
+      "status": "keep"
+    },
+    {
+      "id": "scallop",
+      "score": 88,
+      "rewritten": false,
+      "en": "Scallops swim by clapping their shells together—jet-powered shellfish!",
+      "status": "keep"
+    },
+    {
+      "id": "scorpion",
+      "score": 88,
+      "rewritten": false,
+      "en": "Scorpions glow green under UV light—secret disco armor!",
+      "status": "keep"
+    },
+    {
+      "id": "sea_anemone",
+      "score": 88,
+      "rewritten": false,
+      "en": "Sea anemones look like flowers but sting like traps—pretty and powerful!",
+      "status": "keep"
+    },
+    {
+      "id": "sea_angel",
+      "score": 88,
+      "rewritten": false,
+      "en": "Sea angels flutter wing-like fins—they look like glowing fairies in icy water!",
+      "status": "keep"
+    },
+    {
+      "id": "sea_fan",
+      "score": 88,
+      "rewritten": true,
+      "en": "Sea fans wave in the current like lace curtains, catching tiny snacks while doing an underwater ballet.",
+      "status": "keep"
+    },
+    {
+      "id": "sea_lion",
+      "score": 92,
+      "rewritten": false,
+      "en": "Sea lions bark and clap their flippers on rocks like aquatic performers!",
+      "status": "keep"
+    },
+    {
+      "id": "sea_otter",
+      "score": 88,
+      "rewritten": false,
+      "en": "Sea otters float on backs cracking shellfish with rocks—cute tool users!",
+      "status": "keep"
+    },
+    {
+      "id": "sea_pen",
+      "score": 85,
+      "rewritten": true,
+      "en": "Sea pens stand on the seafloor like old feather quills, swaying together when the current says ‘dance.’",
+      "status": "keep"
+    },
+    {
+      "id": "sea_pig",
+      "score": 88,
+      "rewritten": true,
+      "en": "Sea pigs waddle on tube feet across the abyss, looking like pink potatoes that grew legs and joined a marching band.",
+      "status": "keep"
+    },
+    {
+      "id": "sea_sponge",
+      "score": 88,
+      "rewritten": true,
+      "en": "Sea sponges have no brain or bones, yet they pump and filter tons of water, slurping tiny food like living kitchen sponges.",
+      "status": "keep"
+    },
+    {
+      "id": "sea_turtle",
+      "score": 88,
+      "rewritten": true,
+      "en": "Sea turtles navigate for decades and return to the same beach where they hatched—GPS hearts with flippers.",
+      "status": "keep"
+    },
+    {
+      "id": "sea_urchin",
+      "score": 88,
+      "rewritten": true,
+      "en": "Sea urchins are spiky pincushions that graze algae with a five-tooth mouth hidden under all those needles.",
+      "status": "keep"
+    },
+    {
+      "id": "seagull",
+      "score": 88,
+      "rewritten": false,
+      "en": "Seagulls drop clams on rocks to crack them—smart beach chefs!",
+      "status": "keep"
+    },
+    {
+      "id": "seahorse",
+      "score": 88,
+      "rewritten": false,
+      "en": "Male seahorses carry babies in a pouch—dads do the pregnancy!",
+      "status": "keep"
+    },
+    {
+      "id": "sheep",
+      "score": 88,
+      "rewritten": true,
+      "en": "Sheep can remember faces for years, so a friendly “baa” today might still get recognized long after you’ve grown taller.",
+      "status": "keep"
+    },
+    {
+      "id": "siamese_cat",
+      "score": 88,
+      "rewritten": true,
+      "en": "Siamese cats are famous talkers, meowing like they have stories to tell, and their bright eyes make every stare feel dramatic.",
+      "status": "keep"
+    },
+    {
+      "id": "siphonophore",
+      "score": 88,
+      "rewritten": true,
+      "en": "A siphonophore looks like one animal but is a team of tiny clones linked together—an underwater buddy chain.",
+      "status": "keep"
+    },
+    {
+      "id": "six_gill_shark",
+      "score": 88,
+      "rewritten": true,
+      "en": "Six-gill sharks are ancient deep swimmers with an extra gill slit, like sharks wearing a bonus breathing pocket.",
+      "status": "keep"
+    },
+    {
+      "id": "skunk",
+      "score": 88,
+      "rewritten": false,
+      "en": "Skunks warn with stomps and tail raises before spraying stinky defense juice!",
+      "status": "keep"
+    },
+    {
+      "id": "sloth",
+      "score": 88,
+      "rewritten": false,
+      "en": "Sloths move so slowly that algae grows on their fur—walking green gardens!",
+      "status": "keep"
+    },
+    {
+      "id": "snipe_eel",
+      "score": 88,
+      "rewritten": true,
+      "en": "Snipe eels have beak-like jaws on tiny heads, curving out like deep-sea needles sewing through the dark.",
+      "status": "keep"
+    },
+    {
+      "id": "snow_goose",
+      "score": 88,
+      "rewritten": false,
+      "en": "Snow geese fly in huge white Vs that look like rivers in the sky!",
+      "status": "keep"
+    },
+    {
+      "id": "snowy_owl",
+      "score": 88,
+      "rewritten": false,
+      "en": "Snowy owls hunt in daylight on white wings—Arctic ghosts with yellow eyes!",
+      "status": "keep"
+    },
+    {
+      "id": "sperm_whale",
+      "score": 88,
+      "rewritten": false,
+      "en": "Sperm whales dive 3,000 ft hunting giant squid—deep-sea monster battles!",
+      "status": "keep"
+    },
+    {
+      "id": "spider_monkey",
+      "score": 88,
+      "rewritten": false,
+      "en": "Spider monkeys swing by tails like fifth hands—acrobats of the jungle!",
+      "status": "keep"
+    },
+    {
+      "id": "spookfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Spookfish have mirror eyes that reflect light upward—built-in periscopes!",
+      "status": "keep"
+    },
+    {
+      "id": "squirrel",
+      "score": 88,
+      "rewritten": false,
+      "en": "Squirrels pretend to bury nuts to trick thieves—squirrel spy games!",
+      "status": "keep"
+    },
+    {
+      "id": "starfish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Starfish can regrow lost arms—some even grow a whole new body from one arm!",
+      "status": "keep"
+    },
+    {
+      "id": "stingray",
+      "score": 88,
+      "rewritten": true,
+      "en": "Stingrays hide under sand with only eyes peeking out, like shy pancakes waiting to whoosh away.",
+      "status": "keep"
+    },
+    {
+      "id": "stoat",
+      "score": 88,
+      "rewritten": false,
+      "en": "Stoats do a hopping dance to hypnotize rabbits before a chase!",
+      "status": "keep"
+    },
+    {
+      "id": "stonefish",
+      "score": 88,
+      "rewritten": false,
+      "en": "Stonefish look exactly like rocks—and have the world's most venomous fish spines!",
+      "status": "keep"
+    },
+    {
+      "id": "stoplight_loosejaw",
+      "score": 92,
+      "rewritten": true,
+      "en": "Stoplight loosejaws dangle a glowing red chin lure in the dark, like a secret snack sign only deep-sea fish can read.",
+      "status": "keep"
+    },
+    {
+      "id": "sugar_glider",
+      "score": 88,
+      "rewritten": false,
+      "en": "Sugar gliders glide through trees like furry kites using skin flaps between their legs!",
+      "status": "keep"
+    },
+    {
+      "id": "tabby_cat",
+      "score": 89,
+      "rewritten": true,
+      "en": "Tabby cats often sport an M-shaped mark on their forehead, like a tiny tiger crown saying ‘king of the couch.’",
+      "status": "keep"
+    },
+    {
+      "id": "tapir",
+      "score": 92,
+      "rewritten": true,
+      "en": "A tapir looks like a pig-elephant mix with a mini trunk, perfect for vacuuming up leaves and fruit on the forest floor.",
+      "status": "keep"
+    },
+    {
+      "id": "tarantula",
+      "score": 88,
+      "rewritten": false,
+      "en": "Tarantulas are gentle giants that flick itchy hairs when annoyed!",
+      "status": "keep"
+    },
+    {
+      "id": "tarsier",
+      "score": 88,
+      "rewritten": false,
+      "en": "Tarsiers have eyes bigger than their brain—they see perfectly in the dark!",
+      "status": "keep"
+    },
+    {
+      "id": "tasmanian_devil",
+      "score": 88,
+      "rewritten": false,
+      "en": "Tasmanian devils scream and sneeze to talk—it sounds wild but it's just chat!",
+      "status": "keep"
+    },
+    {
+      "id": "tiger_shark",
+      "score": 88,
+      "rewritten": true,
+      "en": "Tiger sharks wear stripe patterns when young and will try almost any snack—including things that definitely aren’t fish food.",
+      "status": "keep"
+    },
+    {
+      "id": "toucan",
+      "score": 88,
+      "rewritten": false,
+      "en": "Toucans have huge colorful bills that look heavy but are light as foam!",
+      "status": "keep"
+    },
+    {
+      "id": "triggerfish",
+      "score": 92,
+      "rewritten": true,
+      "en": "Triggerfish lock their dorsal spine like a safety switch, then bulldoze through reefs with feisty attitudes.",
+      "status": "keep"
+    },
+    {
+      "id": "tripod_fish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Tripod fish perch on long fin stilts on the muddy seafloor, standing still like underwater camera tripods waiting for dinner.",
+      "status": "keep"
+    },
+    {
+      "id": "trumpetfish",
+      "score": 93,
+      "rewritten": true,
+      "en": "Trumpetfish float nose-down and drift like skinny shadows, sneaking up on fish that never see the surprise coming.",
+      "status": "keep"
+    },
+    {
+      "id": "turkey",
+      "score": 88,
+      "rewritten": false,
+      "en": "Male turkeys puff up and fan their colorful tail feathers to impress friends—and rivals!",
+      "status": "keep"
+    },
+    {
+      "id": "turkey_vulture",
+      "score": 88,
+      "rewritten": true,
+      "en": "Turkey vultures sniff out meals from miles away, doing nature’s cleanup job with wings built for soaring all day.",
+      "status": "keep"
+    },
+    {
+      "id": "turtle",
+      "score": 88,
+      "rewritten": true,
+      "en": "A turtle carries its “house” on its back and can live for decades, making slow adventures that outlast many people.",
+      "status": "keep"
+    },
+    {
+      "id": "vampire_bat",
+      "score": 88,
+      "rewritten": false,
+      "en": "Vampire bats share blood meals with hungry roost-mates—real-life food sharing friends!",
+      "status": "keep"
+    },
+    {
+      "id": "vampire_squid",
+      "score": 88,
+      "rewritten": false,
+      "en": "Vampire squids turn inside out showing spiky cape when scared!",
+      "status": "keep"
+    },
+    {
+      "id": "viperfish",
+      "score": 93,
+      "rewritten": true,
+      "en": "Viperfish flash needle fangs so long they barely fit, lighting up the dark to scare snacks into surprise.",
+      "status": "keep"
+    },
+    {
+      "id": "walrus",
+      "score": 88,
+      "rewritten": false,
+      "en": "Walruses use giant tusks to pull onto ice and to hug friends in crowded haul-outs!",
+      "status": "keep"
+    },
+    {
+      "id": "weddell_seal",
+      "score": 88,
+      "rewritten": true,
+      "en": "Weddell seals sing underwater songs that bounce through Antarctic ice, like chilly karaoke stars.",
+      "status": "keep"
+    },
+    {
+      "id": "white_tailed_deer",
+      "score": 88,
+      "rewritten": false,
+      "en": "When startled, they flash white tail flags like built-in warning signals!",
+      "status": "keep"
+    },
+    {
+      "id": "wild_boar",
+      "score": 88,
+      "rewritten": false,
+      "en": "Wild boar piglets have striped coats like tiny tigers—they blend into forest shadows!",
+      "status": "keep"
+    },
+    {
+      "id": "wolf",
+      "score": 88,
+      "rewritten": false,
+      "en": "Wolf pups play tag to learn hunting skills—wild puppies at school!",
+      "status": "keep"
+    },
+    {
+      "id": "wolffish",
+      "score": 88,
+      "rewritten": true,
+      "en": "Wolffish look fierce with chunky teeth, but they gently crunch sea urchins like crackers to help the reef.",
+      "status": "keep"
+    },
+    {
+      "id": "wolverine",
+      "score": 88,
+      "rewritten": false,
+      "en": "Wolverines are small but fearless—they chase bears away from food!",
+      "status": "keep"
+    },
+    {
+      "id": "wombat",
+      "score": 88,
+      "rewritten": false,
+      "en": "Wombats poop cubes so poop doesn't roll away on hills—nature's dice!",
+      "status": "keep"
+    },
+    {
+      "id": "woodpecker",
+      "score": 88,
+      "rewritten": false,
+      "en": "Woodpeckers drum on trees 20 times a second without headaches—special shock-proof skulls!",
+      "status": "keep"
+    },
+    {
+      "id": "zombie_worm",
+      "score": 88,
+      "rewritten": true,
+      "en": "Zombie worms ooze acid to drill into whale bones, then grow roots inside—like tiny gardeners of the deep sea.",
+      "status": "keep"
+    }
+  ]
+}

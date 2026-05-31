@@ -1,0 +1,687 @@
+{
+  "version": 3,
+  "grid": {
+    "cols": 4,
+    "rows": 4,
+    "perPage": 16
+  },
+  "targetPerCategory": 30,
+  "categories": [
+    {
+      "id": "farm",
+      "title": "Farm & Domestic",
+      "subtitle": "Barnyard & home",
+      "emoji": "🚜",
+      "color": "#c4a35a",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Farm & Domestic — Page 1",
+          "animals": [
+            "cow",
+            "pig",
+            "chicken",
+            "horse",
+            "goat",
+            "sheep",
+            "duck",
+            "turkey",
+            "rooster",
+            "donkey",
+            "llama",
+            "alpaca",
+            "rabbit",
+            "goose",
+            "guinea_pig",
+            "hamster"
+          ]
+        },
+        {
+          "label": "Farm & Domestic — Page 2",
+          "animals": [
+            "ferret",
+            "mule",
+            "pony",
+            "pot_bellied_pig",
+            "mouse",
+            "rat",
+            "goldfish",
+            "hedgehog",
+            "wild_boar",
+            "opossum",
+            "sugar_glider",
+            "vampire_bat",
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forest",
+      "title": "Forest & Woods",
+      "subtitle": "Woodland life",
+      "emoji": "🌲",
+      "color": "#2d6a4f",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Forest & Woods — Page 1",
+          "animals": [
+            "black_bear",
+            "brown_bear",
+            "white_tailed_deer",
+            "red_fox",
+            "raccoon",
+            "squirrel",
+            "moose",
+            "elk",
+            "beaver",
+            "porcupine",
+            "skunk",
+            "badger",
+            "chipmunk",
+            "mole",
+            "stoat",
+            "ermine"
+          ]
+        },
+        {
+          "label": "Forest & Woods — Page 2",
+          "animals": [
+            "wolverine",
+            "woodpecker",
+            "hawk",
+            "falcon",
+            "cacomistle",
+            "genet",
+            "civet",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jungle",
+      "title": "Jungle & Rainforest",
+      "subtitle": "Tropical wild",
+      "emoji": "🌴",
+      "color": "#1b7a4e",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Jungle & Rainforest — Page 1",
+          "animals": [
+            "gorilla",
+            "chimpanzee",
+            "orangutan",
+            "sloth",
+            "howler_monkey",
+            "capuchin_monkey",
+            "spider_monkey",
+            "lemur",
+            "tapir",
+            "okapi",
+            "chameleon",
+            "green_iguana",
+            "boa_constrictor",
+            "python",
+            "poison_dart_frog",
+            "red_eyed_tree_frog"
+          ]
+        },
+        {
+          "label": "Jungle & Rainforest — Page 2",
+          "animals": [
+            "anteater",
+            "armadillo",
+            "kinkajou",
+            "aye_aye",
+            "tarsier",
+            "fruit_bat",
+            "pangolin",
+            "bush_baby",
+            "anaconda",
+            "koala",
+            "wombat",
+            "tasmanian_devil",
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "savannah",
+      "title": "Savannah & Grasslands",
+      "subtitle": "Open plains",
+      "emoji": "🦁",
+      "color": "#e9c46a",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Savannah & Grasslands — Page 1",
+          "animals": [
+            "lion",
+            "elephant",
+            "hyena",
+            "aardvark",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "label": "Savannah & Grasslands — Page 2",
+          "animals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desert",
+      "title": "Desert Ecosystems",
+      "subtitle": "Dry lands",
+      "emoji": "🏜️",
+      "color": "#d4a574",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Desert Ecosystems — Page 1",
+          "animals": [
+            "fennec_fox",
+            "jerboa",
+            "scorpion",
+            "gecko",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "label": "Desert Ecosystems — Page 2",
+          "animals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arctic",
+      "title": "Arctic & Tundra",
+      "subtitle": "Ice & snow",
+      "emoji": "❄️",
+      "color": "#90c8e8",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Arctic & Tundra — Page 1",
+          "animals": [
+            "polar_bear",
+            "arctic_fox",
+            "arctic_hare",
+            "arctic_wolf",
+            "reindeer",
+            "caribou",
+            "musk_ox",
+            "lemming",
+            "walrus",
+            "harp_seal",
+            "harbor_seal",
+            "beluga_whale",
+            "narwhal",
+            "bowhead_whale",
+            "sperm_whale",
+            "elephant_seal"
+          ]
+        },
+        {
+          "label": "Arctic & Tundra — Page 2",
+          "animals": [
+            "leopard_seal",
+            "weddell_seal",
+            "emperor_penguin",
+            "adelie_penguin",
+            "rockhopper_penguin",
+            "krill_antarctic",
+            "snow_goose",
+            "ptarmigan",
+            "puffin",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ocean",
+      "title": "Ocean & Marine",
+      "subtitle": "Reefs & open sea",
+      "emoji": "🌊",
+      "color": "#219ebc",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Ocean & Marine — Page 1",
+          "animals": [
+            "clownfish",
+            "angelfish",
+            "jellyfish",
+            "starfish",
+            "seahorse",
+            "sea_turtle",
+            "lobster",
+            "hermit_crab",
+            "brain_coral",
+            "sea_anemone",
+            "butterflyfish",
+            "blue_tang",
+            "mandarinfish",
+            "moorish_idol",
+            "parrotfish",
+            "triggerfish"
+          ]
+        },
+        {
+          "label": "Ocean & Marine — Page 2",
+          "animals": [
+            "lionfish",
+            "manta_ray",
+            "stingray",
+            "reef_shark",
+            "hammerhead_shark",
+            "great_white_shark",
+            "tiger_shark",
+            "sea_urchin",
+            "octopus",
+            "cuttlefish",
+            "moray_eel",
+            "pufferfish",
+            "bottlenose_dolphin",
+            "orca",
+            "sea_lion",
+            "sea_otter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deep_sea",
+      "title": "Deep Sea",
+      "subtitle": "Abyss & midnight zone",
+      "emoji": "🦑",
+      "color": "#1d3557",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Deep Sea — Page 1",
+          "animals": [
+            "goblin_shark",
+            "frilled_shark",
+            "dragonfish",
+            "viperfish",
+            "fangtooth",
+            "gulper_eel",
+            "hatchetfish",
+            "lanternfish",
+            "barreleye",
+            "coffinfish",
+            "oarfish",
+            "colossal_squid",
+            "cookiecutter_shark",
+            "six_gill_shark",
+            "grenadier_fish",
+            "lizardfish"
+          ]
+        },
+        {
+          "label": "Deep Sea — Page 2",
+          "animals": [
+            "snipe_eel",
+            "cusk_eel",
+            "chimaera",
+            "ghost_shark",
+            "spookfish",
+            "wolffish",
+            "mariana_snailfish",
+            "faceless_cusk",
+            "black_swallower",
+            "deep_sea_jellyfish",
+            "comb_jelly",
+            "abyssal_spiderfish",
+            "beaked_whale",
+            "big_red_jelly",
+            "brisingid_starfish",
+            "flashlight_fish"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "freshwater",
+      "title": "Freshwater & Wetlands",
+      "subtitle": "Rivers & lakes",
+      "emoji": "💧",
+      "color": "#4895ef",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Freshwater & Wetlands — Page 1",
+          "animals": [
+            "salamander",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "label": "Freshwater & Wetlands — Page 2",
+          "animals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "birds",
+      "title": "Avian Species",
+      "subtitle": "Birds of the world",
+      "emoji": "🦜",
+      "color": "#5c7cfa",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Avian Species — Page 1",
+          "animals": [
+            "eagle",
+            "hummingbird",
+            "cockatiel",
+            "parakeet",
+            "cardinal",
+            "blue_jay",
+            "pelican",
+            "seagull",
+            "albatross",
+            "turkey_vulture",
+            "penguin",
+            "snowy_owl",
+            "parrot",
+            "macaw",
+            "toucan",
+            "barn_owl"
+          ]
+        },
+        {
+          "label": "Avian Species — Page 2",
+          "animals": [
+            "great_horned_owl",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dogs",
+      "title": "Canine Breeds",
+      "subtitle": "Dogs & canines",
+      "emoji": "🐕",
+      "color": "#a66b3f",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Canine Breeds — Page 1",
+          "animals": [
+            "border_collie",
+            "golden_retriever",
+            "coyote",
+            "wolf",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "label": "Canine Breeds — Page 2",
+          "animals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cats",
+      "title": "Feline Breeds",
+      "subtitle": "Cats big & small",
+      "emoji": "🐈",
+      "color": "#7c5cbf",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Feline Breeds — Page 1",
+          "animals": [
+            "siamese_cat",
+            "tabby_cat",
+            "bengal_tiger",
+            "bobcat",
+            "lynx",
+            "leopard",
+            "jaguar",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "label": "Feline Breeds — Page 2",
+          "animals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reptiles_insects",
+      "title": "Reptiles & Insects",
+      "subtitle": "Crawl & slither",
+      "emoji": "🦎",
+      "color": "#84a059",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Reptiles & Insects — Page 1",
+          "animals": [
+            "moth",
+            "tarantula",
+            "firefly",
+            "leafcutter_ant",
+            "turtle",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "label": "Reptiles & Insects — Page 2",
+          "animals": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    }
+  ]
+}

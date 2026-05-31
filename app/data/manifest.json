@@ -1,0 +1,2185 @@
+{
+  "version": 1,
+  "grid": {
+    "cols": 4,
+    "rows": 4,
+    "perPage": 16
+  },
+  "generatedAt": "2026-05-28T01:38:36.355Z",
+  "categories": [
+    {
+      "id": "farm",
+      "title": "Farm & Domestic",
+      "subtitle": "Barnyard & home animals",
+      "emoji": "🚜",
+      "color": "#c4a35a",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Barnyard Friends",
+          "animals": [
+            {
+              "id": "cow",
+              "name": "Cow",
+              "image": "animals/Images/cow.webp",
+              "nameSound": "animals/Sounds/cow_name.mp3",
+              "animalSound": "animals/Sounds/cow.mp3"
+            },
+            {
+              "id": "pig",
+              "name": "Pig",
+              "image": "animals/Images/pig.webp",
+              "nameSound": "animals/Sounds/pig_name.mp3",
+              "animalSound": "animals/Sounds/pig.mp3"
+            },
+            {
+              "id": "chicken",
+              "name": "Chicken",
+              "image": "animals/Images/chicken.webp",
+              "nameSound": "animals/Sounds/chicken_name.mp3",
+              "animalSound": "animals/Sounds/chicken.mp3"
+            },
+            {
+              "id": "horse",
+              "name": "Horse",
+              "image": "animals/Images/horse.webp",
+              "nameSound": "animals/Sounds/horse_name.mp3",
+              "animalSound": "animals/Sounds/horse.mp3"
+            },
+            {
+              "id": "goat",
+              "name": "Goat",
+              "image": "animals/Images/goat.webp",
+              "nameSound": "animals/Sounds/goat_name.mp3",
+              "animalSound": "animals/Sounds/goat.mp3"
+            },
+            {
+              "id": "sheep",
+              "name": "Sheep",
+              "image": "animals/Images/sheep.webp",
+              "nameSound": "animals/Sounds/sheep_name.mp3",
+              "animalSound": "animals/Sounds/sheep.mp3"
+            },
+            {
+              "id": "duck",
+              "name": "Duck",
+              "image": "animals/Images/duck.webp",
+              "nameSound": "animals/Sounds/duck_name.mp3",
+              "animalSound": "animals/Sounds/duck.mp3"
+            },
+            {
+              "id": "turkey",
+              "name": "Turkey",
+              "image": "animals/Images/turkey.webp",
+              "nameSound": "animals/Sounds/turkey_name.mp3",
+              "animalSound": "animals/Sounds/turkey.mp3"
+            },
+            {
+              "id": "rooster",
+              "name": "Rooster",
+              "image": "animals/Images/rooster.webp",
+              "nameSound": "animals/Sounds/rooster_name.mp3",
+              "animalSound": "animals/Sounds/rooster.mp3"
+            },
+            {
+              "id": "donkey",
+              "name": "Donkey",
+              "image": "animals/Images/donkey.webp",
+              "nameSound": "animals/Sounds/donkey_name.mp3",
+              "animalSound": "animals/Sounds/donkey.mp3"
+            },
+            {
+              "id": "llama",
+              "name": "Llama",
+              "image": "animals/Images/llama.webp",
+              "nameSound": "animals/Sounds/llama_name.mp3",
+              "animalSound": "animals/Sounds/llama.mp3"
+            },
+            {
+              "id": "alpaca",
+              "name": "Alpaca",
+              "image": "animals/Images/alpaca.webp",
+              "nameSound": "animals/Sounds/alpaca_name.mp3",
+              "animalSound": "animals/Sounds/alpaca.mp3"
+            },
+            {
+              "id": "rabbit",
+              "name": "Rabbit",
+              "image": "animals/Images/rabbit.webp",
+              "nameSound": "animals/Sounds/rabbit_name.mp3",
+              "animalSound": "animals/Sounds/rabbit.mp3"
+            },
+            {
+              "id": "goose",
+              "name": "Goose",
+              "image": "animals/Images/goose.webp",
+              "nameSound": "animals/Sounds/goose_name.mp3",
+              "animalSound": "animals/Sounds/goose.mp3"
+            },
+            {
+              "id": "guinea_pig",
+              "name": "Guinea Pig",
+              "image": "animals/Images/guinea_pig.webp",
+              "nameSound": "animals/Sounds/guinea_pig_name.mp3",
+              "animalSound": "animals/Sounds/guinea_pig.mp3"
+            },
+            {
+              "id": "hamster",
+              "name": "Hamster",
+              "image": "animals/Images/hamster.webp",
+              "nameSound": "animals/Sounds/hamster_name.mp3",
+              "animalSound": "animals/Sounds/hamster.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "More Farm Animals",
+          "animals": [
+            {
+              "id": "ferret",
+              "name": "Ferret",
+              "image": "animals/Images/ferret.webp",
+              "nameSound": "animals/Sounds/ferret_name.mp3",
+              "animalSound": "animals/Sounds/ferret.mp3"
+            },
+            {
+              "id": "mule",
+              "name": "Mule",
+              "image": "animals/Images/mule.webp",
+              "nameSound": "animals/Sounds/mule_name.mp3",
+              "animalSound": "animals/Sounds/mule.mp3"
+            },
+            {
+              "id": "pony",
+              "name": "Pony",
+              "image": "animals/Images/pony.webp",
+              "nameSound": "animals/Sounds/pony_name.mp3",
+              "animalSound": "animals/Sounds/pony.mp3"
+            },
+            {
+              "id": "pot_bellied_pig",
+              "name": "Pot Bellied Pig",
+              "image": "animals/Images/pot_bellied_pig.webp",
+              "nameSound": "animals/Sounds/pot_bellied_pig_name.mp3",
+              "animalSound": "animals/Sounds/pot_bellied_pig.mp3"
+            },
+            {
+              "id": "mouse",
+              "name": "Mouse",
+              "image": "animals/Images/mouse.webp",
+              "nameSound": "animals/Sounds/mouse_name.mp3",
+              "animalSound": "animals/Sounds/mouse.mp3"
+            },
+            {
+              "id": "rat",
+              "name": "Rat",
+              "image": "animals/Images/rat.webp",
+              "nameSound": "animals/Sounds/rat_name.mp3",
+              "animalSound": "animals/Sounds/rat.mp3"
+            },
+            {
+              "id": "goldfish",
+              "name": "Goldfish",
+              "image": "animals/Images/goldfish.webp",
+              "nameSound": "animals/Sounds/goldfish_name.mp3",
+              "animalSound": "animals/Sounds/goldfish.mp3"
+            },
+            {
+              "id": "hedgehog",
+              "name": "Hedgehog",
+              "image": "animals/Images/hedgehog.webp",
+              "nameSound": "animals/Sounds/hedgehog_name.mp3",
+              "animalSound": "animals/Sounds/hedgehog.mp3"
+            },
+            {
+              "id": "wild_boar",
+              "name": "Wild Boar",
+              "image": "animals/Images/wild_boar.webp",
+              "nameSound": "animals/Sounds/wild_boar_name.mp3",
+              "animalSound": "animals/Sounds/wild_boar.mp3"
+            },
+            {
+              "id": "opossum",
+              "name": "Opossum",
+              "image": "animals/Images/opossum.webp",
+              "nameSound": "animals/Sounds/opossum_name.mp3",
+              "animalSound": "animals/Sounds/opossum.mp3"
+            },
+            {
+              "id": "sugar_glider",
+              "name": "Sugar Glider",
+              "image": "animals/Images/sugar_glider.webp",
+              "nameSound": "animals/Sounds/sugar_glider_name.mp3",
+              "animalSound": "animals/Sounds/sugar_glider.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 11
+        }
+      ],
+      "totalFilled": 27
+    },
+    {
+      "id": "forest",
+      "title": "Forest & Woods",
+      "subtitle": "Woodland wildlife",
+      "emoji": "🌲",
+      "color": "#2d6a4f",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Forest Animals",
+          "animals": [
+            {
+              "id": "black_bear",
+              "name": "Black Bear",
+              "image": "animals/Images/black_bear.webp",
+              "nameSound": "animals/Sounds/black_bear_name.mp3",
+              "animalSound": "animals/Sounds/black_bear.mp3"
+            },
+            {
+              "id": "brown_bear",
+              "name": "Brown Bear",
+              "image": "animals/Images/brown_bear.webp",
+              "nameSound": "animals/Sounds/brown_bear_name.mp3",
+              "animalSound": "animals/Sounds/brown_bear.mp3"
+            },
+            {
+              "id": "white_tailed_deer",
+              "name": "White Tailed Deer",
+              "image": "animals/Images/white_tailed_deer.webp",
+              "nameSound": "animals/Sounds/white_tailed_deer_name.mp3",
+              "animalSound": "animals/Sounds/white_tailed_deer.mp3"
+            },
+            {
+              "id": "squirrel",
+              "name": "Squirrel",
+              "image": "animals/Images/squirrel.webp",
+              "nameSound": "animals/Sounds/squirrel_name.mp3",
+              "animalSound": "animals/Sounds/squirrel.mp3"
+            },
+            {
+              "id": "moose",
+              "name": "Moose",
+              "image": "animals/Images/moose.webp",
+              "nameSound": "animals/Sounds/moose_name.mp3",
+              "animalSound": "animals/Sounds/moose.mp3"
+            },
+            {
+              "id": "elk",
+              "name": "Elk",
+              "image": "animals/Images/elk.webp",
+              "nameSound": "animals/Sounds/elk_name.mp3",
+              "animalSound": "animals/Sounds/elk.mp3"
+            },
+            {
+              "id": "beaver",
+              "name": "Beaver",
+              "image": "animals/Images/beaver.webp",
+              "nameSound": "animals/Sounds/beaver_name.mp3",
+              "animalSound": "animals/Sounds/beaver.mp3"
+            },
+            {
+              "id": "porcupine",
+              "name": "Porcupine",
+              "image": "animals/Images/porcupine.webp",
+              "nameSound": "animals/Sounds/porcupine_name.mp3",
+              "animalSound": "animals/Sounds/porcupine.mp3"
+            },
+            {
+              "id": "chipmunk",
+              "name": "Chipmunk",
+              "image": "animals/Images/chipmunk.webp",
+              "nameSound": "animals/Sounds/chipmunk_name.mp3",
+              "animalSound": "animals/Sounds/chipmunk.mp3"
+            },
+            {
+              "id": "mole",
+              "name": "Mole",
+              "image": "animals/Images/mole.webp",
+              "nameSound": "animals/Sounds/mole_name.mp3",
+              "animalSound": "animals/Sounds/mole.mp3"
+            },
+            {
+              "id": "stoat",
+              "name": "Stoat",
+              "image": "animals/Images/stoat.webp",
+              "nameSound": "animals/Sounds/stoat_name.mp3",
+              "animalSound": "animals/Sounds/stoat.mp3"
+            },
+            {
+              "id": "ermine",
+              "name": "Ermine",
+              "image": "animals/Images/ermine.webp",
+              "nameSound": "animals/Sounds/ermine_name.mp3",
+              "animalSound": "animals/Sounds/ermine.mp3"
+            },
+            {
+              "id": "wolverine",
+              "name": "Wolverine",
+              "image": "animals/Images/wolverine.webp",
+              "nameSound": "animals/Sounds/wolverine_name.mp3",
+              "animalSound": "animals/Sounds/wolverine.mp3"
+            },
+            {
+              "id": "river_otter",
+              "name": "River Otter",
+              "image": "animals/Images/river_otter.webp",
+              "nameSound": "animals/Sounds/river_otter_name.mp3",
+              "animalSound": "animals/Sounds/river_otter.mp3"
+            },
+            {
+              "id": "cacomistle",
+              "name": "Cacomistle",
+              "image": "animals/Images/cacomistle.webp",
+              "nameSound": "animals/Sounds/cacomistle_name.mp3",
+              "animalSound": "animals/Sounds/cacomistle.mp3"
+            },
+            {
+              "id": "genet",
+              "name": "Genet",
+              "image": "animals/Images/genet.webp",
+              "nameSound": "animals/Sounds/genet_name.mp3",
+              "animalSound": "animals/Sounds/genet.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "More Forest Life",
+          "animals": [
+            {
+              "id": "civet",
+              "name": "Civet",
+              "image": "animals/Images/civet.webp",
+              "nameSound": "animals/Sounds/civet_name.mp3",
+              "animalSound": "animals/Sounds/civet.mp3"
+            },
+            {
+              "id": "koala",
+              "name": "Koala",
+              "image": "animals/Images/koala.webp",
+              "nameSound": "animals/Sounds/koala_name.mp3",
+              "animalSound": "animals/Sounds/koala.mp3"
+            },
+            {
+              "id": "tasmanian_devil",
+              "name": "Tasmanian Devil",
+              "image": "animals/Images/tasmanian_devil.webp",
+              "nameSound": "animals/Sounds/tasmanian_devil_name.mp3",
+              "animalSound": "animals/Sounds/tasmanian_devil.mp3"
+            },
+            {
+              "id": "reindeer",
+              "name": "Reindeer",
+              "image": "animals/Images/reindeer.webp",
+              "nameSound": "animals/Sounds/reindeer_name.mp3",
+              "animalSound": "animals/Sounds/reindeer.mp3"
+            },
+            {
+              "id": "salamander",
+              "name": "Salamander",
+              "image": "animals/Images/salamander.webp",
+              "nameSound": "animals/Sounds/salamander_name.mp3",
+              "animalSound": "animals/Sounds/salamander.mp3"
+            },
+            {
+              "id": "aardvark",
+              "name": "Aardvark",
+              "image": "animals/Images/aardvark.webp",
+              "nameSound": "animals/Sounds/aardvark_name.mp3",
+              "animalSound": "animals/Sounds/aardvark.mp3"
+            },
+            {
+              "id": "napoleon_wrasse",
+              "name": "Napoleon Wrasse",
+              "image": "animals/Images/napoleon_wrasse.webp",
+              "nameSound": "animals/Sounds/napoleon_wrasse_name.mp3",
+              "animalSound": "animals/Sounds/napoleon_wrasse.mp3"
+            },
+            {
+              "id": "sea_pig",
+              "name": "Sea Pig",
+              "image": "animals/Images/sea_pig.webp",
+              "nameSound": "animals/Sounds/sea_pig_name.mp3",
+              "animalSound": "animals/Sounds/sea_pig.mp3"
+            },
+            {
+              "id": "turtle",
+              "name": "Turtle",
+              "image": "animals/Images/turtle.webp",
+              "nameSound": "animals/Sounds/turtle_name.mp3",
+              "animalSound": "animals/Sounds/turtle.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 9
+        }
+      ],
+      "totalFilled": 25
+    },
+    {
+      "id": "jungle",
+      "title": "Jungle",
+      "subtitle": "Rainforest animals",
+      "emoji": "🌴",
+      "color": "#1b7a4e",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Jungle Animals",
+          "animals": [
+            {
+              "id": "gorilla",
+              "name": "Gorilla",
+              "image": "animals/Images/gorilla.webp",
+              "nameSound": "animals/Sounds/gorilla_name.mp3",
+              "animalSound": "animals/Sounds/gorilla.mp3"
+            },
+            {
+              "id": "chimpanzee",
+              "name": "Chimpanzee",
+              "image": "animals/Images/chimpanzee.webp",
+              "nameSound": "animals/Sounds/chimpanzee_name.mp3",
+              "animalSound": "animals/Sounds/chimpanzee.mp3"
+            },
+            {
+              "id": "orangutan",
+              "name": "Orangutan",
+              "image": "animals/Images/orangutan.webp",
+              "nameSound": "animals/Sounds/orangutan_name.mp3",
+              "animalSound": "animals/Sounds/orangutan.mp3"
+            },
+            {
+              "id": "sloth",
+              "name": "Sloth",
+              "image": "animals/Images/sloth.webp",
+              "nameSound": "animals/Sounds/sloth_name.mp3",
+              "animalSound": "animals/Sounds/sloth.mp3"
+            },
+            {
+              "id": "howler_monkey",
+              "name": "Howler Monkey",
+              "image": "animals/Images/howler_monkey.webp",
+              "nameSound": "animals/Sounds/howler_monkey_name.mp3",
+              "animalSound": "animals/Sounds/howler_monkey.mp3"
+            },
+            {
+              "id": "capuchin_monkey",
+              "name": "Capuchin Monkey",
+              "image": "animals/Images/capuchin_monkey.webp",
+              "nameSound": "animals/Sounds/capuchin_monkey_name.mp3",
+              "animalSound": "animals/Sounds/capuchin_monkey.mp3"
+            },
+            {
+              "id": "spider_monkey",
+              "name": "Spider Monkey",
+              "image": "animals/Images/spider_monkey.webp",
+              "nameSound": "animals/Sounds/spider_monkey_name.mp3",
+              "animalSound": "animals/Sounds/spider_monkey.mp3"
+            },
+            {
+              "id": "lemur",
+              "name": "Lemur",
+              "image": "animals/Images/lemur.webp",
+              "nameSound": "animals/Sounds/lemur_name.mp3",
+              "animalSound": "animals/Sounds/lemur.mp3"
+            },
+            {
+              "id": "tapir",
+              "name": "Tapir",
+              "image": "animals/Images/tapir.webp",
+              "nameSound": "animals/Sounds/tapir_name.mp3",
+              "animalSound": "animals/Sounds/tapir.mp3"
+            },
+            {
+              "id": "okapi",
+              "name": "Okapi",
+              "image": "animals/Images/okapi.webp",
+              "nameSound": "animals/Sounds/okapi_name.mp3",
+              "animalSound": "animals/Sounds/okapi.mp3"
+            },
+            {
+              "id": "chameleon",
+              "name": "Chameleon",
+              "image": "animals/Images/chameleon.webp",
+              "nameSound": "animals/Sounds/chameleon_name.mp3",
+              "animalSound": "animals/Sounds/chameleon.mp3"
+            },
+            {
+              "id": "green_iguana",
+              "name": "Green Iguana",
+              "image": "animals/Images/green_iguana.webp",
+              "nameSound": "animals/Sounds/green_iguana_name.mp3",
+              "animalSound": "animals/Sounds/green_iguana.mp3"
+            },
+            {
+              "id": "boa_constrictor",
+              "name": "Boa Constrictor",
+              "image": "animals/Images/boa_constrictor.webp",
+              "nameSound": "animals/Sounds/boa_constrictor_name.mp3",
+              "animalSound": "animals/Sounds/boa_constrictor.mp3"
+            },
+            {
+              "id": "python",
+              "name": "Python",
+              "image": "animals/Images/python.webp",
+              "nameSound": "animals/Sounds/python_name.mp3",
+              "animalSound": "animals/Sounds/python.mp3"
+            },
+            {
+              "id": "poison_dart_frog",
+              "name": "Poison Dart Frog",
+              "image": "animals/Images/poison_dart_frog.webp",
+              "nameSound": "animals/Sounds/poison_dart_frog_name.mp3",
+              "animalSound": "animals/Sounds/poison_dart_frog.mp3"
+            },
+            {
+              "id": "red_eyed_tree_frog",
+              "name": "Red Eyed Tree Frog",
+              "image": "animals/Images/red_eyed_tree_frog.webp",
+              "nameSound": "animals/Sounds/red_eyed_tree_frog_name.mp3",
+              "animalSound": "animals/Sounds/red_eyed_tree_frog.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "More Jungle Life",
+          "animals": [
+            {
+              "id": "anteater",
+              "name": "Anteater",
+              "image": "animals/Images/anteater.webp",
+              "nameSound": "animals/Sounds/anteater_name.mp3",
+              "animalSound": "animals/Sounds/anteater.mp3"
+            },
+            {
+              "id": "armadillo",
+              "name": "Armadillo",
+              "image": "animals/Images/armadillo.webp",
+              "nameSound": "animals/Sounds/armadillo_name.mp3",
+              "animalSound": "animals/Sounds/armadillo.mp3"
+            },
+            {
+              "id": "kinkajou",
+              "name": "Kinkajou",
+              "image": "animals/Images/kinkajou.webp",
+              "nameSound": "animals/Sounds/kinkajou_name.mp3",
+              "animalSound": "animals/Sounds/kinkajou.mp3"
+            },
+            {
+              "id": "aye_aye",
+              "name": "Aye Aye",
+              "image": "animals/Images/aye_aye.webp",
+              "nameSound": "animals/Sounds/aye_aye_name.mp3",
+              "animalSound": "animals/Sounds/aye_aye.mp3"
+            },
+            {
+              "id": "tarsier",
+              "name": "Tarsier",
+              "image": "animals/Images/tarsier.webp",
+              "nameSound": "animals/Sounds/tarsier_name.mp3",
+              "animalSound": "animals/Sounds/tarsier.mp3"
+            },
+            {
+              "id": "fruit_bat",
+              "name": "Fruit Bat",
+              "image": "animals/Images/fruit_bat.webp",
+              "nameSound": "animals/Sounds/fruit_bat_name.mp3",
+              "animalSound": "animals/Sounds/fruit_bat.mp3"
+            },
+            {
+              "id": "pangolin",
+              "name": "Pangolin",
+              "image": "animals/Images/pangolin.webp",
+              "nameSound": "animals/Sounds/pangolin_name.mp3",
+              "animalSound": "animals/Sounds/pangolin.mp3"
+            },
+            {
+              "id": "bush_baby",
+              "name": "Bush Baby",
+              "image": "animals/Images/bush_baby.webp",
+              "nameSound": "animals/Sounds/bush_baby_name.mp3",
+              "animalSound": "animals/Sounds/bush_baby.mp3"
+            },
+            {
+              "id": "anaconda",
+              "name": "Anaconda",
+              "image": "animals/Images/anaconda.webp",
+              "nameSound": "animals/Sounds/anaconda_name.mp3",
+              "animalSound": "animals/Sounds/anaconda.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 9
+        }
+      ],
+      "totalFilled": 25
+    },
+    {
+      "id": "desert",
+      "title": "Desert",
+      "subtitle": "Hot, dry habitats",
+      "emoji": "🏜️",
+      "color": "#d4a574",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Desert Animals",
+          "animals": [
+            {
+              "id": "fennec_fox",
+              "name": "Fennec Fox",
+              "image": "animals/Images/fennec_fox.webp",
+              "nameSound": "animals/Sounds/fennec_fox_name.mp3",
+              "animalSound": "animals/Sounds/fennec_fox.mp3"
+            },
+            {
+              "id": "jerboa",
+              "name": "Jerboa",
+              "image": "animals/Images/jerboa.webp",
+              "nameSound": "animals/Sounds/jerboa_name.mp3",
+              "animalSound": "animals/Sounds/jerboa.mp3"
+            },
+            {
+              "id": "scorpion",
+              "name": "Scorpion",
+              "image": "animals/Images/scorpion.webp",
+              "nameSound": "animals/Sounds/scorpion_name.mp3",
+              "animalSound": "animals/Sounds/scorpion.mp3"
+            },
+            {
+              "id": "gecko",
+              "name": "Gecko",
+              "image": "animals/Images/gecko.webp",
+              "nameSound": "animals/Sounds/gecko_name.mp3",
+              "animalSound": "animals/Sounds/gecko.mp3"
+            },
+            {
+              "id": "red_fox",
+              "name": "Red Fox",
+              "image": "animals/Images/red_fox.webp",
+              "nameSound": "animals/Sounds/red_fox_name.mp3",
+              "animalSound": "animals/Sounds/red_fox.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 5
+        }
+      ],
+      "totalFilled": 5
+    },
+    {
+      "id": "savannah",
+      "title": "Savannah & Plains",
+      "subtitle": "Grassland giants",
+      "emoji": "🦁",
+      "color": "#e9c46a",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Savannah Animals",
+          "animals": [
+            {
+              "id": "elephant",
+              "name": "Elephant",
+              "image": "animals/Images/elephant.webp",
+              "nameSound": null,
+              "animalSound": null
+            },
+            {
+              "id": "hyena",
+              "name": "Hyena",
+              "image": "animals/Images/hyena.webp",
+              "nameSound": "animals/Sounds/hyena_name.mp3",
+              "animalSound": "animals/Sounds/hyena.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 2
+        }
+      ],
+      "totalFilled": 2
+    },
+    {
+      "id": "arctic",
+      "title": "Arctic & Tundra",
+      "subtitle": "Cold-climate animals",
+      "emoji": "❄️",
+      "color": "#90c8e8",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Arctic Animals",
+          "animals": [
+            {
+              "id": "polar_bear",
+              "name": "Polar Bear",
+              "image": "animals/Images/polar_bear.webp",
+              "nameSound": "animals/Sounds/polar_bear_name.mp3",
+              "animalSound": "animals/Sounds/polar_bear.mp3"
+            },
+            {
+              "id": "arctic_fox",
+              "name": "Arctic Fox",
+              "image": "animals/Images/arctic_fox.webp",
+              "nameSound": "animals/Sounds/arctic_fox_name.mp3",
+              "animalSound": "animals/Sounds/arctic_fox.mp3"
+            },
+            {
+              "id": "arctic_hare",
+              "name": "Arctic Hare",
+              "image": "animals/Images/arctic_hare.webp",
+              "nameSound": "animals/Sounds/arctic_hare_name.mp3",
+              "animalSound": "animals/Sounds/arctic_hare.mp3"
+            },
+            {
+              "id": "walrus",
+              "name": "Walrus",
+              "image": "animals/Images/walrus.webp",
+              "nameSound": "animals/Sounds/walrus_name.mp3",
+              "animalSound": "animals/Sounds/walrus.mp3"
+            },
+            {
+              "id": "harp_seal",
+              "name": "Harp Seal",
+              "image": "animals/Images/harp_seal.webp",
+              "nameSound": "animals/Sounds/harp_seal_name.mp3",
+              "animalSound": "animals/Sounds/harp_seal.mp3"
+            },
+            {
+              "id": "harbor_seal",
+              "name": "Harbor Seal",
+              "image": "animals/Images/harbor_seal.webp",
+              "nameSound": "animals/Sounds/harbor_seal_name.mp3",
+              "animalSound": "animals/Sounds/harbor_seal.mp3"
+            },
+            {
+              "id": "beluga_whale",
+              "name": "Beluga Whale",
+              "image": "animals/Images/beluga_whale.webp",
+              "nameSound": "animals/Sounds/beluga_whale_name.mp3",
+              "animalSound": "animals/Sounds/beluga_whale.mp3"
+            },
+            {
+              "id": "narwhal",
+              "name": "Narwhal",
+              "image": "animals/Images/narwhal.webp",
+              "nameSound": "animals/Sounds/narwhal_name.mp3",
+              "animalSound": "animals/Sounds/narwhal.mp3"
+            },
+            {
+              "id": "emperor_penguin",
+              "name": "Emperor Penguin",
+              "image": "animals/Images/emperor_penguin.webp",
+              "nameSound": "animals/Sounds/emperor_penguin_name.mp3",
+              "animalSound": "animals/Sounds/emperor_penguin.mp3"
+            },
+            {
+              "id": "adelie_penguin",
+              "name": "Adelie Penguin",
+              "image": "animals/Images/adelie_penguin.webp",
+              "nameSound": "animals/Sounds/adelie_penguin_name.mp3",
+              "animalSound": "animals/Sounds/adelie_penguin.mp3"
+            },
+            {
+              "id": "rockhopper_penguin",
+              "name": "Rockhopper Penguin",
+              "image": "animals/Images/rockhopper_penguin.webp",
+              "nameSound": "animals/Sounds/rockhopper_penguin_name.mp3",
+              "animalSound": "animals/Sounds/rockhopper_penguin.mp3"
+            },
+            {
+              "id": "caribou",
+              "name": "Caribou",
+              "image": "animals/Images/caribou.webp",
+              "nameSound": "animals/Sounds/caribou_name.mp3",
+              "animalSound": "animals/Sounds/caribou.mp3"
+            },
+            {
+              "id": "musk_ox",
+              "name": "Musk Ox",
+              "image": "animals/Images/musk_ox.webp",
+              "nameSound": "animals/Sounds/musk_ox_name.mp3",
+              "animalSound": "animals/Sounds/musk_ox.mp3"
+            },
+            {
+              "id": "lemming",
+              "name": "Lemming",
+              "image": "animals/Images/lemming.webp",
+              "nameSound": "animals/Sounds/lemming_name.mp3",
+              "animalSound": "animals/Sounds/lemming.mp3"
+            },
+            {
+              "id": "krill_antarctic",
+              "name": "Krill Antarctic",
+              "image": "animals/Images/krill_antarctic.webp",
+              "nameSound": "animals/Sounds/krill_antarctic_name.mp3",
+              "animalSound": "animals/Sounds/krill_antarctic.mp3"
+            },
+            {
+              "id": "elephant_seal",
+              "name": "Elephant Seal",
+              "image": "animals/Images/elephant_seal.webp",
+              "nameSound": "animals/Sounds/elephant_seal_name.mp3",
+              "animalSound": "animals/Sounds/elephant_seal.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Ice & Snow",
+          "animals": [
+            {
+              "id": "leopard_seal",
+              "name": "Leopard Seal",
+              "image": "animals/Images/leopard_seal.webp",
+              "nameSound": "animals/Sounds/leopard_seal_name.mp3",
+              "animalSound": "animals/Sounds/leopard_seal.mp3"
+            },
+            {
+              "id": "weddell_seal",
+              "name": "Weddell Seal",
+              "image": "animals/Images/weddell_seal.webp",
+              "nameSound": "animals/Sounds/weddell_seal_name.mp3",
+              "animalSound": "animals/Sounds/weddell_seal.mp3"
+            },
+            {
+              "id": "bowhead_whale",
+              "name": "Bowhead Whale",
+              "image": "animals/Images/bowhead_whale.webp",
+              "nameSound": "animals/Sounds/bowhead_whale_name.mp3",
+              "animalSound": "animals/Sounds/bowhead_whale.mp3"
+            },
+            {
+              "id": "sperm_whale",
+              "name": "Sperm Whale",
+              "image": "animals/Images/sperm_whale.webp",
+              "nameSound": "animals/Sounds/sperm_whale_name.mp3",
+              "animalSound": "animals/Sounds/sperm_whale.mp3"
+            },
+            {
+              "id": "snow_goose",
+              "name": "Snow Goose",
+              "image": "animals/Images/snow_goose.webp",
+              "nameSound": "animals/Sounds/snow_goose_name.mp3",
+              "animalSound": "animals/Sounds/snow_goose.mp3"
+            },
+            {
+              "id": "ptarmigan",
+              "name": "Ptarmigan",
+              "image": "animals/Images/ptarmigan.webp",
+              "nameSound": "animals/Sounds/ptarmigan_name.mp3",
+              "animalSound": "animals/Sounds/ptarmigan.mp3"
+            },
+            {
+              "id": "puffin",
+              "name": "Puffin",
+              "image": "animals/Images/puffin.webp",
+              "nameSound": "animals/Sounds/puffin_name.mp3",
+              "animalSound": "animals/Sounds/puffin.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 7
+        }
+      ],
+      "totalFilled": 23
+    },
+    {
+      "id": "birds",
+      "title": "Birds",
+      "subtitle": "Feathered friends",
+      "emoji": "🦜",
+      "color": "#5c7cfa",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Birds Page 1",
+          "animals": [
+            {
+              "id": "eagle",
+              "name": "Eagle",
+              "image": "animals/Images/eagle.webp",
+              "nameSound": "animals/Sounds/eagle_name.mp3",
+              "animalSound": "animals/Sounds/eagle.mp3"
+            },
+            {
+              "id": "falcon",
+              "name": "Falcon",
+              "image": "animals/Images/falcon.webp",
+              "nameSound": "animals/Sounds/falcon_name.mp3",
+              "animalSound": "animals/Sounds/falcon.mp3"
+            },
+            {
+              "id": "hawk",
+              "name": "Hawk",
+              "image": "animals/Images/hawk.webp",
+              "nameSound": "animals/Sounds/hawk_name.mp3",
+              "animalSound": "animals/Sounds/hawk.mp3"
+            },
+            {
+              "id": "hummingbird",
+              "name": "Hummingbird",
+              "image": "animals/Images/hummingbird.webp",
+              "nameSound": "animals/Sounds/hummingbird_name.mp3",
+              "animalSound": "animals/Sounds/hummingbird.mp3"
+            },
+            {
+              "id": "cockatiel",
+              "name": "Cockatiel",
+              "image": "animals/Images/cockatiel.webp",
+              "nameSound": "animals/Sounds/cockatiel_name.mp3",
+              "animalSound": "animals/Sounds/cockatiel.mp3"
+            },
+            {
+              "id": "parakeet",
+              "name": "Parakeet",
+              "image": "animals/Images/parakeet.webp",
+              "nameSound": "animals/Sounds/parakeet_name.mp3",
+              "animalSound": "animals/Sounds/parakeet.mp3"
+            },
+            {
+              "id": "cardinal",
+              "name": "Cardinal",
+              "image": "animals/Images/cardinal.webp",
+              "nameSound": "animals/Sounds/cardinal_name.mp3",
+              "animalSound": "animals/Sounds/cardinal.mp3"
+            },
+            {
+              "id": "blue_jay",
+              "name": "Blue Jay",
+              "image": "animals/Images/blue_jay.webp",
+              "nameSound": "animals/Sounds/blue_jay_name.mp3",
+              "animalSound": "animals/Sounds/blue_jay.mp3"
+            },
+            {
+              "id": "pelican",
+              "name": "Pelican",
+              "image": "animals/Images/pelican.webp",
+              "nameSound": "animals/Sounds/pelican_name.mp3",
+              "animalSound": "animals/Sounds/pelican.mp3"
+            },
+            {
+              "id": "seagull",
+              "name": "Seagull",
+              "image": "animals/Images/seagull.webp",
+              "nameSound": "animals/Sounds/seagull_name.mp3",
+              "animalSound": "animals/Sounds/seagull.mp3"
+            },
+            {
+              "id": "albatross",
+              "name": "Albatross",
+              "image": "animals/Images/albatross.webp",
+              "nameSound": "animals/Sounds/albatross_name.mp3",
+              "animalSound": "animals/Sounds/albatross.mp3"
+            },
+            {
+              "id": "turkey_vulture",
+              "name": "Turkey Vulture",
+              "image": "animals/Images/turkey_vulture.webp",
+              "nameSound": "animals/Sounds/turkey_vulture_name.mp3",
+              "animalSound": "animals/Sounds/turkey_vulture.mp3"
+            },
+            {
+              "id": "penguin",
+              "name": "Penguin",
+              "image": "animals/Images/penguin.webp",
+              "nameSound": null,
+              "animalSound": null
+            },
+            {
+              "id": "woodpecker",
+              "name": "Woodpecker",
+              "image": "animals/Images/woodpecker.webp",
+              "nameSound": "animals/Sounds/woodpecker_name.mp3",
+              "animalSound": "animals/Sounds/woodpecker.mp3"
+            },
+            {
+              "id": "snowy_owl",
+              "name": "Snowy Owl",
+              "image": "animals/Images/snowy_owl.webp",
+              "nameSound": "animals/Sounds/snowy_owl_name.mp3",
+              "animalSound": "animals/Sounds/snowy_owl.mp3"
+            },
+            {
+              "id": "parrot",
+              "name": "Parrot",
+              "image": "animals/Images/parrot.webp",
+              "nameSound": "animals/Sounds/parrot_name.mp3",
+              "animalSound": "animals/Sounds/parrot.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Birds Page 2",
+          "animals": [
+            {
+              "id": "macaw",
+              "name": "Macaw",
+              "image": "animals/Images/macaw.webp",
+              "nameSound": "animals/Sounds/macaw_name.mp3",
+              "animalSound": "animals/Sounds/macaw.mp3"
+            },
+            {
+              "id": "toucan",
+              "name": "Toucan",
+              "image": "animals/Images/toucan.webp",
+              "nameSound": "animals/Sounds/toucan_name.mp3",
+              "animalSound": "animals/Sounds/toucan.mp3"
+            },
+            {
+              "id": "barn_owl",
+              "name": "Barn Owl",
+              "image": "animals/Images/barn_owl.webp",
+              "nameSound": "animals/Sounds/barn_owl_name.mp3",
+              "animalSound": "animals/Sounds/barn_owl.mp3"
+            },
+            {
+              "id": "great_horned_owl",
+              "name": "Great Horned Owl",
+              "image": "animals/Images/great_horned_owl.webp",
+              "nameSound": "animals/Sounds/great_horned_owl_name.mp3",
+              "animalSound": "animals/Sounds/great_horned_owl.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 4
+        }
+      ],
+      "totalFilled": 20
+    },
+    {
+      "id": "dogs",
+      "title": "Dogs & Canines",
+      "subtitle": "Breeds & wild canines",
+      "emoji": "🐕",
+      "color": "#a66b3f",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Dogs & Canines",
+          "animals": [
+            {
+              "id": "border_collie",
+              "name": "Border Collie",
+              "image": "animals/Images/border_collie.webp",
+              "nameSound": "animals/Sounds/border_collie_name.mp3",
+              "animalSound": "animals/Sounds/border_collie.mp3"
+            },
+            {
+              "id": "golden_retriever",
+              "name": "Golden Retriever",
+              "image": "animals/Images/golden_retriever.webp",
+              "nameSound": "animals/Sounds/golden_retriever_name.mp3",
+              "animalSound": "animals/Sounds/golden_retriever.mp3"
+            },
+            {
+              "id": "wolf",
+              "name": "Wolf",
+              "image": "animals/Images/wolf.webp",
+              "nameSound": "animals/Sounds/wolf_name.mp3",
+              "animalSound": "animals/Sounds/wolf.mp3"
+            },
+            {
+              "id": "arctic_wolf",
+              "name": "Arctic Wolf",
+              "image": "animals/Images/arctic_wolf.webp",
+              "nameSound": "animals/Sounds/arctic_wolf_name.mp3",
+              "animalSound": "animals/Sounds/arctic_wolf.mp3"
+            },
+            {
+              "id": "coyote",
+              "name": "Coyote",
+              "image": "animals/Images/coyote.webp",
+              "nameSound": "animals/Sounds/coyote_name.mp3",
+              "animalSound": "animals/Sounds/coyote.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 5
+        }
+      ],
+      "totalFilled": 5
+    },
+    {
+      "id": "cats",
+      "title": "Cats Big & Small",
+      "subtitle": "Wild & house cats",
+      "emoji": "🐈",
+      "color": "#7c5cbf",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Cats Page 1",
+          "animals": [
+            {
+              "id": "siamese_cat",
+              "name": "Siamese Cat",
+              "image": "animals/Images/siamese_cat.webp",
+              "nameSound": "animals/Sounds/siamese_cat_name.mp3",
+              "animalSound": "animals/Sounds/siamese_cat.mp3"
+            },
+            {
+              "id": "tabby_cat",
+              "name": "Tabby Cat",
+              "image": "animals/Images/tabby_cat.webp",
+              "nameSound": "animals/Sounds/tabby_cat_name.mp3",
+              "animalSound": "animals/Sounds/tabby_cat.mp3"
+            },
+            {
+              "id": "bengal_tiger",
+              "name": "Bengal Tiger",
+              "image": "animals/Images/bengal_tiger.webp",
+              "nameSound": "animals/Sounds/bengal_tiger_name.mp3",
+              "animalSound": "animals/Sounds/bengal_tiger.mp3"
+            },
+            {
+              "id": "bobcat",
+              "name": "Bobcat",
+              "image": "animals/Images/bobcat.webp",
+              "nameSound": "animals/Sounds/bobcat_name.mp3",
+              "animalSound": "animals/Sounds/bobcat.mp3"
+            },
+            {
+              "id": "lion",
+              "name": "Lion",
+              "image": "animals/Images/lion.webp",
+              "nameSound": null,
+              "animalSound": null
+            },
+            {
+              "id": "leopard",
+              "name": "Leopard",
+              "image": "animals/Images/leopard.webp",
+              "nameSound": "animals/Sounds/leopard_name.mp3",
+              "animalSound": "animals/Sounds/leopard.mp3"
+            },
+            {
+              "id": "lynx",
+              "name": "Lynx",
+              "image": "animals/Images/lynx.webp",
+              "nameSound": "animals/Sounds/lynx_name.mp3",
+              "animalSound": "animals/Sounds/lynx.mp3"
+            },
+            {
+              "id": "jaguar",
+              "name": "Jaguar",
+              "image": "animals/Images/jaguar.webp",
+              "nameSound": "animals/Sounds/jaguar_name.mp3",
+              "animalSound": "animals/Sounds/jaguar.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 8
+        }
+      ],
+      "totalFilled": 8
+    },
+    {
+      "id": "water",
+      "title": "Water Habitats",
+      "subtitle": "Shallow & deep sea",
+      "emoji": "🌊",
+      "color": "#219ebc",
+      "type": "full",
+      "pages": [
+        {
+          "label": "Shallow & Coral",
+          "animals": [
+            {
+              "id": "clownfish",
+              "name": "Clownfish",
+              "image": "animals/Images/clownfish.webp",
+              "nameSound": "animals/Sounds/clownfish_name.mp3",
+              "animalSound": "animals/Sounds/clownfish.mp3"
+            },
+            {
+              "id": "angelfish",
+              "name": "Angelfish",
+              "image": "animals/Images/angelfish.webp",
+              "nameSound": "animals/Sounds/angelfish_name.mp3",
+              "animalSound": "animals/Sounds/angelfish.mp3"
+            },
+            {
+              "id": "jellyfish",
+              "name": "Jellyfish",
+              "image": "animals/Images/jellyfish.webp",
+              "nameSound": "animals/Sounds/jellyfish_name.mp3",
+              "animalSound": "animals/Sounds/jellyfish.mp3"
+            },
+            {
+              "id": "starfish",
+              "name": "Starfish",
+              "image": "animals/Images/starfish.webp",
+              "nameSound": "animals/Sounds/starfish_name.mp3",
+              "animalSound": "animals/Sounds/starfish.mp3"
+            },
+            {
+              "id": "seahorse",
+              "name": "Seahorse",
+              "image": "animals/Images/seahorse.webp",
+              "nameSound": "animals/Sounds/seahorse_name.mp3",
+              "animalSound": "animals/Sounds/seahorse.mp3"
+            },
+            {
+              "id": "sea_turtle",
+              "name": "Sea Turtle",
+              "image": "animals/Images/sea_turtle.webp",
+              "nameSound": "animals/Sounds/sea_turtle_name.mp3",
+              "animalSound": "animals/Sounds/sea_turtle.mp3"
+            },
+            {
+              "id": "lobster",
+              "name": "Lobster",
+              "image": "animals/Images/lobster.webp",
+              "nameSound": "animals/Sounds/lobster_name.mp3",
+              "animalSound": "animals/Sounds/lobster.mp3"
+            },
+            {
+              "id": "hermit_crab",
+              "name": "Hermit Crab",
+              "image": "animals/Images/hermit_crab.webp",
+              "nameSound": "animals/Sounds/hermit_crab_name.mp3",
+              "animalSound": "animals/Sounds/hermit_crab.mp3"
+            },
+            {
+              "id": "brain_coral",
+              "name": "Brain Coral",
+              "image": "animals/Images/brain_coral.webp",
+              "nameSound": "animals/Sounds/brain_coral_name.mp3",
+              "animalSound": "animals/Sounds/brain_coral.mp3"
+            },
+            {
+              "id": "sea_anemone",
+              "name": "Sea Anemone",
+              "image": "animals/Images/sea_anemone.webp",
+              "nameSound": "animals/Sounds/sea_anemone_name.mp3",
+              "animalSound": "animals/Sounds/sea_anemone.mp3"
+            },
+            {
+              "id": "butterflyfish",
+              "name": "Butterflyfish",
+              "image": "animals/Images/butterflyfish.webp",
+              "nameSound": "animals/Sounds/butterflyfish_name.mp3",
+              "animalSound": "animals/Sounds/butterflyfish.mp3"
+            },
+            {
+              "id": "blue_tang",
+              "name": "Blue Tang",
+              "image": "animals/Images/blue_tang.webp",
+              "nameSound": "animals/Sounds/blue_tang_name.mp3",
+              "animalSound": "animals/Sounds/blue_tang.mp3"
+            },
+            {
+              "id": "mandarinfish",
+              "name": "Mandarinfish",
+              "image": "animals/Images/mandarinfish.webp",
+              "nameSound": "animals/Sounds/mandarinfish_name.mp3",
+              "animalSound": "animals/Sounds/mandarinfish.mp3"
+            },
+            {
+              "id": "moorish_idol",
+              "name": "Moorish Idol",
+              "image": "animals/Images/moorish_idol.webp",
+              "nameSound": "animals/Sounds/moorish_idol_name.mp3",
+              "animalSound": "animals/Sounds/moorish_idol.mp3"
+            },
+            {
+              "id": "parrotfish",
+              "name": "Parrotfish",
+              "image": "animals/Images/parrotfish.webp",
+              "nameSound": "animals/Sounds/parrotfish_name.mp3",
+              "animalSound": "animals/Sounds/parrotfish.mp3"
+            },
+            {
+              "id": "triggerfish",
+              "name": "Triggerfish",
+              "image": "animals/Images/triggerfish.webp",
+              "nameSound": "animals/Sounds/triggerfish_name.mp3",
+              "animalSound": "animals/Sounds/triggerfish.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Deep Ocean",
+          "animals": [
+            {
+              "id": "anglerfish",
+              "name": "Anglerfish",
+              "image": "animals/Images/anglerfish.webp",
+              "nameSound": "animals/Sounds/anglerfish_name.mp3",
+              "animalSound": "animals/Sounds/anglerfish.mp3"
+            },
+            {
+              "id": "blobfish",
+              "name": "Blobfish",
+              "image": "animals/Images/blobfish.webp",
+              "nameSound": "animals/Sounds/blobfish_name.mp3",
+              "animalSound": "animals/Sounds/blobfish.mp3"
+            },
+            {
+              "id": "vampire_squid",
+              "name": "Vampire Squid",
+              "image": "animals/Images/vampire_squid.webp",
+              "nameSound": "animals/Sounds/vampire_squid_name.mp3",
+              "animalSound": "animals/Sounds/vampire_squid.mp3"
+            },
+            {
+              "id": "giant_squid",
+              "name": "Giant Squid",
+              "image": "animals/Images/giant_squid.webp",
+              "nameSound": "animals/Sounds/giant_squid_name.mp3",
+              "animalSound": "animals/Sounds/giant_squid.mp3"
+            },
+            {
+              "id": "dumbo_octopus",
+              "name": "Dumbo Octopus",
+              "image": "animals/Images/dumbo_octopus.webp",
+              "nameSound": "animals/Sounds/dumbo_octopus_name.mp3",
+              "animalSound": "animals/Sounds/dumbo_octopus.mp3"
+            },
+            {
+              "id": "goblin_shark",
+              "name": "Goblin Shark",
+              "image": "animals/Images/goblin_shark.webp",
+              "nameSound": "animals/Sounds/goblin_shark_name.mp3",
+              "animalSound": "animals/Sounds/goblin_shark.mp3"
+            },
+            {
+              "id": "frilled_shark",
+              "name": "Frilled Shark",
+              "image": "animals/Images/frilled_shark.webp",
+              "nameSound": "animals/Sounds/frilled_shark_name.mp3",
+              "animalSound": "animals/Sounds/frilled_shark.mp3"
+            },
+            {
+              "id": "dragonfish",
+              "name": "Dragonfish",
+              "image": "animals/Images/dragonfish.webp",
+              "nameSound": "animals/Sounds/dragonfish_name.mp3",
+              "animalSound": "animals/Sounds/dragonfish.mp3"
+            },
+            {
+              "id": "viperfish",
+              "name": "Viperfish",
+              "image": "animals/Images/viperfish.webp",
+              "nameSound": "animals/Sounds/viperfish_name.mp3",
+              "animalSound": "animals/Sounds/viperfish.mp3"
+            },
+            {
+              "id": "fangtooth",
+              "name": "Fangtooth",
+              "image": "animals/Images/fangtooth.webp",
+              "nameSound": "animals/Sounds/fangtooth_name.mp3",
+              "animalSound": "animals/Sounds/fangtooth.mp3"
+            },
+            {
+              "id": "gulper_eel",
+              "name": "Gulper Eel",
+              "image": "animals/Images/gulper_eel.webp",
+              "nameSound": "animals/Sounds/gulper_eel_name.mp3",
+              "animalSound": "animals/Sounds/gulper_eel.mp3"
+            },
+            {
+              "id": "hatchetfish",
+              "name": "Hatchetfish",
+              "image": "animals/Images/hatchetfish.webp",
+              "nameSound": "animals/Sounds/hatchetfish_name.mp3",
+              "animalSound": "animals/Sounds/hatchetfish.mp3"
+            },
+            {
+              "id": "lanternfish",
+              "name": "Lanternfish",
+              "image": "animals/Images/lanternfish.webp",
+              "nameSound": "animals/Sounds/lanternfish_name.mp3",
+              "animalSound": "animals/Sounds/lanternfish.mp3"
+            },
+            {
+              "id": "barreleye",
+              "name": "Barreleye",
+              "image": "animals/Images/barreleye.webp",
+              "nameSound": "animals/Sounds/barreleye_name.mp3",
+              "animalSound": "animals/Sounds/barreleye.mp3"
+            },
+            {
+              "id": "coffinfish",
+              "name": "Coffinfish",
+              "image": "animals/Images/coffinfish.webp",
+              "nameSound": "animals/Sounds/coffinfish_name.mp3",
+              "animalSound": "animals/Sounds/coffinfish.mp3"
+            },
+            {
+              "id": "oarfish",
+              "name": "Oarfish",
+              "image": "animals/Images/oarfish.webp",
+              "nameSound": "animals/Sounds/oarfish_name.mp3",
+              "animalSound": "animals/Sounds/oarfish.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Ocean Life 1",
+          "animals": [
+            {
+              "id": "lionfish",
+              "name": "Lionfish",
+              "image": "animals/Images/lionfish.webp",
+              "nameSound": "animals/Sounds/lionfish_name.mp3",
+              "animalSound": "animals/Sounds/lionfish.mp3"
+            },
+            {
+              "id": "manta_ray",
+              "name": "Manta Ray",
+              "image": "animals/Images/manta_ray.webp",
+              "nameSound": "animals/Sounds/manta_ray_name.mp3",
+              "animalSound": "animals/Sounds/manta_ray.mp3"
+            },
+            {
+              "id": "stingray",
+              "name": "Stingray",
+              "image": "animals/Images/stingray.webp",
+              "nameSound": "animals/Sounds/stingray_name.mp3",
+              "animalSound": "animals/Sounds/stingray.mp3"
+            },
+            {
+              "id": "reef_shark",
+              "name": "Reef Shark",
+              "image": "animals/Images/reef_shark.webp",
+              "nameSound": "animals/Sounds/reef_shark_name.mp3",
+              "animalSound": "animals/Sounds/reef_shark.mp3"
+            },
+            {
+              "id": "hammerhead_shark",
+              "name": "Hammerhead Shark",
+              "image": "animals/Images/hammerhead_shark.webp",
+              "nameSound": "animals/Sounds/hammerhead_shark_name.mp3",
+              "animalSound": "animals/Sounds/hammerhead_shark.mp3"
+            },
+            {
+              "id": "great_white_shark",
+              "name": "Great White Shark",
+              "image": "animals/Images/great_white_shark.webp",
+              "nameSound": "animals/Sounds/great_white_shark_name.mp3",
+              "animalSound": "animals/Sounds/great_white_shark.mp3"
+            },
+            {
+              "id": "tiger_shark",
+              "name": "Tiger Shark",
+              "image": "animals/Images/tiger_shark.webp",
+              "nameSound": "animals/Sounds/tiger_shark_name.mp3",
+              "animalSound": "animals/Sounds/tiger_shark.mp3"
+            },
+            {
+              "id": "sea_urchin",
+              "name": "Sea Urchin",
+              "image": "animals/Images/sea_urchin.webp",
+              "nameSound": "animals/Sounds/sea_urchin_name.mp3",
+              "animalSound": "animals/Sounds/sea_urchin.mp3"
+            },
+            {
+              "id": "sea_fan",
+              "name": "Sea Fan",
+              "image": "animals/Images/sea_fan.webp",
+              "nameSound": "animals/Sounds/sea_fan_name.mp3",
+              "animalSound": "animals/Sounds/sea_fan.mp3"
+            },
+            {
+              "id": "sea_sponge",
+              "name": "Sea Sponge",
+              "image": "animals/Images/sea_sponge.webp",
+              "nameSound": "animals/Sounds/sea_sponge_name.mp3",
+              "animalSound": "animals/Sounds/sea_sponge.mp3"
+            },
+            {
+              "id": "sand_dollar",
+              "name": "Sand Dollar",
+              "image": "animals/Images/sand_dollar.webp",
+              "nameSound": "animals/Sounds/sand_dollar_name.mp3",
+              "animalSound": "animals/Sounds/sand_dollar.mp3"
+            },
+            {
+              "id": "scallop",
+              "name": "Scallop",
+              "image": "animals/Images/scallop.webp",
+              "nameSound": "animals/Sounds/scallop_name.mp3",
+              "animalSound": "animals/Sounds/scallop.mp3"
+            },
+            {
+              "id": "mussel",
+              "name": "Mussel",
+              "image": "animals/Images/mussel.webp",
+              "nameSound": "animals/Sounds/mussel_name.mp3",
+              "animalSound": "animals/Sounds/mussel.mp3"
+            },
+            {
+              "id": "oyster",
+              "name": "Oyster",
+              "image": "animals/Images/oyster.webp",
+              "nameSound": "animals/Sounds/oyster_name.mp3",
+              "animalSound": "animals/Sounds/oyster.mp3"
+            },
+            {
+              "id": "manatee",
+              "name": "Manatee",
+              "image": "animals/Images/manatee.webp",
+              "nameSound": "animals/Sounds/manatee_name.mp3",
+              "animalSound": "animals/Sounds/manatee.mp3"
+            },
+            {
+              "id": "bottlenose_dolphin",
+              "name": "Bottlenose Dolphin",
+              "image": "animals/Images/bottlenose_dolphin.webp",
+              "nameSound": "animals/Sounds/bottlenose_dolphin_name.mp3",
+              "animalSound": "animals/Sounds/bottlenose_dolphin.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Ocean Life 2",
+          "animals": [
+            {
+              "id": "sea_otter",
+              "name": "Sea Otter",
+              "image": "animals/Images/sea_otter.webp",
+              "nameSound": "animals/Sounds/sea_otter_name.mp3",
+              "animalSound": "animals/Sounds/sea_otter.mp3"
+            },
+            {
+              "id": "sea_lion",
+              "name": "Sea Lion",
+              "image": "animals/Images/sea_lion.webp",
+              "nameSound": "animals/Sounds/sea_lion_name.mp3",
+              "animalSound": "animals/Sounds/sea_lion.mp3"
+            },
+            {
+              "id": "cuttlefish",
+              "name": "Cuttlefish",
+              "image": "animals/Images/cuttlefish.webp",
+              "nameSound": "animals/Sounds/cuttlefish_name.mp3",
+              "animalSound": "animals/Sounds/cuttlefish.mp3"
+            },
+            {
+              "id": "octopus",
+              "name": "Octopus",
+              "image": "animals/Images/octopus.webp",
+              "nameSound": "animals/Sounds/octopus_name.mp3",
+              "animalSound": "animals/Sounds/octopus.mp3"
+            },
+            {
+              "id": "nudibranch",
+              "name": "Nudibranch",
+              "image": "animals/Images/nudibranch.webp",
+              "nameSound": "animals/Sounds/nudibranch_name.mp3",
+              "animalSound": "animals/Sounds/nudibranch.mp3"
+            },
+            {
+              "id": "giant_clam",
+              "name": "Giant Clam",
+              "image": "animals/Images/giant_clam.webp",
+              "nameSound": "animals/Sounds/giant_clam_name.mp3",
+              "animalSound": "animals/Sounds/giant_clam.mp3"
+            },
+            {
+              "id": "conch_snail",
+              "name": "Conch Snail",
+              "image": "animals/Images/conch_snail.webp",
+              "nameSound": "animals/Sounds/conch_snail_name.mp3",
+              "animalSound": "animals/Sounds/conch_snail.mp3"
+            },
+            {
+              "id": "fiddler_crab",
+              "name": "Fiddler Crab",
+              "image": "animals/Images/fiddler_crab.webp",
+              "nameSound": "animals/Sounds/fiddler_crab_name.mp3",
+              "animalSound": "animals/Sounds/fiddler_crab.mp3"
+            },
+            {
+              "id": "cleaner_shrimp",
+              "name": "Cleaner Shrimp",
+              "image": "animals/Images/cleaner_shrimp.webp",
+              "nameSound": "animals/Sounds/cleaner_shrimp_name.mp3",
+              "animalSound": "animals/Sounds/cleaner_shrimp.mp3"
+            },
+            {
+              "id": "boxfish",
+              "name": "Boxfish",
+              "image": "animals/Images/boxfish.webp",
+              "nameSound": "animals/Sounds/boxfish_name.mp3",
+              "animalSound": "animals/Sounds/boxfish.mp3"
+            },
+            {
+              "id": "flounder",
+              "name": "Flounder",
+              "image": "animals/Images/flounder.webp",
+              "nameSound": "animals/Sounds/flounder_name.mp3",
+              "animalSound": "animals/Sounds/flounder.mp3"
+            },
+            {
+              "id": "barracuda",
+              "name": "Barracuda",
+              "image": "animals/Images/barracuda.webp",
+              "nameSound": "animals/Sounds/barracuda_name.mp3",
+              "animalSound": "animals/Sounds/barracuda.mp3"
+            },
+            {
+              "id": "moray_eel",
+              "name": "Moray Eel",
+              "image": "animals/Images/moray_eel.webp",
+              "nameSound": "animals/Sounds/moray_eel_name.mp3",
+              "animalSound": "animals/Sounds/moray_eel.mp3"
+            },
+            {
+              "id": "sea_pen",
+              "name": "Sea Pen",
+              "image": "animals/Images/sea_pen.webp",
+              "nameSound": "animals/Sounds/sea_pen_name.mp3",
+              "animalSound": "animals/Sounds/sea_pen.mp3"
+            },
+            {
+              "id": "sea_angel",
+              "name": "Sea Angel",
+              "image": "animals/Images/sea_angel.webp",
+              "nameSound": "animals/Sounds/sea_angel_name.mp3",
+              "animalSound": "animals/Sounds/sea_angel.mp3"
+            },
+            {
+              "id": "nautilus",
+              "name": "Nautilus",
+              "image": "animals/Images/nautilus.webp",
+              "nameSound": "animals/Sounds/nautilus_name.mp3",
+              "animalSound": "animals/Sounds/nautilus.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Ocean Life 3",
+          "animals": [
+            {
+              "id": "pufferfish",
+              "name": "Pufferfish",
+              "image": "animals/Images/pufferfish.webp",
+              "nameSound": "animals/Sounds/pufferfish_name.mp3",
+              "animalSound": "animals/Sounds/pufferfish.mp3"
+            },
+            {
+              "id": "stonefish",
+              "name": "Stonefish",
+              "image": "animals/Images/stonefish.webp",
+              "nameSound": "animals/Sounds/stonefish_name.mp3",
+              "animalSound": "animals/Sounds/stonefish.mp3"
+            },
+            {
+              "id": "trumpetfish",
+              "name": "Trumpetfish",
+              "image": "animals/Images/trumpetfish.webp",
+              "nameSound": "animals/Sounds/trumpetfish_name.mp3",
+              "animalSound": "animals/Sounds/trumpetfish.mp3"
+            },
+            {
+              "id": "colossal_squid",
+              "name": "Colossal Squid",
+              "image": "animals/Images/colossal_squid.webp",
+              "nameSound": "animals/Sounds/colossal_squid_name.mp3",
+              "animalSound": "animals/Sounds/colossal_squid.mp3"
+            },
+            {
+              "id": "cookiecutter_shark",
+              "name": "Cookiecutter Shark",
+              "image": "animals/Images/cookiecutter_shark.webp",
+              "nameSound": "animals/Sounds/cookiecutter_shark_name.mp3",
+              "animalSound": "animals/Sounds/cookiecutter_shark.mp3"
+            },
+            {
+              "id": "six_gill_shark",
+              "name": "Six Gill Shark",
+              "image": "animals/Images/six_gill_shark.webp",
+              "nameSound": "animals/Sounds/six_gill_shark_name.mp3",
+              "animalSound": "animals/Sounds/six_gill_shark.mp3"
+            },
+            {
+              "id": "grenadier_fish",
+              "name": "Grenadier Fish",
+              "image": "animals/Images/grenadier_fish.webp",
+              "nameSound": "animals/Sounds/grenadier_fish_name.mp3",
+              "animalSound": "animals/Sounds/grenadier_fish.mp3"
+            },
+            {
+              "id": "lizardfish",
+              "name": "Lizardfish",
+              "image": "animals/Images/lizardfish.webp",
+              "nameSound": "animals/Sounds/lizardfish_name.mp3",
+              "animalSound": "animals/Sounds/lizardfish.mp3"
+            },
+            {
+              "id": "snipe_eel",
+              "name": "Snipe Eel",
+              "image": "animals/Images/snipe_eel.webp",
+              "nameSound": "animals/Sounds/snipe_eel_name.mp3",
+              "animalSound": "animals/Sounds/snipe_eel.mp3"
+            },
+            {
+              "id": "cusk_eel",
+              "name": "Cusk Eel",
+              "image": "animals/Images/cusk_eel.webp",
+              "nameSound": "animals/Sounds/cusk_eel_name.mp3",
+              "animalSound": "animals/Sounds/cusk_eel.mp3"
+            },
+            {
+              "id": "chimaera",
+              "name": "Chimaera",
+              "image": "animals/Images/chimaera.webp",
+              "nameSound": "animals/Sounds/chimaera_name.mp3",
+              "animalSound": "animals/Sounds/chimaera.mp3"
+            },
+            {
+              "id": "ghost_shark",
+              "name": "Ghost Shark",
+              "image": "animals/Images/ghost_shark.webp",
+              "nameSound": "animals/Sounds/ghost_shark_name.mp3",
+              "animalSound": "animals/Sounds/ghost_shark.mp3"
+            },
+            {
+              "id": "spookfish",
+              "name": "Spookfish",
+              "image": "animals/Images/spookfish.webp",
+              "nameSound": "animals/Sounds/spookfish_name.mp3",
+              "animalSound": "animals/Sounds/spookfish.mp3"
+            },
+            {
+              "id": "stoplight_loosejaw",
+              "name": "Stoplight Loosejaw",
+              "image": "animals/Images/stoplight_loosejaw.webp",
+              "nameSound": "animals/Sounds/stoplight_loosejaw_name.mp3",
+              "animalSound": "animals/Sounds/stoplight_loosejaw.mp3"
+            },
+            {
+              "id": "flashlight_fish",
+              "name": "Flashlight Fish",
+              "image": "animals/Images/flashlight_fish.webp",
+              "nameSound": "animals/Sounds/flashlight_fish_name.mp3",
+              "animalSound": "animals/Sounds/flashlight_fish.mp3"
+            },
+            {
+              "id": "tripod_fish",
+              "name": "Tripod Fish",
+              "image": "animals/Images/tripod_fish.webp",
+              "nameSound": "animals/Sounds/tripod_fish_name.mp3",
+              "animalSound": "animals/Sounds/tripod_fish.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Ocean Life 4",
+          "animals": [
+            {
+              "id": "wolffish",
+              "name": "Wolffish",
+              "image": "animals/Images/wolffish.webp",
+              "nameSound": "animals/Sounds/wolffish_name.mp3",
+              "animalSound": "animals/Sounds/wolffish.mp3"
+            },
+            {
+              "id": "mariana_snailfish",
+              "name": "Mariana Snailfish",
+              "image": "animals/Images/mariana_snailfish.webp",
+              "nameSound": "animals/Sounds/mariana_snailfish_name.mp3",
+              "animalSound": "animals/Sounds/mariana_snailfish.mp3"
+            },
+            {
+              "id": "faceless_cusk",
+              "name": "Faceless Cusk",
+              "image": "animals/Images/faceless_cusk.webp",
+              "nameSound": "animals/Sounds/faceless_cusk_name.mp3",
+              "animalSound": "animals/Sounds/faceless_cusk.mp3"
+            },
+            {
+              "id": "black_swallower",
+              "name": "Black Swallower",
+              "image": "animals/Images/black_swallower.webp",
+              "nameSound": "animals/Sounds/black_swallower_name.mp3",
+              "animalSound": "animals/Sounds/black_swallower.mp3"
+            },
+            {
+              "id": "deep_sea_jellyfish",
+              "name": "Deep Sea Jellyfish",
+              "image": "animals/Images/deep_sea_jellyfish.webp",
+              "nameSound": "animals/Sounds/deep_sea_jellyfish_name.mp3",
+              "animalSound": "animals/Sounds/deep_sea_jellyfish.mp3"
+            },
+            {
+              "id": "deep_sea_cucumber",
+              "name": "Deep Sea Cucumber",
+              "image": "animals/Images/deep_sea_cucumber.webp",
+              "nameSound": "animals/Sounds/deep_sea_cucumber_name.mp3",
+              "animalSound": "animals/Sounds/deep_sea_cucumber.mp3"
+            },
+            {
+              "id": "deep_sea_amphipod",
+              "name": "Deep Sea Amphipod",
+              "image": "animals/Images/deep_sea_amphipod.webp",
+              "nameSound": "animals/Sounds/deep_sea_amphipod_name.mp3",
+              "animalSound": "animals/Sounds/deep_sea_amphipod.mp3"
+            },
+            {
+              "id": "comb_jelly",
+              "name": "Comb Jelly",
+              "image": "animals/Images/comb_jelly.webp",
+              "nameSound": "animals/Sounds/comb_jelly_name.mp3",
+              "animalSound": "animals/Sounds/comb_jelly.mp3"
+            },
+            {
+              "id": "big_red_jelly",
+              "name": "Big Red Jelly",
+              "image": "animals/Images/big_red_jelly.webp",
+              "nameSound": "animals/Sounds/big_red_jelly_name.mp3",
+              "animalSound": "animals/Sounds/big_red_jelly.mp3"
+            },
+            {
+              "id": "siphonophore",
+              "name": "Siphonophore",
+              "image": "animals/Images/siphonophore.webp",
+              "nameSound": "animals/Sounds/siphonophore_name.mp3",
+              "animalSound": "animals/Sounds/siphonophore.mp3"
+            },
+            {
+              "id": "glass_sponge",
+              "name": "Glass Sponge",
+              "image": "animals/Images/glass_sponge.webp",
+              "nameSound": "animals/Sounds/glass_sponge_name.mp3",
+              "animalSound": "animals/Sounds/glass_sponge.mp3"
+            },
+            {
+              "id": "giant_tube_worm",
+              "name": "Giant Tube Worm",
+              "image": "animals/Images/giant_tube_worm.webp",
+              "nameSound": "animals/Sounds/giant_tube_worm_name.mp3",
+              "animalSound": "animals/Sounds/giant_tube_worm.mp3"
+            },
+            {
+              "id": "basket_star",
+              "name": "Basket Star",
+              "image": "animals/Images/basket_star.webp",
+              "nameSound": "animals/Sounds/basket_star_name.mp3",
+              "animalSound": "animals/Sounds/basket_star.mp3"
+            },
+            {
+              "id": "brisingid_starfish",
+              "name": "Brisingid Starfish",
+              "image": "animals/Images/brisingid_starfish.webp",
+              "nameSound": "animals/Sounds/brisingid_starfish_name.mp3",
+              "animalSound": "animals/Sounds/brisingid_starfish.mp3"
+            },
+            {
+              "id": "beaked_whale",
+              "name": "Beaked Whale",
+              "image": "animals/Images/beaked_whale.webp",
+              "nameSound": "animals/Sounds/beaked_whale_name.mp3",
+              "animalSound": "animals/Sounds/beaked_whale.mp3"
+            },
+            {
+              "id": "orca",
+              "name": "Orca",
+              "image": "animals/Images/orca.webp",
+              "nameSound": "animals/Sounds/orca_name.mp3",
+              "animalSound": "animals/Sounds/orca.mp3"
+            }
+          ],
+          "filled": 16
+        },
+        {
+          "label": "Ocean Life 5",
+          "animals": [
+            {
+              "id": "abyssal_spiderfish",
+              "name": "Abyssal Spiderfish",
+              "image": "animals/Images/abyssal_spiderfish.webp",
+              "nameSound": "animals/Sounds/abyssal_spiderfish_name.mp3",
+              "animalSound": "animals/Sounds/abyssal_spiderfish.mp3"
+            },
+            {
+              "id": "monophore",
+              "name": "Monophore",
+              "image": "animals/Images/monophore.webp",
+              "nameSound": "animals/Sounds/monophore_name.mp3",
+              "animalSound": "animals/Sounds/monophore.mp3"
+            },
+            {
+              "id": "ping_pong_tree_sponge",
+              "name": "Ping Pong Tree Sponge",
+              "image": "animals/Images/ping_pong_tree_sponge.webp",
+              "nameSound": "animals/Sounds/ping_pong_tree_sponge_name.mp3",
+              "animalSound": "animals/Sounds/ping_pong_tree_sponge.mp3"
+            },
+            {
+              "id": "plankton",
+              "name": "Plankton",
+              "image": "animals/Images/plankton.webp",
+              "nameSound": "animals/Sounds/plankton_name.mp3",
+              "animalSound": "animals/Sounds/plankton.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 4
+        }
+      ],
+      "totalFilled": 100
+    },
+    {
+      "id": "bugs",
+      "title": "Bugs & Insects",
+      "subtitle": "Creepy crawlies",
+      "emoji": "🐛",
+      "color": "#84a059",
+      "type": "single",
+      "pages": [
+        {
+          "label": "Bugs & Insects",
+          "animals": [
+            {
+              "id": "moth",
+              "name": "Moth",
+              "image": "animals/Images/moth.webp",
+              "nameSound": "animals/Sounds/moth_name.mp3",
+              "animalSound": "animals/Sounds/moth.mp3"
+            },
+            {
+              "id": "tarantula",
+              "name": "Tarantula",
+              "image": "animals/Images/tarantula.webp",
+              "nameSound": "animals/Sounds/tarantula_name.mp3",
+              "animalSound": "animals/Sounds/tarantula.mp3"
+            },
+            {
+              "id": "firefly",
+              "name": "Firefly",
+              "image": "animals/Images/firefly.webp",
+              "nameSound": "animals/Sounds/firefly_name.mp3",
+              "animalSound": "animals/Sounds/firefly.mp3"
+            },
+            {
+              "id": "leafcutter_ant",
+              "name": "Leafcutter Ant",
+              "image": "animals/Images/leafcutter_ant.webp",
+              "nameSound": "animals/Sounds/leafcutter_ant_name.mp3",
+              "animalSound": "animals/Sounds/leafcutter_ant.mp3"
+            },
+            {
+              "id": "barnacle",
+              "name": "Barnacle",
+              "image": "animals/Images/barnacle.webp",
+              "nameSound": "animals/Sounds/barnacle_name.mp3",
+              "animalSound": "animals/Sounds/barnacle.mp3"
+            },
+            {
+              "id": "horseshoe_crab",
+              "name": "Horseshoe Crab",
+              "image": "animals/Images/horseshoe_crab.webp",
+              "nameSound": "animals/Sounds/horseshoe_crab_name.mp3",
+              "animalSound": "animals/Sounds/horseshoe_crab.mp3"
+            },
+            {
+              "id": "krill",
+              "name": "Krill",
+              "image": "animals/Images/krill.webp",
+              "nameSound": "animals/Sounds/krill_name.mp3",
+              "animalSound": "animals/Sounds/krill.mp3"
+            },
+            {
+              "id": "japanese_spider_crab",
+              "name": "Japanese Spider Crab",
+              "image": "animals/Images/japanese_spider_crab.webp",
+              "nameSound": "animals/Sounds/japanese_spider_crab_name.mp3",
+              "animalSound": "animals/Sounds/japanese_spider_crab.mp3"
+            },
+            {
+              "id": "acorn_worm",
+              "name": "Acorn Worm",
+              "image": "animals/Images/acorn_worm.webp",
+              "nameSound": "animals/Sounds/acorn_worm_name.mp3",
+              "animalSound": "animals/Sounds/acorn_worm.mp3"
+            },
+            {
+              "id": "zombie_worm",
+              "name": "Zombie Worm",
+              "image": "animals/Images/zombie_worm.webp",
+              "nameSound": "animals/Sounds/zombie_worm_name.mp3",
+              "animalSound": "animals/Sounds/zombie_worm.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 10
+        }
+      ],
+      "totalFilled": 10
+    },
+    {
+      "id": "nocturnal",
+      "title": "Nocturnal",
+      "subtitle": "Night-active animals",
+      "emoji": "🌙",
+      "color": "#4a4e69",
+      "type": "single",
+      "pages": [
+        {
+          "label": "Night Animals",
+          "animals": [
+            {
+              "id": "vampire_bat",
+              "name": "Vampire Bat",
+              "image": "animals/Images/vampire_bat.webp",
+              "nameSound": "animals/Sounds/vampire_bat_name.mp3",
+              "animalSound": "animals/Sounds/vampire_bat.mp3"
+            },
+            {
+              "id": "wombat",
+              "name": "Wombat",
+              "image": "animals/Images/wombat.webp",
+              "nameSound": "animals/Sounds/wombat_name.mp3",
+              "animalSound": "animals/Sounds/wombat.mp3"
+            },
+            {
+              "id": "badger",
+              "name": "Badger",
+              "image": "animals/Images/badger.webp",
+              "nameSound": "animals/Sounds/badger_name.mp3",
+              "animalSound": "animals/Sounds/badger.mp3"
+            },
+            {
+              "id": "skunk",
+              "name": "Skunk",
+              "image": "animals/Images/skunk.webp",
+              "nameSound": "animals/Sounds/skunk_name.mp3",
+              "animalSound": "animals/Sounds/skunk.mp3"
+            },
+            {
+              "id": "raccoon",
+              "name": "Raccoon",
+              "image": "animals/Images/raccoon.webp",
+              "nameSound": "animals/Sounds/raccoon_name.mp3",
+              "animalSound": "animals/Sounds/raccoon.mp3"
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "filled": 5
+        }
+      ],
+      "totalFilled": 5
+    }
+  ],
+  "stats": {
+    "imageCount": 255,
+    "assigned": 255,
+    "unassigned": 0,
+    "unassignedIds": []
+  }
+}

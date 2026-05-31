@@ -1,0 +1,22 @@
+{
+  "name": "liora-animal-learning",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Liora — iPad animal learning app",
+  "scripts": {
+    "generate": "node scripts/generate-categories.js",
+    "sounds:import": "node scripts/import-animal-sounds.js",
+    "sounds:try-sfx": "node scripts/elevenlabs-sfx-test.mjs",
+    "sounds:batch": "node scripts/elevenlabs-sfx-batch.mjs --all --limit 4 --batch-pause 30000",
+    "sounds:batch-once": "node scripts/elevenlabs-sfx-batch.mjs --limit 4",
+    "sounds:fact-test": "node scripts/elevenlabs-fact-voice-test.mjs",
+    "sounds:fact-voices": "node scripts/list-fact-voice-presets.mjs",
+    "sounds:fact-batch": "node scripts/elevenlabs-fact-voice-batch.mjs --limit 4",
+    "sounds:checklists": "node scripts/export-checklists.js",
+    "build": "node scripts/build-manifest.js",
+    "facts": "node scripts/generate_animal_records.py 2>nul || echo Facts file: data/animal_records.json",
+    "prepare": "npm run generate && npm run build",
+    "start": "npx --yes serve . -l 5199",
+    "dev": "npm run prepare && npm start"
+  }
+}

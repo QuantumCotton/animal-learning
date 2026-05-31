@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Jessica — playful & bright (best bubbly pick)",
+    "elevenlabsName": "Jessica",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "notes": "American female. Playful, bright, warm — great for fun animal facts. Search Voice Library: Jessica. Premade ID from ElevenLabs public voice listings."
+  },
+  {
+    "label": "Gigi — cartoon kid voice",
+    "elevenlabsName": "Gigi",
+    "voiceId": "jBpfuIE2acCO8z3wKNLl",
+    "notes": "American female, young, childish animation style. Very kid-like — can sound younger than other picks. Search: Gigi."
+  },
+  {
+    "label": "Freya — energetic & hyped",
+    "elevenlabsName": "Freya",
+    "voiceId": "jsCqWAovK2LkecY7zXl4",
+    "notes": "American female, young, overhyped/energetic (video-game vibe). Bubbly and excited. Search: Freya."
+  },
+  {
+    "label": "Elli — warm emotional narrator",
+    "elevenlabsName": "Elli",
+    "voiceId": "MF3mGyEYCl7XYWbV9V6O",
+    "notes": "American female, young, emotional narration. Softer than Freya but still expressive. Search: Elli."
+  },
+  {
+    "label": "Domi — confident & punchy",
+    "elevenlabsName": "Domi",
+    "voiceId": "AZnzlk1XvdvUeBnXmlld",
+    "notes": "American female, young, strong/confident. Less soft, more upbeat energy. Search: Domi."
+  },
+  {
+    "label": "Dorothy — storybook (British accent)",
+    "elevenlabsName": "Dorothy",
+    "voiceId": "ThT5KcBeYPX3keUQqHPh",
+    "notes": "British female, young, pleasant — labeled for children's stories. Skip if you want American only. Search: Dorothy."
+  },
+  {
+    "label": "Nicole — soft & gentle",
+    "elevenlabsName": "Nicole",
+    "voiceId": "piTKgcLEGmPE4e6mEKli",
+    "notes": "American female, young, soft/whispery. Calm rather than bubbly — good for bedtime facts. Search: Nicole."
+  },
+  {
+    "label": "Mimi — animation (Swedish accent)",
+    "elevenlabsName": "Mimi",
+    "voiceId": "zrHiDhphv9ZnVXBqCLjz",
+    "notes": "Swedish-accent female, young, childish animation. Cute but not American. Search: Mimi."
+  },
+  {
+    "label": "Matilda — calm professional alto",
+    "elevenlabsName": "Matilda",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "notes": "Professional warm alto — friendly but not cartoon-bubbly. Search: Matilda."
+  },
+  {
+    "label": "Community: search bubbly / children",
+    "elevenlabsName": null,
+    "voiceId": null,
+    "notes": "In Voice Library search: bubbly, children, cartoon, enthusiastic, young. Filter Language: English, Accent: American. Add voice to My Voices, then Copy voice ID."
+  }
+]

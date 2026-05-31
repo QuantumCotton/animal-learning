@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="theme-color" content="#8b7355" />
+    <title>Liora — Animal Learning</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="icons/icon-192.png" />
+    <link rel="stylesheet" href="/web/css/app.css?v=book-nav-3" />
+  </head>
+  <body>
+    <div class="world" id="world">
+      <div class="book-assembly" id="book-assembly">
+        <div class="book" id="book">
+          <!-- Tabs live ON the book cover edges (LeapFrog style) -->
+          <div class="tabs-rail tabs-rail--left" id="tabs-left" aria-label="Earlier chapters"></div>
+          <div class="tabs-rail tabs-rail--right" id="tabs-right" aria-label="Later chapters"></div>
+
+          <div class="book-inner">
+            <div class="book-flip-stage" id="book-flip-stage">
+            <div class="book-container book-pages" id="book-pages">
+              <section class="page page--left" aria-label="Animal details">
+                <div class="image-frame" id="image-frame">
+                  <img id="detail-image" src="" alt="" />
+                  <p class="image-placeholder" id="image-placeholder">Pick an animal</p>
+                </div>
+
+                <div class="data-sheet" id="data-sheet">
+                  <div class="name-row">
+                    <h2 class="animal-name" id="detail-name">—</h2>
+                    <div class="measures">
+                      <div class="measure-box">
+                        <span class="measure-label">Height / Length</span>
+                        <span class="measure-value" id="detail-height">—</span>
+                      </div>
+                      <div class="measure-box">
+                        <span class="measure-label">Weight</span>
+                        <span class="measure-value" id="detail-weight">—</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <button type="button" class="fact-btn" id="btn-read-fact" disabled>
+                    <span class="fact-btn-label" id="fact-label">Basic / Fun Fact</span>
+                    <span class="fact-btn-hint">Tap to hear this fact read aloud</span>
+                    <span class="fact-btn-text" id="detail-fact">—</span>
+                  </button>
+
+                  <div class="field-row">
+                    <span class="field-label">Habitat</span>
+                    <span class="field-value" id="detail-habitat">—</span>
+                  </div>
+                  <div class="field-row">
+                    <span class="field-label">Region</span>
+                    <span class="field-value" id="detail-region">—</span>
+                  </div>
+                  <div class="field-row">
+                    <span class="field-label">Diet</span>
+                    <span class="field-value" id="detail-diet">—</span>
+                  </div>
+
+                  <div class="sound-row">
+                    <button type="button" class="sound-btn" id="btn-animal-sound" disabled>
+                      🔊 Animal noise
+                    </button>
+                    <button type="button" class="sound-btn" id="btn-name-sound" disabled>
+                      📣 Say name
+                    </button>
+                  </div>
+                </div>
+              </section>
+
+              <div class="book-spine" aria-hidden="true">
+                <div class="spine-rings"></div>
+              </div>
+
+              <section class="page page--right" aria-label="Animal grid">
+                <header class="right-header">
+                  <div class="title-block">
+                    <h1 class="app-title">Liora</h1>
+                    <p class="category-line" id="active-category-label">Category: —</p>
+                  </div>
+
+                  <div class="toggles">
+                    <div class="toggle-row" role="group" aria-label="Language">
+                      <button type="button" class="toggle-btn active" data-lang="en">English</button>
+                      <button type="button" class="toggle-btn" data-lang="tl">Tagalog</button>
+                      <button type="button" class="toggle-btn" data-lang="es">Spanish</button>
+                    </div>
+                    <div class="toggle-row" role="group" aria-label="Fact level">
+                      <button type="button" class="toggle-btn active" data-fact="basic">Basic / Fun Fact</button>
+                      <button type="button" class="toggle-btn" data-fact="edu">EDU Fact</button>
+                    </div>
+                  </div>
+                </header>
+
+                <div class="grid-stage" id="grid-stage" aria-label="Swipe left or right to turn pages">
+                  <div class="grid-matrix" id="animal-grid" aria-label="Animals"></div>
+                  <div class="page-dots" id="page-dots" hidden aria-hidden="true">
+                    <span class="page-dot active" data-page="0"></span>
+                    <span class="page-dot" data-page="1"></span>
+                  </div>
+                </div>
+              </section>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="/web/js/app.js?v=book-nav-3" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LioraAnimalRecord",
+  "description": "Contract for left-panel data sheet and grid cells. All UI keys must match these property names.",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "heightLength",
+    "weight",
+    "facts",
+    "habitat",
+    "region",
+    "diet",
+    "image",
+    "nameSound",
+    "animalSound"
+  ],
+  "properties": {
+    "id": { "type": "string", "description": "Asset slug matching animals/Images/{id}.webp" },
+    "name": {
+      "type": "object",
+      "required": ["en", "tl", "es"],
+      "properties": {
+        "en": { "type": "string" },
+        "tl": { "type": "string" },
+        "es": { "type": "string" }
+      }
+    },
+    "heightLength": {
+      "type": "object",
+      "required": ["en", "tl", "es"],
+      "properties": {
+        "en": { "type": "string" },
+        "tl": { "type": "string" },
+        "es": { "type": "string" }
+      }
+    },
+    "weight": {
+      "type": "object",
+      "required": ["en", "tl", "es"],
+      "properties": {
+        "en": { "type": "string" },
+        "tl": { "type": "string" },
+        "es": { "type": "string" }
+      }
+    },
+    "facts": {
+      "type": "object",
+      "required": ["basic", "edu"],
+      "properties": {
+        "basic": {
+          "type": "object",
+          "required": ["en", "tl", "es"],
+          "description": "Basic / Fun Fact (toggle row 2 left position)"
+        },
+        "edu": {
+          "type": "object",
+          "required": ["en", "tl", "es"],
+          "description": "EDU Fact (toggle row 2 right position)"
+        }
+      }
+    },
+    "habitat": {
+      "type": "object",
+      "required": ["en", "tl", "es"]
+    },
+    "region": {
+      "type": "object",
+      "required": ["en", "tl", "es"]
+    },
+    "diet": {
+      "type": "object",
+      "required": ["en", "tl", "es"]
+    },
+    "image": { "type": "string" },
+    "nameSound": { "type": ["string", "null"] },
+    "animalSound": { "type": ["string", "null"] }
+  }
+}

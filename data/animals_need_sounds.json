@@ -1,0 +1,1478 @@
+{
+  "generated": "2026-05-31",
+  "inBook": 210,
+  "alreadyElevenLabsSfx": 21,
+  "needElevenLabsSfx": 189,
+  "animals": [
+    {
+      "id": "cow",
+      "category": "Farm & Domestic",
+      "prompt": "A cow making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "pig",
+      "category": "Farm & Domestic",
+      "prompt": "A pig making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "chicken",
+      "category": "Farm & Domestic",
+      "prompt": "A chicken making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "horse",
+      "category": "Farm & Domestic",
+      "prompt": "A horse making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "goat",
+      "category": "Farm & Domestic",
+      "prompt": "A goat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sheep",
+      "category": "Farm & Domestic",
+      "prompt": "A sheep making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "duck",
+      "category": "Farm & Domestic",
+      "prompt": "A duck making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "turkey",
+      "category": "Farm & Domestic",
+      "prompt": "A turkey making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "rooster",
+      "category": "Farm & Domestic",
+      "prompt": "A rooster making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "donkey",
+      "category": "Farm & Domestic",
+      "prompt": "A donkey making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "llama",
+      "category": "Farm & Domestic",
+      "prompt": "A llama making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "alpaca",
+      "category": "Farm & Domestic",
+      "prompt": "A alpaca making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "rabbit",
+      "category": "Farm & Domestic",
+      "prompt": "A rabbit making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "goose",
+      "category": "Farm & Domestic",
+      "prompt": "A goose making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "guinea_pig",
+      "category": "Farm & Domestic",
+      "prompt": "A guinea pig making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "hamster",
+      "category": "Farm & Domestic",
+      "prompt": "A hamster making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "ferret",
+      "category": "Farm & Domestic",
+      "prompt": "A ferret making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "mule",
+      "category": "Farm & Domestic",
+      "prompt": "A mule making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "pony",
+      "category": "Farm & Domestic",
+      "prompt": "A pony making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "pot_bellied_pig",
+      "category": "Farm & Domestic",
+      "prompt": "A pot bellied pig making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "mouse",
+      "category": "Farm & Domestic",
+      "prompt": "A mouse making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "rat",
+      "category": "Farm & Domestic",
+      "prompt": "A rat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "goldfish",
+      "category": "Farm & Domestic",
+      "prompt": "A goldfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "hedgehog",
+      "category": "Farm & Domestic",
+      "prompt": "A hedgehog making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "wild_boar",
+      "category": "Farm & Domestic",
+      "prompt": "A wild boar making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "opossum",
+      "category": "Farm & Domestic",
+      "prompt": "A opossum making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sugar_glider",
+      "category": "Farm & Domestic",
+      "prompt": "A sugar glider making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "vampire_bat",
+      "category": "Farm & Domestic",
+      "prompt": "A vampire bat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "black_bear",
+      "category": "Forest & Woods",
+      "prompt": "A black bear making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "brown_bear",
+      "category": "Forest & Woods",
+      "prompt": "A brown bear making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "white_tailed_deer",
+      "category": "Forest & Woods",
+      "prompt": "A white tailed deer making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "red_fox",
+      "category": "Forest & Woods",
+      "prompt": "A red fox making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "raccoon",
+      "category": "Forest & Woods",
+      "prompt": "A raccoon making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "squirrel",
+      "category": "Forest & Woods",
+      "prompt": "A squirrel making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "moose",
+      "category": "Forest & Woods",
+      "prompt": "A moose making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "elk",
+      "category": "Forest & Woods",
+      "prompt": "A elk making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "beaver",
+      "category": "Forest & Woods",
+      "prompt": "A beaver making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "porcupine",
+      "category": "Forest & Woods",
+      "prompt": "A porcupine making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "skunk",
+      "category": "Forest & Woods",
+      "prompt": "A skunk making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "badger",
+      "category": "Forest & Woods",
+      "prompt": "A badger making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "chipmunk",
+      "category": "Forest & Woods",
+      "prompt": "A chipmunk making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "mole",
+      "category": "Forest & Woods",
+      "prompt": "A mole making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "stoat",
+      "category": "Forest & Woods",
+      "prompt": "A stoat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "ermine",
+      "category": "Forest & Woods",
+      "prompt": "A ermine making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "wolverine",
+      "category": "Forest & Woods",
+      "prompt": "A wolverine making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "woodpecker",
+      "category": "Forest & Woods",
+      "prompt": "A woodpecker making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "hawk",
+      "category": "Forest & Woods",
+      "prompt": "A hawk making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "falcon",
+      "category": "Forest & Woods",
+      "prompt": "A falcon making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "cacomistle",
+      "category": "Forest & Woods",
+      "prompt": "A cacomistle making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "genet",
+      "category": "Forest & Woods",
+      "prompt": "A genet making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "civet",
+      "category": "Forest & Woods",
+      "prompt": "A civet making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "gorilla",
+      "category": "Jungle & Rainforest",
+      "prompt": "A gorilla making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "chimpanzee",
+      "category": "Jungle & Rainforest",
+      "prompt": "A chimpanzee making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "orangutan",
+      "category": "Jungle & Rainforest",
+      "prompt": "A orangutan making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sloth",
+      "category": "Jungle & Rainforest",
+      "prompt": "A sloth making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "howler_monkey",
+      "category": "Jungle & Rainforest",
+      "prompt": "A howler monkey making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "capuchin_monkey",
+      "category": "Jungle & Rainforest",
+      "prompt": "A capuchin monkey making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "spider_monkey",
+      "category": "Jungle & Rainforest",
+      "prompt": "A spider monkey making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lemur",
+      "category": "Jungle & Rainforest",
+      "prompt": "A lemur making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "tapir",
+      "category": "Jungle & Rainforest",
+      "prompt": "A tapir making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "okapi",
+      "category": "Jungle & Rainforest",
+      "prompt": "A okapi making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "chameleon",
+      "category": "Jungle & Rainforest",
+      "prompt": "A chameleon making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "green_iguana",
+      "category": "Jungle & Rainforest",
+      "prompt": "A green iguana making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "boa_constrictor",
+      "category": "Jungle & Rainforest",
+      "prompt": "A boa constrictor making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "python",
+      "category": "Jungle & Rainforest",
+      "prompt": "A python making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "poison_dart_frog",
+      "category": "Jungle & Rainforest",
+      "prompt": "A poison dart frog making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "red_eyed_tree_frog",
+      "category": "Jungle & Rainforest",
+      "prompt": "A red eyed tree frog making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "anteater",
+      "category": "Jungle & Rainforest",
+      "prompt": "A anteater making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "armadillo",
+      "category": "Jungle & Rainforest",
+      "prompt": "A armadillo making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "kinkajou",
+      "category": "Jungle & Rainforest",
+      "prompt": "A kinkajou making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "aye_aye",
+      "category": "Jungle & Rainforest",
+      "prompt": "A aye aye making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "tarsier",
+      "category": "Jungle & Rainforest",
+      "prompt": "A tarsier making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "fruit_bat",
+      "category": "Jungle & Rainforest",
+      "prompt": "A fruit bat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "pangolin",
+      "category": "Jungle & Rainforest",
+      "prompt": "A pangolin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "bush_baby",
+      "category": "Jungle & Rainforest",
+      "prompt": "A bush baby making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "anaconda",
+      "category": "Jungle & Rainforest",
+      "prompt": "A anaconda making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "koala",
+      "category": "Jungle & Rainforest",
+      "prompt": "A koala making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "wombat",
+      "category": "Jungle & Rainforest",
+      "prompt": "A wombat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "tasmanian_devil",
+      "category": "Jungle & Rainforest",
+      "prompt": "A tasmanian devil making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lion",
+      "category": "Savannah & Grasslands",
+      "prompt": "A lion making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "elephant",
+      "category": "Savannah & Grasslands",
+      "prompt": "A elephant making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "hyena",
+      "category": "Savannah & Grasslands",
+      "prompt": "A hyena making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "aardvark",
+      "category": "Savannah & Grasslands",
+      "prompt": "A aardvark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "fennec_fox",
+      "category": "Desert Ecosystems",
+      "prompt": "A fennec fox making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "jerboa",
+      "category": "Desert Ecosystems",
+      "prompt": "A jerboa making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "scorpion",
+      "category": "Desert Ecosystems",
+      "prompt": "A scorpion making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "gecko",
+      "category": "Desert Ecosystems",
+      "prompt": "A gecko making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "polar_bear",
+      "category": "Arctic & Tundra",
+      "prompt": "A polar bear making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "arctic_fox",
+      "category": "Arctic & Tundra",
+      "prompt": "A arctic fox making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "arctic_hare",
+      "category": "Arctic & Tundra",
+      "prompt": "A arctic hare making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "arctic_wolf",
+      "category": "Arctic & Tundra",
+      "prompt": "A arctic wolf making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "reindeer",
+      "category": "Arctic & Tundra",
+      "prompt": "A reindeer making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "caribou",
+      "category": "Arctic & Tundra",
+      "prompt": "A caribou making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "musk_ox",
+      "category": "Arctic & Tundra",
+      "prompt": "A musk ox making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lemming",
+      "category": "Arctic & Tundra",
+      "prompt": "A lemming making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "walrus",
+      "category": "Arctic & Tundra",
+      "prompt": "A walrus making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "harp_seal",
+      "category": "Arctic & Tundra",
+      "prompt": "A harp seal making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "harbor_seal",
+      "category": "Arctic & Tundra",
+      "prompt": "A harbor seal making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "beluga_whale",
+      "category": "Arctic & Tundra",
+      "prompt": "A beluga whale making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "narwhal",
+      "category": "Arctic & Tundra",
+      "prompt": "A narwhal making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "bowhead_whale",
+      "category": "Arctic & Tundra",
+      "prompt": "A bowhead whale making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sperm_whale",
+      "category": "Arctic & Tundra",
+      "prompt": "A sperm whale making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "elephant_seal",
+      "category": "Arctic & Tundra",
+      "prompt": "A elephant seal making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "leopard_seal",
+      "category": "Arctic & Tundra",
+      "prompt": "A leopard seal making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "weddell_seal",
+      "category": "Arctic & Tundra",
+      "prompt": "A weddell seal making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "emperor_penguin",
+      "category": "Arctic & Tundra",
+      "prompt": "A emperor penguin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "adelie_penguin",
+      "category": "Arctic & Tundra",
+      "prompt": "A adelie penguin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "rockhopper_penguin",
+      "category": "Arctic & Tundra",
+      "prompt": "A rockhopper penguin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "krill_antarctic",
+      "category": "Arctic & Tundra",
+      "prompt": "A krill antarctic making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "snow_goose",
+      "category": "Arctic & Tundra",
+      "prompt": "A snow goose making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "ptarmigan",
+      "category": "Arctic & Tundra",
+      "prompt": "A ptarmigan making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "puffin",
+      "category": "Arctic & Tundra",
+      "prompt": "A puffin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "clownfish",
+      "category": "Ocean & Marine",
+      "prompt": "A clownfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "angelfish",
+      "category": "Ocean & Marine",
+      "prompt": "A angelfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "jellyfish",
+      "category": "Ocean & Marine",
+      "prompt": "A jellyfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "starfish",
+      "category": "Ocean & Marine",
+      "prompt": "A starfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "seahorse",
+      "category": "Ocean & Marine",
+      "prompt": "A seahorse making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sea_turtle",
+      "category": "Ocean & Marine",
+      "prompt": "A sea turtle making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lobster",
+      "category": "Ocean & Marine",
+      "prompt": "A lobster making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "hermit_crab",
+      "category": "Ocean & Marine",
+      "prompt": "A hermit crab making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "brain_coral",
+      "category": "Ocean & Marine",
+      "prompt": "A brain coral making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sea_anemone",
+      "category": "Ocean & Marine",
+      "prompt": "A sea anemone making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "butterflyfish",
+      "category": "Ocean & Marine",
+      "prompt": "A butterflyfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "blue_tang",
+      "category": "Ocean & Marine",
+      "prompt": "A blue tang making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "mandarinfish",
+      "category": "Ocean & Marine",
+      "prompt": "A mandarinfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "moorish_idol",
+      "category": "Ocean & Marine",
+      "prompt": "A moorish idol making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "parrotfish",
+      "category": "Ocean & Marine",
+      "prompt": "A parrotfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "triggerfish",
+      "category": "Ocean & Marine",
+      "prompt": "A triggerfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lionfish",
+      "category": "Ocean & Marine",
+      "prompt": "A lionfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "manta_ray",
+      "category": "Ocean & Marine",
+      "prompt": "A manta ray making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "stingray",
+      "category": "Ocean & Marine",
+      "prompt": "A stingray making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "reef_shark",
+      "category": "Ocean & Marine",
+      "prompt": "A reef shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "hammerhead_shark",
+      "category": "Ocean & Marine",
+      "prompt": "A hammerhead shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "great_white_shark",
+      "category": "Ocean & Marine",
+      "prompt": "A great white shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "tiger_shark",
+      "category": "Ocean & Marine",
+      "prompt": "A tiger shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sea_urchin",
+      "category": "Ocean & Marine",
+      "prompt": "A sea urchin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "octopus",
+      "category": "Ocean & Marine",
+      "prompt": "A octopus making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "cuttlefish",
+      "category": "Ocean & Marine",
+      "prompt": "A cuttlefish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "moray_eel",
+      "category": "Ocean & Marine",
+      "prompt": "A moray eel making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "pufferfish",
+      "category": "Ocean & Marine",
+      "prompt": "A pufferfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "bottlenose_dolphin",
+      "category": "Ocean & Marine",
+      "prompt": "A bottlenose dolphin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "orca",
+      "category": "Ocean & Marine",
+      "prompt": "A orca making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sea_lion",
+      "category": "Ocean & Marine",
+      "prompt": "A sea lion making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "sea_otter",
+      "category": "Ocean & Marine",
+      "prompt": "A sea otter making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "goblin_shark",
+      "category": "Deep Sea",
+      "prompt": "A goblin shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "frilled_shark",
+      "category": "Deep Sea",
+      "prompt": "A frilled shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "dragonfish",
+      "category": "Deep Sea",
+      "prompt": "A dragonfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "viperfish",
+      "category": "Deep Sea",
+      "prompt": "A viperfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "fangtooth",
+      "category": "Deep Sea",
+      "prompt": "A fangtooth making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "gulper_eel",
+      "category": "Deep Sea",
+      "prompt": "A gulper eel making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "hatchetfish",
+      "category": "Deep Sea",
+      "prompt": "A hatchetfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lanternfish",
+      "category": "Deep Sea",
+      "prompt": "A lanternfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "barreleye",
+      "category": "Deep Sea",
+      "prompt": "A barreleye making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "coffinfish",
+      "category": "Deep Sea",
+      "prompt": "A coffinfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "oarfish",
+      "category": "Deep Sea",
+      "prompt": "A oarfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "colossal_squid",
+      "category": "Deep Sea",
+      "prompt": "A colossal squid making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "cookiecutter_shark",
+      "category": "Deep Sea",
+      "prompt": "A cookiecutter shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "six_gill_shark",
+      "category": "Deep Sea",
+      "prompt": "A six gill shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "grenadier_fish",
+      "category": "Deep Sea",
+      "prompt": "A grenadier fish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lizardfish",
+      "category": "Deep Sea",
+      "prompt": "A lizardfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "snipe_eel",
+      "category": "Deep Sea",
+      "prompt": "A snipe eel making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "cusk_eel",
+      "category": "Deep Sea",
+      "prompt": "A cusk eel making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "chimaera",
+      "category": "Deep Sea",
+      "prompt": "A chimaera making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "ghost_shark",
+      "category": "Deep Sea",
+      "prompt": "A ghost shark making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "spookfish",
+      "category": "Deep Sea",
+      "prompt": "A spookfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "wolffish",
+      "category": "Deep Sea",
+      "prompt": "A wolffish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "mariana_snailfish",
+      "category": "Deep Sea",
+      "prompt": "A mariana snailfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "faceless_cusk",
+      "category": "Deep Sea",
+      "prompt": "A faceless cusk making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "black_swallower",
+      "category": "Deep Sea",
+      "prompt": "A black swallower making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "deep_sea_jellyfish",
+      "category": "Deep Sea",
+      "prompt": "A deep sea jellyfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "comb_jelly",
+      "category": "Deep Sea",
+      "prompt": "A comb jelly making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "abyssal_spiderfish",
+      "category": "Deep Sea",
+      "prompt": "A abyssal spiderfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "beaked_whale",
+      "category": "Deep Sea",
+      "prompt": "A beaked whale making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "big_red_jelly",
+      "category": "Deep Sea",
+      "prompt": "A big red jelly making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "brisingid_starfish",
+      "category": "Deep Sea",
+      "prompt": "A brisingid starfish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "flashlight_fish",
+      "category": "Deep Sea",
+      "prompt": "A flashlight fish making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "salamander",
+      "category": "Freshwater & Wetlands",
+      "prompt": "A salamander making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "eagle",
+      "category": "Avian Species",
+      "prompt": "A eagle making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "hummingbird",
+      "category": "Avian Species",
+      "prompt": "A hummingbird making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "cockatiel",
+      "category": "Avian Species",
+      "prompt": "A cockatiel making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "parakeet",
+      "category": "Avian Species",
+      "prompt": "A parakeet making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "cardinal",
+      "category": "Avian Species",
+      "prompt": "A cardinal making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "blue_jay",
+      "category": "Avian Species",
+      "prompt": "A blue jay making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "pelican",
+      "category": "Avian Species",
+      "prompt": "A pelican making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "seagull",
+      "category": "Avian Species",
+      "prompt": "A seagull making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "albatross",
+      "category": "Avian Species",
+      "prompt": "A albatross making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "turkey_vulture",
+      "category": "Avian Species",
+      "prompt": "A turkey vulture making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "penguin",
+      "category": "Avian Species",
+      "prompt": "A penguin making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "snowy_owl",
+      "category": "Avian Species",
+      "prompt": "A snowy owl making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "parrot",
+      "category": "Avian Species",
+      "prompt": "A parrot making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "macaw",
+      "category": "Avian Species",
+      "prompt": "A macaw making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "toucan",
+      "category": "Avian Species",
+      "prompt": "A toucan making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "barn_owl",
+      "category": "Avian Species",
+      "prompt": "A barn owl making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "great_horned_owl",
+      "category": "Avian Species",
+      "prompt": "A great horned owl making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "border_collie",
+      "category": "Canine Breeds",
+      "prompt": "A border collie making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "golden_retriever",
+      "category": "Canine Breeds",
+      "prompt": "A golden retriever making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": true,
+      "priority": "done"
+    },
+    {
+      "id": "coyote",
+      "category": "Canine Breeds",
+      "prompt": "A coyote making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "wolf",
+      "category": "Canine Breeds",
+      "prompt": "A wolf making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "siamese_cat",
+      "category": "Feline Breeds",
+      "prompt": "A siamese cat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "tabby_cat",
+      "category": "Feline Breeds",
+      "prompt": "A tabby cat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "bengal_tiger",
+      "category": "Feline Breeds",
+      "prompt": "A bengal tiger making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "bobcat",
+      "category": "Feline Breeds",
+      "prompt": "A bobcat making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "lynx",
+      "category": "Feline Breeds",
+      "prompt": "A lynx making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "leopard",
+      "category": "Feline Breeds",
+      "prompt": "A leopard making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "jaguar",
+      "category": "Feline Breeds",
+      "prompt": "A jaguar making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "moth",
+      "category": "Reptiles & Insects",
+      "prompt": "A moth making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "tarantula",
+      "category": "Reptiles & Insects",
+      "prompt": "A tarantula making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "firefly",
+      "category": "Reptiles & Insects",
+      "prompt": "A firefly making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "leafcutter_ant",
+      "category": "Reptiles & Insects",
+      "prompt": "A leafcutter ant making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    },
+    {
+      "id": "turtle",
+      "category": "Reptiles & Insects",
+      "prompt": "A turtle making realistic natural animal sounds, wildlife sound effect, no music, no speech",
+      "hasUserElevenLabsSfx": false,
+      "priority": "generate"
+    }
+  ]
+}
