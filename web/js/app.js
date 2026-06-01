@@ -144,7 +144,24 @@ function bindControls() {
   });
   $("#btn-name-sound").addEventListener("click", () => {
     const a = getSelectedAnimal();
-    if (a?.nameSound) playAudio(a.nameSound, $("#btn-name-sound"));
+    if (!a) return;
+    if (state.language === "en") {
+      /* English: use pre-recorded name audio */
+      if (a.nameSound) playAudio(a.nameSound, $("#btn-name-sound"));
+    } else {
+      /* Non-English: speak the animal name via browser Speech Synthesis */
+      const displayName = pickLang(a.name);
+      const langMap = { tl: "tl-PH", es: "es-ES", en: "en-US" };
+      const utter = new SpeechSynthesisUtterance(displayName);
+      utter.lang = langMap[state.language] || "en-US";
+      utter.rate = 0.85;
+      const btn = $("#btn-name-sound");
+      btn.classList.add("is-playing");
+      utter.onend = () => btn.classList.remove("is-playing");
+      utter.onerror = () => btn.classList.remove("is-playing");
+      speechSynthesis.cancel();
+      speechSynthesis.speak(utter);
+    }
   });
 
   const factBtn = $("#btn-read-fact");
