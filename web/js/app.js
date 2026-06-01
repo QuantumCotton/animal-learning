@@ -43,6 +43,7 @@ async function init() {
     renderGrid();
     selectFirstAnimal();
     renderDetail();
+    registerServiceWorker();
   } catch (err) {
     console.error(err);
     document.body.innerHTML =
@@ -593,3 +594,113 @@ function stopAudio() {
 }
 
 init();
+
+/* ─── Service Worker & Offline Download ─── */
+
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) return;
+  navigator.serviceWorker.register("/web/sw.js").then((reg) => {
+    reg.onupdatefound = () => {
+      const nw = reg.installing;
+      nw.onstatechange = () => {
+        if (nw.state === "activated") {
+          // Check if already cached
+          if (localStorage.getItem("liora-offline-ready") === "v1") {
+            hideDownloadBanner();
+          } else {
+            showDownloadBanner();
+          }
+        }
+      };
+    };
+    // If already controlled, show banner if not cached
+    if (navigator.serviceWorker.controller) {
+      if (localStorage.getItem("liora-offline-ready") === "v1") {
+        hideDownloadBanner();
+      } else {
+        showDownloadBanner();
+      }
+    }
+  });
+
+  // Listen for progress messages from SW
+  navigator.serviceWorker.addEventListener("message", (event) => {
+    const d = event.data;
+    if (!d || !d.type) return;
+    if (d.type === "PRECACHE_START") {
+      updateDownloadProgress(0, d.total);
+    } else if (d.type === "PRECACHE_PROGRESS") {
+      updateDownloadProgress(d.done, d.total);
+    } else if (d.type === "PRECACHE_DONE") {
+      localStorage.setItem("liora-offline-ready", "v1");
+      hideDownloadBanner();
+    }
+  });
+}
+
+function showDownloadBanner() {
+  if ($("#download-banner")) return;
+  const banner = document.createElement("div");
+  banner.id = "download-banner";
+  banner.innerHTML = `
+    <div style="position:fixed;bottom:0;left:0;right:0;z-index:9999;
+                background:linear-gradient(135deg,#3d6b4f,#2a4d38);
+                color:#f7f2e8;padding:14px 20px;display:flex;align-items:center;
+                gap:12px;font-family:Georgia,serif;box-shadow:0 -2px 12px rgba(0,0,0,.3)">
+      <div style="flex:1">
+        <div style="font-size:1rem;font-weight:bold;margin-bottom:4px">📥 Download for Offline</div>
+        <div id="download-status" style="font-size:.8rem;opacity:.8">All sounds, images & languages — use anywhere</div>
+      </div>
+      <button id="download-btn" onclick="startDownload()"
+        style="background:#f7f2e8;color:#2a4d38;border:none;border-radius:8px;
+               padding:10px 18px;font-weight:bold;font-size:.9rem;cursor:pointer;
+               font-family:Georgia,serif">
+        Download
+      </button>
+      <button onclick="hideDownloadBanner()" 
+        style="background:none;border:none;color:#f7f2e8;font-size:1.2rem;cursor:pointer;padding:4px">
+        ✕
+      </button>
+    </div>`;
+  document.body.appendChild(banner);
+}
+
+function hideDownloadBanner() {
+  const b = $("#download-banner");
+  if (b) b.remove();
+}
+
+function updateDownloadProgress(done, total) {
+  const status = $("#download-status");
+  const btn = $("#download-btn");
+  if (status) status.textContent = `Downloading... ${done} / ${total}`;
+  if (btn) {
+    const pct = total > 0 ? Math.round((done / total) * 100) : 0;
+    btn.textContent = `${pct}%`;
+    btn.disabled = true;
+    btn.style.opacity = "0.7";
+  }
+}
+
+function startDownload() {
+  if (!manifest) return;
+  const assetSet = new Set();
+  for (const cat of manifest.categories || []) {
+    for (const page of cat.pages || []) {
+      for (const a of page.animals || []) {
+        if (!a) continue;
+        if (a.image) assetSet.add(a.image);
+        if (a.animalSound) assetSet.add(a.animalSound);
+        if (a.nameSound) assetSet.add(a.nameSound);
+        for (const key of ["factSounds", "factSoundsEdu"]) {
+          const fs = a[key] || {};
+          for (const v of Object.values(fs)) {
+            if (v) assetSet.add(v);
+          }
+        }
+      }
+    }
+  }
+  const unique = [...assetSet];
+  navigator.serviceWorker.controller.postMessage({ type: "PRECACHE_ALL", assets: unique });
+}
