@@ -146,12 +146,18 @@ function bindControls() {
   $("#btn-name-sound").addEventListener("click", () => {
     const a = getSelectedAnimal();
     if (!a || !a.nameSound) return;
-    /* nameSound = /animals/Sounds/cow_name.mp3 → cow_name_en.mp3 / cow_name_tl.mp3 */
     const base = a.nameSound;
-    const ext = base.slice(base.lastIndexOf("."));
-    const stem = base.slice(0, base.lastIndexOf("."));
-    const localized = `${stem}_${state.language}${ext}`;
-    playAudio(localized, $("#btn-name-sound"));
+    if (state.language === "en") {
+      /* English: play original name file */
+      playAudio(base, $("#btn-name-sound"));
+    } else {
+      /* Other languages: try localized file, fall back to original */
+      const ext = base.slice(base.lastIndexOf("."));
+      const stem = base.slice(0, base.lastIndexOf("."));
+      const localized = `${stem}_${state.language}${ext}`;
+      const btn = $("#btn-name-sound");
+      tryPlayAudio(localized, btn, () => playAudio(base, btn));
+    }
   });
 
   const factBtn = $("#btn-read-fact");
@@ -562,6 +568,26 @@ function playAudio(src, highlightEl = null) {
   audio.play().catch((err) => {
     console.warn("Audio play blocked or failed:", url, err?.message || err);
     clearPlayingHighlight();
+  });
+}
+
+/* Try to play a file; if it 404s, run fallback */
+function tryPlayAudio(src, highlightEl, fallback) {
+  stopAudio();
+  if (highlightEl) {
+    playingEl = highlightEl;
+    playingEl.classList.add("is-playing");
+  }
+  const url = audioUrl(src);
+  audio = new Audio(url);
+  audio.addEventListener("ended", () => clearPlayingHighlight());
+  audio.addEventListener("error", () => {
+    clearPlayingHighlight();
+    if (fallback) fallback();
+  });
+  audio.play().catch((err) => {
+    clearPlayingHighlight();
+    if (fallback) fallback();
   });
 }
 
