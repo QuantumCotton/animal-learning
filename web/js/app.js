@@ -145,24 +145,13 @@ function bindControls() {
   });
   $("#btn-name-sound").addEventListener("click", () => {
     const a = getSelectedAnimal();
-    if (!a) return;
-    if (state.language === "en") {
-      /* English: use pre-recorded name audio */
-      if (a.nameSound) playAudio(a.nameSound, $("#btn-name-sound"));
-    } else {
-      /* Non-English: speak the animal name via browser Speech Synthesis */
-      const displayName = pickLang(a.name);
-      const langMap = { tl: "tl-PH", es: "es-ES", en: "en-US" };
-      const utter = new SpeechSynthesisUtterance(displayName);
-      utter.lang = langMap[state.language] || "en-US";
-      utter.rate = 0.85;
-      const btn = $("#btn-name-sound");
-      btn.classList.add("is-playing");
-      utter.onend = () => btn.classList.remove("is-playing");
-      utter.onerror = () => btn.classList.remove("is-playing");
-      speechSynthesis.cancel();
-      speechSynthesis.speak(utter);
-    }
+    if (!a || !a.nameSound) return;
+    /* nameSound = /animals/Sounds/cow_name.mp3 → cow_name_en.mp3 / cow_name_tl.mp3 */
+    const base = a.nameSound;
+    const ext = base.slice(base.lastIndexOf("."));
+    const stem = base.slice(0, base.lastIndexOf("."));
+    const localized = `${stem}_${state.language}${ext}`;
+    playAudio(localized, $("#btn-name-sound"));
   });
 
   const factBtn = $("#btn-read-fact");
