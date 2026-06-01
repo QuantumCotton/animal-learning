@@ -57,7 +57,7 @@ function loadSettings() {
     if (s.factLevel) state.factLevel = s.factLevel;
     if (typeof s.categoryIndex === "number") state.categoryIndex = s.categoryIndex;
     if (typeof s.pageIndex === "number") state.pageIndex = s.pageIndex;
-  } catch {
+  } catch (err) {
     /* ignore */
   }
 }
