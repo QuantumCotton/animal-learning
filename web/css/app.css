@@ -49,9 +49,9 @@ body {
   height: 100dvh;
   padding:
     calc(6px + var(--safe-top))
-    calc(6px + var(--tab-gutter) + var(--safe-right))
+    calc(6px + var(--safe-right))
     calc(6px + var(--safe-bottom))
-    calc(6px + var(--tab-gutter) + var(--safe-left));
+    calc(6px + var(--safe-left));
 }
 
 .book-assembly {
@@ -68,6 +68,7 @@ body {
   background: linear-gradient(180deg, #5c4f42 0%, #4a4035 8%, #3d352c 100%);
   border-radius: var(--book-radius);
   padding: 10px;
+  overflow: visible;
   box-shadow:
     0 20px 50px rgba(0, 0, 0, 0.45),
     0 6px 16px rgba(0, 0, 0, 0.3),
@@ -105,14 +106,14 @@ body {
 }
 
 .tabs-rail--left {
-  left: 12px;
-  transform: translate(calc(-100% + 4px), -50%);
+  left: -4px;
+  transform: translateY(-50%);
   align-items: flex-end;
 }
 
 .tabs-rail--right {
-  right: 12px;
-  transform: translate(calc(100% - 4px), -50%);
+  right: -4px;
+  transform: translateY(-50%);
   align-items: flex-start;
 }
 
@@ -529,6 +530,7 @@ body {
   min-width: 0;
   gap: 10px;
   overflow: hidden;
+  padding-left: 48px;
 }
 
 .image-frame {
@@ -752,6 +754,7 @@ body {
   min-width: 0;
   gap: 8px;
   overflow: hidden;
+  padding-right: 48px;
 }
 
 .right-header {
