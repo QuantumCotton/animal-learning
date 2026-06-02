@@ -25,7 +25,7 @@ const API_KEY = process.env.ELEVENLABS_API_KEY || (() => {
   return null;
 })();
 
-const VOICE_ID = "pNInz6obpgDQGcFmaJgB"; // same as fact voice (Adam)
+const VOICE_ID = "s3TPKV1kjDlVtZbl4Ksh"; // same as fact voice (Adam)
 const MODEL = "eleven_multilingual_v2";
 const LANGS = ["en", "tl", "es"];
 
