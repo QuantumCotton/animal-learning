@@ -27,8 +27,8 @@
               "id": "cow",
               "name": {
                 "en": "Cow",
-                "tl": "Cow",
-                "es": "Cow"
+                "tl": "Baka",
+                "es": "Vaca"
               },
               "heightLength": {
                 "en": "About 4–5 ft at the shoulder",
@@ -85,8 +85,8 @@
               "id": "pig",
               "name": {
                 "en": "Pig",
-                "tl": "Pig",
-                "es": "Pig"
+                "tl": "Baboy",
+                "es": "Cerdo"
               },
               "heightLength": {
                 "en": "About 2–3 ft tall at shoulder",
@@ -143,8 +143,8 @@
               "id": "chicken",
               "name": {
                 "en": "Chicken",
-                "tl": "Chicken",
-                "es": "Chicken"
+                "tl": "Manok",
+                "es": "Pollo"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -201,8 +201,8 @@
               "id": "horse",
               "name": {
                 "en": "Horse",
-                "tl": "Horse",
-                "es": "Horse"
+                "tl": "Kabayo",
+                "es": "Caballo"
               },
               "heightLength": {
                 "en": "About 5–6 ft at the shoulder",
@@ -259,8 +259,8 @@
               "id": "goat",
               "name": {
                 "en": "Goat",
-                "tl": "Goat",
-                "es": "Goat"
+                "tl": "Kambing",
+                "es": "Cabra"
               },
               "heightLength": {
                 "en": "About 2–3 ft at the shoulder",
@@ -317,8 +317,8 @@
               "id": "sheep",
               "name": {
                 "en": "Sheep",
-                "tl": "Sheep",
-                "es": "Sheep"
+                "tl": "Tupa",
+                "es": "Oveja"
               },
               "heightLength": {
                 "en": "About 2–3 ft at the shoulder",
@@ -375,8 +375,8 @@
               "id": "duck",
               "name": {
                 "en": "Duck",
-                "tl": "Duck",
-                "es": "Duck"
+                "tl": "Bibe",
+                "es": "Pato"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -433,8 +433,8 @@
               "id": "turkey",
               "name": {
                 "en": "Turkey",
-                "tl": "Turkey",
-                "es": "Turkey"
+                "tl": "Pabo",
+                "es": "Pavo"
               },
               "heightLength": {
                 "en": "About 3–4 ft long with tail spread",
@@ -491,8 +491,8 @@
               "id": "rooster",
               "name": {
                 "en": "Rooster",
-                "tl": "Rooster",
-                "es": "Rooster"
+                "tl": "Tandang",
+                "es": "Gallo"
               },
               "heightLength": {
                 "en": "About 2–3 ft tall",
@@ -549,8 +549,8 @@
               "id": "donkey",
               "name": {
                 "en": "Donkey",
-                "tl": "Donkey",
-                "es": "Donkey"
+                "tl": "Asno",
+                "es": "Burro"
               },
               "heightLength": {
                 "en": "About 3–4 ft at the shoulder",
@@ -723,8 +723,8 @@
               "id": "rabbit",
               "name": {
                 "en": "Rabbit",
-                "tl": "Rabbit",
-                "es": "Rabbit"
+                "tl": "Kuneho",
+                "es": "Conejo"
               },
               "heightLength": {
                 "en": "About 1–1.5 ft long",
@@ -781,8 +781,8 @@
               "id": "goose",
               "name": {
                 "en": "Goose",
-                "tl": "Goose",
-                "es": "Goose"
+                "tl": "Gansa",
+                "es": "Ganso"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -839,8 +839,8 @@
               "id": "guinea_pig",
               "name": {
                 "en": "Guinea Pig",
-                "tl": "Guinea Pig",
-                "es": "Guinea Pig"
+                "tl": "Daga-daga",
+                "es": "Cuy"
               },
               "heightLength": {
                 "en": "About 8–10 in long",
@@ -898,7 +898,7 @@
               "name": {
                 "en": "Hamster",
                 "tl": "Hamster",
-                "es": "Hamster"
+                "es": "Hámster"
               },
               "heightLength": {
                 "en": "About 4–7 in long",
@@ -961,8 +961,8 @@
               "id": "ferret",
               "name": {
                 "en": "Ferret",
-                "tl": "Ferret",
-                "es": "Ferret"
+                "tl": "Furet",
+                "es": "Hurón"
               },
               "heightLength": {
                 "en": "About 1.5 ft long including tail",
@@ -1019,8 +1019,8 @@
               "id": "mule",
               "name": {
                 "en": "Mule",
-                "tl": "Mule",
-                "es": "Mule"
+                "tl": "Mula",
+                "es": "Mula"
               },
               "heightLength": {
                 "en": "About 4–5 ft at the shoulder",
@@ -1078,7 +1078,7 @@
               "name": {
                 "en": "Pony",
                 "tl": "Pony",
-                "es": "Pony"
+                "es": "Poni"
               },
               "heightLength": {
                 "en": "About 3–4 ft at the shoulder",
@@ -1135,8 +1135,8 @@
               "id": "pot_bellied_pig",
               "name": {
                 "en": "Pot Bellied Pig",
-                "tl": "Pot Bellied Pig",
-                "es": "Pot Bellied Pig"
+                "tl": "Baboy na May Malaking Tiyan",
+                "es": "Cerdo Vietnamita"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft tall",
@@ -1193,8 +1193,8 @@
               "id": "mouse",
               "name": {
                 "en": "Mouse",
-                "tl": "Mouse",
-                "es": "Mouse"
+                "tl": "Daga",
+                "es": "Ratón"
               },
               "heightLength": {
                 "en": "About 3–4 in long",
@@ -1251,8 +1251,8 @@
               "id": "rat",
               "name": {
                 "en": "Rat",
-                "tl": "Rat",
-                "es": "Rat"
+                "tl": "Daga",
+                "es": "Rata"
               },
               "heightLength": {
                 "en": "About 9–11 in long with tail",
@@ -1309,8 +1309,8 @@
               "id": "goldfish",
               "name": {
                 "en": "Goldfish",
-                "tl": "Goldfish",
-                "es": "Goldfish"
+                "tl": "Gintong Isda",
+                "es": "Pez Dorado"
               },
               "heightLength": {
                 "en": "About 6–12 in long (tank size varies)",
@@ -1367,8 +1367,8 @@
               "id": "hedgehog",
               "name": {
                 "en": "Hedgehog",
-                "tl": "Hedgehog",
-                "es": "Hedgehog"
+                "tl": "Dagyaw",
+                "es": "Erizo"
               },
               "heightLength": {
                 "en": "About 6–12 in long",
@@ -1425,8 +1425,8 @@
               "id": "wild_boar",
               "name": {
                 "en": "Wild Boar",
-                "tl": "Wild Boar",
-                "es": "Wild Boar"
+                "tl": "Baboy Ramo",
+                "es": "Jabalí"
               },
               "heightLength": {
                 "en": "About 2.5–3.5 ft at shoulder",
@@ -1483,8 +1483,8 @@
               "id": "opossum",
               "name": {
                 "en": "Opossum",
-                "tl": "Opossum",
-                "es": "Opossum"
+                "tl": "Posum",
+                "es": "Zarigüeya"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -1542,7 +1542,7 @@
               "name": {
                 "en": "Sugar Glider",
                 "tl": "Sugar Glider",
-                "es": "Sugar Glider"
+                "es": "Petauro del Azúcar"
               },
               "heightLength": {
                 "en": "About 6–8 in long",
@@ -1599,8 +1599,8 @@
               "id": "vampire_bat",
               "name": {
                 "en": "Vampire Bat",
-                "tl": "Vampire Bat",
-                "es": "Vampire Bat"
+                "tl": "Paniki Bampira",
+                "es": "Murciélago Vampiro"
               },
               "heightLength": {
                 "en": "About 3–4 in long",
@@ -1678,8 +1678,8 @@
               "id": "black_bear",
               "name": {
                 "en": "Black Bear",
-                "tl": "Black Bear",
-                "es": "Black Bear"
+                "tl": "Itim na Oso",
+                "es": "Oso Negro"
               },
               "heightLength": {
                 "en": "About 5–6 ft long standing",
@@ -1736,8 +1736,8 @@
               "id": "brown_bear",
               "name": {
                 "en": "Brown Bear",
-                "tl": "Brown Bear",
-                "es": "Brown Bear"
+                "tl": "Pulang Oso",
+                "es": "Oso Pardo"
               },
               "heightLength": {
                 "en": "About 6–9 ft long",
@@ -1794,8 +1794,8 @@
               "id": "white_tailed_deer",
               "name": {
                 "en": "White Tailed Deer",
-                "tl": "White Tailed Deer",
-                "es": "White Tailed Deer"
+                "tl": "Usap",
+                "es": "Venado Cola Blanca"
               },
               "heightLength": {
                 "en": "About 3–4 ft at shoulder",
@@ -1852,8 +1852,8 @@
               "id": "red_fox",
               "name": {
                 "en": "Red Fox",
-                "tl": "Red Fox",
-                "es": "Red Fox"
+                "tl": "Pulang Soro",
+                "es": "Zorro Rojo"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long plus tail",
@@ -1911,7 +1911,7 @@
               "name": {
                 "en": "Raccoon",
                 "tl": "Raccoon",
-                "es": "Raccoon"
+                "es": "Mapache"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -1968,8 +1968,8 @@
               "id": "squirrel",
               "name": {
                 "en": "Squirrel",
-                "tl": "Squirrel",
-                "es": "Squirrel"
+                "tl": "Bising",
+                "es": "Ardilla"
               },
               "heightLength": {
                 "en": "About 8–12 in long",
@@ -2027,7 +2027,7 @@
               "name": {
                 "en": "Moose",
                 "tl": "Moose",
-                "es": "Moose"
+                "es": "Alce"
               },
               "heightLength": {
                 "en": "About 5–7 ft at shoulder",
@@ -2085,7 +2085,7 @@
               "name": {
                 "en": "Elk",
                 "tl": "Elk",
-                "es": "Elk"
+                "es": "Wapití"
               },
               "heightLength": {
                 "en": "About 4–5 ft at shoulder",
@@ -2142,8 +2142,8 @@
               "id": "beaver",
               "name": {
                 "en": "Beaver",
-                "tl": "Beaver",
-                "es": "Beaver"
+                "tl": "Biber",
+                "es": "Castor"
               },
               "heightLength": {
                 "en": "About 3–4 ft long with tail",
@@ -2201,7 +2201,7 @@
               "name": {
                 "en": "Porcupine",
                 "tl": "Porcupine",
-                "es": "Porcupine"
+                "es": "Puercoespín"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -2259,7 +2259,7 @@
               "name": {
                 "en": "Skunk",
                 "tl": "Skunk",
-                "es": "Skunk"
+                "es": "Mofeta"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long",
@@ -2317,7 +2317,7 @@
               "name": {
                 "en": "Badger",
                 "tl": "Badger",
-                "es": "Badger"
+                "es": "Tejón"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -2375,7 +2375,7 @@
               "name": {
                 "en": "Chipmunk",
                 "tl": "Chipmunk",
-                "es": "Chipmunk"
+                "es": "Ardilla Listada"
               },
               "heightLength": {
                 "en": "About 4–7 in long",
@@ -2432,8 +2432,8 @@
               "id": "mole",
               "name": {
                 "en": "Mole",
-                "tl": "Mole",
-                "es": "Mole"
+                "tl": "Tuldok",
+                "es": "Topo"
               },
               "heightLength": {
                 "en": "About 4–7 in long",
@@ -2491,7 +2491,7 @@
               "name": {
                 "en": "Stoat",
                 "tl": "Stoat",
-                "es": "Stoat"
+                "es": "Armiño"
               },
               "heightLength": {
                 "en": "About 7–13 in long",
@@ -2549,7 +2549,7 @@
               "name": {
                 "en": "Ermine",
                 "tl": "Ermine",
-                "es": "Ermine"
+                "es": "Armiño"
               },
               "heightLength": {
                 "en": "About 7–13 in long",
@@ -2613,7 +2613,7 @@
               "name": {
                 "en": "Wolverine",
                 "tl": "Wolverine",
-                "es": "Wolverine"
+                "es": "Glotón"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft long",
@@ -2670,8 +2670,8 @@
               "id": "woodpecker",
               "name": {
                 "en": "Woodpecker",
-                "tl": "Woodpecker",
-                "es": "Woodpecker"
+                "tl": "Picpio",
+                "es": "Pájaro Carpintero"
               },
               "heightLength": {
                 "en": "About 7–19 in long",
@@ -2728,8 +2728,8 @@
               "id": "hawk",
               "name": {
                 "en": "Hawk",
-                "tl": "Hawk",
-                "es": "Hawk"
+                "tl": "Lawin",
+                "es": "Halcón"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long with wings",
@@ -2787,7 +2787,7 @@
               "name": {
                 "en": "Falcon",
                 "tl": "Falcon",
-                "es": "Falcon"
+                "es": "Halcón"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -2903,7 +2903,7 @@
               "name": {
                 "en": "Genet",
                 "tl": "Genet",
-                "es": "Genet"
+                "es": "Geneta"
               },
               "heightLength": {
                 "en": "About 17–22 in long plus tail",
@@ -2960,8 +2960,8 @@
               "id": "civet",
               "name": {
                 "en": "Civet",
-                "tl": "Civet",
-                "es": "Civet"
+                "tl": "Musang",
+                "es": "Civeta"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -3044,8 +3044,8 @@
               "id": "gorilla",
               "name": {
                 "en": "Gorilla",
-                "tl": "Gorilla",
-                "es": "Gorilla"
+                "tl": "Gorilya",
+                "es": "Gorila"
               },
               "heightLength": {
                 "en": "About 5–6 ft tall standing",
@@ -3102,8 +3102,8 @@
               "id": "chimpanzee",
               "name": {
                 "en": "Chimpanzee",
-                "tl": "Chimpanzee",
-                "es": "Chimpanzee"
+                "tl": "Tsimpanse",
+                "es": "Chimpancé"
               },
               "heightLength": {
                 "en": "About 3–4 ft tall",
@@ -3161,7 +3161,7 @@
               "name": {
                 "en": "Orangutan",
                 "tl": "Orangutan",
-                "es": "Orangutan"
+                "es": "Orangután"
               },
               "heightLength": {
                 "en": "About 4–5 ft long with arms",
@@ -3219,7 +3219,7 @@
               "name": {
                 "en": "Sloth",
                 "tl": "Sloth",
-                "es": "Sloth"
+                "es": "Pereza"
               },
               "heightLength": {
                 "en": "About 2–2.5 ft long",
@@ -3276,8 +3276,8 @@
               "id": "howler_monkey",
               "name": {
                 "en": "Howler Monkey",
-                "tl": "Howler Monkey",
-                "es": "Howler Monkey"
+                "tl": "Unggoy na Sumisigaw",
+                "es": "Mono Aullador"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -3335,7 +3335,7 @@
               "name": {
                 "en": "Capuchin Monkey",
                 "tl": "Capuchin Monkey",
-                "es": "Capuchin Monkey"
+                "es": "Mono Capuchino"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long",
@@ -3393,7 +3393,7 @@
               "name": {
                 "en": "Spider Monkey",
                 "tl": "Spider Monkey",
-                "es": "Spider Monkey"
+                "es": "Mono Araña"
               },
               "heightLength": {
                 "en": "About 2–3 ft long; tail longer than body",
@@ -3451,7 +3451,7 @@
               "name": {
                 "en": "Lemur",
                 "tl": "Lemur",
-                "es": "Lemur"
+                "es": "Lémur"
               },
               "heightLength": {
                 "en": "About 1–2 ft long with tail",
@@ -3624,8 +3624,8 @@
               "id": "chameleon",
               "name": {
                 "en": "Chameleon",
-                "tl": "Chameleon",
-                "es": "Chameleon"
+                "tl": "Kamelyon",
+                "es": "Camaleón"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -3682,8 +3682,8 @@
               "id": "green_iguana",
               "name": {
                 "en": "Green Iguana",
-                "tl": "Green Iguana",
-                "es": "Green Iguana"
+                "tl": "Berde Iguana",
+                "es": "Iguana Verde"
               },
               "heightLength": {
                 "en": "About 4–6 ft long with tail",
@@ -3798,8 +3798,8 @@
               "id": "python",
               "name": {
                 "en": "Python",
-                "tl": "Python",
-                "es": "Python"
+                "tl": "Piton",
+                "es": "Pitón"
               },
               "heightLength": {
                 "en": "About 10–20 ft long (species vary)",
@@ -3857,7 +3857,7 @@
               "name": {
                 "en": "Poison Dart Frog",
                 "tl": "Poison Dart Frog",
-                "es": "Poison Dart Frog"
+                "es": "Rana Dardo Venenosa"
               },
               "heightLength": {
                 "en": "About 0.5–2 in long",
@@ -3915,7 +3915,7 @@
               "name": {
                 "en": "Red Eyed Tree Frog",
                 "tl": "Red Eyed Tree Frog",
-                "es": "Red Eyed Tree Frog"
+                "es": "Rana de Ojos Rojos"
               },
               "heightLength": {
                 "en": "About 2–3 in long",
@@ -3979,7 +3979,7 @@
               "name": {
                 "en": "Anteater",
                 "tl": "Anteater",
-                "es": "Anteater"
+                "es": "Oso Hormiguero"
               },
               "heightLength": {
                 "en": "About 5–7 ft long with tail",
@@ -4095,7 +4095,7 @@
               "name": {
                 "en": "Kinkajou",
                 "tl": "Kinkajou",
-                "es": "Kinkajou"
+                "es": "Kinkajú"
               },
               "heightLength": {
                 "en": "About 16–24 in long plus tail",
@@ -4211,7 +4211,7 @@
               "name": {
                 "en": "Tarsier",
                 "tl": "Tarsier",
-                "es": "Tarsier"
+                "es": "Tarsero"
               },
               "heightLength": {
                 "en": "About 3–6 in long",
@@ -4268,8 +4268,8 @@
               "id": "fruit_bat",
               "name": {
                 "en": "Fruit Bat",
-                "tl": "Fruit Bat",
-                "es": "Fruit Bat"
+                "tl": "Paniking Prutas",
+                "es": "Zorro Volador"
               },
               "heightLength": {
                 "en": "About 1–1.5 ft wingspan",
@@ -4327,7 +4327,7 @@
               "name": {
                 "en": "Pangolin",
                 "tl": "Pangolin",
-                "es": "Pangolin"
+                "es": "Pangolín"
               },
               "heightLength": {
                 "en": "About 1–4 ft long",
@@ -4385,7 +4385,7 @@
               "name": {
                 "en": "Bush Baby",
                 "tl": "Bush Baby",
-                "es": "Bush Baby"
+                "es": "Gálago"
               },
               "heightLength": {
                 "en": "About 5–16 in long",
@@ -4617,7 +4617,7 @@
               "name": {
                 "en": "Tasmanian Devil",
                 "tl": "Tasmanian Devil",
-                "es": "Tasmanian Devil"
+                "es": "Demonio de Tasmania"
               },
               "heightLength": {
                 "en": "About 2 ft long",
@@ -4695,8 +4695,8 @@
               "id": "lion",
               "name": {
                 "en": "Lion",
-                "tl": "Lion",
-                "es": "Lion"
+                "tl": "Leon",
+                "es": "León"
               },
               "heightLength": {
                 "en": "About 4 ft at shoulder; 6–8 ft long",
@@ -4753,8 +4753,8 @@
               "id": "elephant",
               "name": {
                 "en": "Elephant",
-                "tl": "Elephant",
-                "es": "Elephant"
+                "tl": "Elepante",
+                "es": "Elefante"
               },
               "heightLength": {
                 "en": "About 8–13 ft at shoulder",
@@ -4811,8 +4811,8 @@
               "id": "hyena",
               "name": {
                 "en": "Hyena",
-                "tl": "Hyena",
-                "es": "Hyena"
+                "tl": "Hiyena",
+                "es": "Hiena"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft at shoulder",
@@ -4870,7 +4870,7 @@
               "name": {
                 "en": "Aardvark",
                 "tl": "Aardvark",
-                "es": "Aardvark"
+                "es": "Cerdo Hormiguero"
               },
               "heightLength": {
                 "en": "About 4–5 ft long",
@@ -4979,7 +4979,7 @@
               "name": {
                 "en": "Fennec Fox",
                 "tl": "Fennec Fox",
-                "es": "Fennec Fox"
+                "es": "Zorro del Desierto"
               },
               "heightLength": {
                 "en": "About 1 ft tall; 1.5 ft long",
@@ -5094,8 +5094,8 @@
               "id": "scorpion",
               "name": {
                 "en": "Scorpion",
-                "tl": "Scorpion",
-                "es": "Scorpion"
+                "tl": "Alakdan",
+                "es": "Escorpión"
               },
               "heightLength": {
                 "en": "About 2–8 in long",
@@ -5152,8 +5152,8 @@
               "id": "gecko",
               "name": {
                 "en": "Gecko",
-                "tl": "Gecko",
-                "es": "Gecko"
+                "tl": "Tuko",
+                "es": "Geco"
               },
               "heightLength": {
                 "en": "About 4–12 in long",
@@ -5262,7 +5262,7 @@
               "name": {
                 "en": "Polar Bear",
                 "tl": "Polar Bear",
-                "es": "Polar Bear"
+                "es": "Oso Polar"
               },
               "heightLength": {
                 "en": "About 8–10 ft long standing",
@@ -5320,7 +5320,7 @@
               "name": {
                 "en": "Arctic Fox",
                 "tl": "Arctic Fox",
-                "es": "Arctic Fox"
+                "es": "Zorro Ártico"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long plus tail",
@@ -5378,7 +5378,7 @@
               "name": {
                 "en": "Arctic Hare",
                 "tl": "Arctic Hare",
-                "es": "Arctic Hare"
+                "es": "Liebre Ártica"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long",
@@ -5436,7 +5436,7 @@
               "name": {
                 "en": "Arctic Wolf",
                 "tl": "Arctic Wolf",
-                "es": "Arctic Wolf"
+                "es": "Lobo Ártico"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft at shoulder",
@@ -5494,7 +5494,7 @@
               "name": {
                 "en": "Reindeer",
                 "tl": "Reindeer",
-                "es": "Reindeer"
+                "es": "Reno"
               },
               "heightLength": {
                 "en": "About 4 ft at shoulder",
@@ -5552,7 +5552,7 @@
               "name": {
                 "en": "Caribou",
                 "tl": "Caribou",
-                "es": "Caribou"
+                "es": "Caribú"
               },
               "heightLength": {
                 "en": "About 4 ft at shoulder",
@@ -5610,7 +5610,7 @@
               "name": {
                 "en": "Musk Ox",
                 "tl": "Musk Ox",
-                "es": "Musk Ox"
+                "es": "Buey Almizclero"
               },
               "heightLength": {
                 "en": "About 4–5 ft at shoulder",
@@ -5726,7 +5726,7 @@
               "name": {
                 "en": "Walrus",
                 "tl": "Walrus",
-                "es": "Walrus"
+                "es": "Morsa"
               },
               "heightLength": {
                 "en": "About 8–12 ft long",
@@ -5784,7 +5784,7 @@
               "name": {
                 "en": "Harp Seal",
                 "tl": "Harp Seal",
-                "es": "Harp Seal"
+                "es": "Foca Arpa"
               },
               "heightLength": {
                 "en": "About 5–6 ft long",
@@ -5842,7 +5842,7 @@
               "name": {
                 "en": "Harbor Seal",
                 "tl": "Harbor Seal",
-                "es": "Harbor Seal"
+                "es": "Foca Común"
               },
               "heightLength": {
                 "en": "About 5–6 ft long",
@@ -5900,7 +5900,7 @@
               "name": {
                 "en": "Beluga Whale",
                 "tl": "Beluga Whale",
-                "es": "Beluga Whale"
+                "es": "Ballena Beluga"
               },
               "heightLength": {
                 "en": "About 13–20 ft long",
@@ -5958,7 +5958,7 @@
               "name": {
                 "en": "Narwhal",
                 "tl": "Narwhal",
-                "es": "Narwhal"
+                "es": "Narval"
               },
               "heightLength": {
                 "en": "About 13–18 ft long plus tusk",
@@ -6016,7 +6016,7 @@
               "name": {
                 "en": "Bowhead Whale",
                 "tl": "Bowhead Whale",
-                "es": "Bowhead Whale"
+                "es": "Ballena Bowhead"
               },
               "heightLength": {
                 "en": "About 50–60 ft long",
@@ -6074,7 +6074,7 @@
               "name": {
                 "en": "Sperm Whale",
                 "tl": "Sperm Whale",
-                "es": "Sperm Whale"
+                "es": "Cachalote"
               },
               "heightLength": {
                 "en": "About 50–60 ft long",
@@ -6132,7 +6132,7 @@
               "name": {
                 "en": "Elephant Seal",
                 "tl": "Elephant Seal",
-                "es": "Elephant Seal"
+                "es": "Foca Elefante"
               },
               "heightLength": {
                 "en": "Males up to 16 ft long",
@@ -6196,7 +6196,7 @@
               "name": {
                 "en": "Leopard Seal",
                 "tl": "Leopard Seal",
-                "es": "Leopard Seal"
+                "es": "Foca Leopardo"
               },
               "heightLength": {
                 "en": "About 10–12 ft long",
@@ -6254,7 +6254,7 @@
               "name": {
                 "en": "Weddell Seal",
                 "tl": "Weddell Seal",
-                "es": "Weddell Seal"
+                "es": "Foca de Weddell"
               },
               "heightLength": {
                 "en": "About 8–10 ft long",
@@ -6312,7 +6312,7 @@
               "name": {
                 "en": "Emperor Penguin",
                 "tl": "Emperor Penguin",
-                "es": "Emperor Penguin"
+                "es": "Pingüino Emperador"
               },
               "heightLength": {
                 "en": "About 3–4 ft tall",
@@ -6370,7 +6370,7 @@
               "name": {
                 "en": "Adelie Penguin",
                 "tl": "Adelie Penguin",
-                "es": "Adelie Penguin"
+                "es": "Pingüino Adelia"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft tall",
@@ -6428,7 +6428,7 @@
               "name": {
                 "en": "Rockhopper Penguin",
                 "tl": "Rockhopper Penguin",
-                "es": "Rockhopper Penguin"
+                "es": "Pingüino Saltarrocas"
               },
               "heightLength": {
                 "en": "About 20 in tall",
@@ -6486,7 +6486,7 @@
               "name": {
                 "en": "Krill Antarctic",
                 "tl": "Krill Antarctic",
-                "es": "Krill Antarctic"
+                "es": "Krill Antártico"
               },
               "heightLength": {
                 "en": "About 2 in long",
@@ -6544,7 +6544,7 @@
               "name": {
                 "en": "Snow Goose",
                 "tl": "Snow Goose",
-                "es": "Snow Goose"
+                "es": "Ganso Nival"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -6602,7 +6602,7 @@
               "name": {
                 "en": "Ptarmigan",
                 "tl": "Ptarmigan",
-                "es": "Ptarmigan"
+                "es": "Lagópodo"
               },
               "heightLength": {
                 "en": "About 12–17 in long",
@@ -6660,7 +6660,7 @@
               "name": {
                 "en": "Puffin",
                 "tl": "Puffin",
-                "es": "Puffin"
+                "es": "Frailecillo"
               },
               "heightLength": {
                 "en": "About 10–12 in tall",
@@ -6742,7 +6742,7 @@
               "name": {
                 "en": "Clownfish",
                 "tl": "Clownfish",
-                "es": "Clownfish"
+                "es": "Pez Payaso"
               },
               "heightLength": {
                 "en": "About 2–4 in long",
@@ -6800,7 +6800,7 @@
               "name": {
                 "en": "Angelfish",
                 "tl": "Angelfish",
-                "es": "Angelfish"
+                "es": "Pez Ángel"
               },
               "heightLength": {
                 "en": "About 6–10 in long",
@@ -6857,8 +6857,8 @@
               "id": "jellyfish",
               "name": {
                 "en": "Jellyfish",
-                "tl": "Jellyfish",
-                "es": "Jellyfish"
+                "tl": "Duyong",
+                "es": "Medusa"
               },
               "heightLength": {
                 "en": "Bell 1 in to 6 ft wide",
@@ -6916,7 +6916,7 @@
               "name": {
                 "en": "Starfish",
                 "tl": "Starfish",
-                "es": "Starfish"
+                "es": "Estrella de Mar"
               },
               "heightLength": {
                 "en": "About 4–12 in across arms",
@@ -6974,7 +6974,7 @@
               "name": {
                 "en": "Seahorse",
                 "tl": "Seahorse",
-                "es": "Seahorse"
+                "es": "Caballito de Mar"
               },
               "heightLength": {
                 "en": "About 0.5–14 in long",
@@ -7031,8 +7031,8 @@
               "id": "sea_turtle",
               "name": {
                 "en": "Sea Turtle",
-                "tl": "Sea Turtle",
-                "es": "Sea Turtle"
+                "tl": "Pawikan",
+                "es": "Tortuga Marina"
               },
               "heightLength": {
                 "en": "About 2–6 ft long shell",
@@ -7090,7 +7090,7 @@
               "name": {
                 "en": "Lobster",
                 "tl": "Lobster",
-                "es": "Lobster"
+                "es": "Langosta"
               },
               "heightLength": {
                 "en": "About 1–3 ft long",
@@ -7148,7 +7148,7 @@
               "name": {
                 "en": "Hermit Crab",
                 "tl": "Hermit Crab",
-                "es": "Hermit Crab"
+                "es": "Cangrejo Ermitaño"
               },
               "heightLength": {
                 "en": "About 0.5–16 in long",
@@ -7206,7 +7206,7 @@
               "name": {
                 "en": "Brain Coral",
                 "tl": "Brain Coral",
-                "es": "Brain Coral"
+                "es": "Coral Cerebro"
               },
               "heightLength": {
                 "en": "Colonies several feet wide",
@@ -7264,7 +7264,7 @@
               "name": {
                 "en": "Sea Anemone",
                 "tl": "Sea Anemone",
-                "es": "Sea Anemone"
+                "es": "Anémona de Mar"
               },
               "heightLength": {
                 "en": "About 1–6 ft across tentacles",
@@ -7322,7 +7322,7 @@
               "name": {
                 "en": "Butterflyfish",
                 "tl": "Butterflyfish",
-                "es": "Butterflyfish"
+                "es": "Pez Mariposa"
               },
               "heightLength": {
                 "en": "About 4–8 in long",
@@ -7380,7 +7380,7 @@
               "name": {
                 "en": "Blue Tang",
                 "tl": "Blue Tang",
-                "es": "Blue Tang"
+                "es": "Cirujano Azul"
               },
               "heightLength": {
                 "en": "About 8–12 in long",
@@ -7438,7 +7438,7 @@
               "name": {
                 "en": "Mandarinfish",
                 "tl": "Mandarinfish",
-                "es": "Mandarinfish"
+                "es": "Pez Mandarín"
               },
               "heightLength": {
                 "en": "About 2–3 in long",
@@ -7496,7 +7496,7 @@
               "name": {
                 "en": "Moorish Idol",
                 "tl": "Moorish Idol",
-                "es": "Moorish Idol"
+                "es": "Ídolo Moro"
               },
               "heightLength": {
                 "en": "About 8–10 in long",
@@ -7554,7 +7554,7 @@
               "name": {
                 "en": "Parrotfish",
                 "tl": "Parrotfish",
-                "es": "Parrotfish"
+                "es": "Pez Loro"
               },
               "heightLength": {
                 "en": "About 1–4 ft long",
@@ -7612,7 +7612,7 @@
               "name": {
                 "en": "Triggerfish",
                 "tl": "Triggerfish",
-                "es": "Triggerfish"
+                "es": "Pez Ballesta"
               },
               "heightLength": {
                 "en": "About 1–3 ft long",
@@ -7676,7 +7676,7 @@
               "name": {
                 "en": "Lionfish",
                 "tl": "Lionfish",
-                "es": "Lionfish"
+                "es": "Pez León"
               },
               "heightLength": {
                 "en": "About 12–15 in long",
@@ -7734,7 +7734,7 @@
               "name": {
                 "en": "Manta Ray",
                 "tl": "Manta Ray",
-                "es": "Manta Ray"
+                "es": "Manta Raya"
               },
               "heightLength": {
                 "en": "Wingspan up to 29 ft",
@@ -7791,8 +7791,8 @@
               "id": "stingray",
               "name": {
                 "en": "Stingray",
-                "tl": "Stingray",
-                "es": "Stingray"
+                "tl": "Pagi",
+                "es": "Raya"
               },
               "heightLength": {
                 "en": "About 2–6 ft wide",
@@ -7850,7 +7850,7 @@
               "name": {
                 "en": "Reef Shark",
                 "tl": "Reef Shark",
-                "es": "Reef Shark"
+                "es": "Tiburón de Arrecife"
               },
               "heightLength": {
                 "en": "About 5–6 ft long",
@@ -7908,7 +7908,7 @@
               "name": {
                 "en": "Hammerhead Shark",
                 "tl": "Hammerhead Shark",
-                "es": "Hammerhead Shark"
+                "es": "Tiburón Martillo"
               },
               "heightLength": {
                 "en": "About 10–20 ft long",
@@ -7966,7 +7966,7 @@
               "name": {
                 "en": "Great White Shark",
                 "tl": "Great White Shark",
-                "es": "Great White Shark"
+                "es": "Tiburón Blanco"
               },
               "heightLength": {
                 "en": "About 15–20 ft long",
@@ -8024,7 +8024,7 @@
               "name": {
                 "en": "Tiger Shark",
                 "tl": "Tiger Shark",
-                "es": "Tiger Shark"
+                "es": "Tiburón Tigre"
               },
               "heightLength": {
                 "en": "About 10–14 ft long",
@@ -8082,7 +8082,7 @@
               "name": {
                 "en": "Sea Urchin",
                 "tl": "Sea Urchin",
-                "es": "Sea Urchin"
+                "es": "Erizo de Mar"
               },
               "heightLength": {
                 "en": "About 2–4 in across",
@@ -8139,8 +8139,8 @@
               "id": "octopus",
               "name": {
                 "en": "Octopus",
-                "tl": "Octopus",
-                "es": "Octopus"
+                "tl": "Pugita",
+                "es": "Pulpo"
               },
               "heightLength": {
                 "en": "About 3–4 ft arm span",
@@ -8198,7 +8198,7 @@
               "name": {
                 "en": "Cuttlefish",
                 "tl": "Cuttlefish",
-                "es": "Cuttlefish"
+                "es": "Sepia"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -8256,7 +8256,7 @@
               "name": {
                 "en": "Moray Eel",
                 "tl": "Moray Eel",
-                "es": "Moray Eel"
+                "es": "Morena"
               },
               "heightLength": {
                 "en": "About 3–10 ft long",
@@ -8314,7 +8314,7 @@
               "name": {
                 "en": "Pufferfish",
                 "tl": "Pufferfish",
-                "es": "Pufferfish"
+                "es": "Pez Globo"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -8372,7 +8372,7 @@
               "name": {
                 "en": "Bottlenose Dolphin",
                 "tl": "Bottlenose Dolphin",
-                "es": "Bottlenose Dolphin"
+                "es": "Delfín Nariz de Botella"
               },
               "heightLength": {
                 "en": "About 6–12 ft long",
@@ -8488,7 +8488,7 @@
               "name": {
                 "en": "Sea Lion",
                 "tl": "Sea Lion",
-                "es": "Sea Lion"
+                "es": "León Marino"
               },
               "heightLength": {
                 "en": "About 6–8 ft long",
@@ -8546,7 +8546,7 @@
               "name": {
                 "en": "Sea Otter",
                 "tl": "Sea Otter",
-                "es": "Sea Otter"
+                "es": "Nutria Marina"
               },
               "heightLength": {
                 "en": "About 4 ft long",
@@ -8621,7 +8621,7 @@
               "name": {
                 "en": "Goblin Shark",
                 "tl": "Goblin Shark",
-                "es": "Goblin Shark"
+                "es": "Tiburón Duende"
               },
               "heightLength": {
                 "en": "About 10–13 ft long",
@@ -8679,7 +8679,7 @@
               "name": {
                 "en": "Frilled Shark",
                 "tl": "Frilled Shark",
-                "es": "Frilled Shark"
+                "es": "Tiburón Fraile"
               },
               "heightLength": {
                 "en": "About 6–7 ft long",
@@ -8737,7 +8737,7 @@
               "name": {
                 "en": "Dragonfish",
                 "tl": "Dragonfish",
-                "es": "Dragonfish"
+                "es": "Pez Dragón"
               },
               "heightLength": {
                 "en": "About 6–15 in long",
@@ -8795,7 +8795,7 @@
               "name": {
                 "en": "Viperfish",
                 "tl": "Viperfish",
-                "es": "Viperfish"
+                "es": "Pez Víbora"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -8853,7 +8853,7 @@
               "name": {
                 "en": "Fangtooth",
                 "tl": "Fangtooth",
-                "es": "Fangtooth"
+                "es": "Pez Diente de Colmillo"
               },
               "heightLength": {
                 "en": "About 6 in long",
@@ -8911,7 +8911,7 @@
               "name": {
                 "en": "Gulper Eel",
                 "tl": "Gulper Eel",
-                "es": "Gulper Eel"
+                "es": "Anguila Gulpadora"
               },
               "heightLength": {
                 "en": "About 3–6 ft long; mouth huge",
@@ -8969,7 +8969,7 @@
               "name": {
                 "en": "Hatchetfish",
                 "tl": "Hatchetfish",
-                "es": "Hatchetfish"
+                "es": "Pez Hacha"
               },
               "heightLength": {
                 "en": "About 1–6 in long",
@@ -9027,7 +9027,7 @@
               "name": {
                 "en": "Lanternfish",
                 "tl": "Lanternfish",
-                "es": "Lanternfish"
+                "es": "Pez Linterna"
               },
               "heightLength": {
                 "en": "About 2–12 in long",
@@ -9085,7 +9085,7 @@
               "name": {
                 "en": "Barreleye",
                 "tl": "Barreleye",
-                "es": "Barreleye"
+                "es": "Pez Ojo de Barril"
               },
               "heightLength": {
                 "en": "About 6 in long",
@@ -9143,7 +9143,7 @@
               "name": {
                 "en": "Coffinfish",
                 "tl": "Coffinfish",
-                "es": "Coffinfish"
+                "es": "Pez Ataúd"
               },
               "heightLength": {
                 "en": "About 8–10 in long",
@@ -9201,7 +9201,7 @@
               "name": {
                 "en": "Oarfish",
                 "tl": "Oarfish",
-                "es": "Oarfish"
+                "es": "Pez Remo"
               },
               "heightLength": {
                 "en": "About 26–36 ft long",
@@ -9259,7 +9259,7 @@
               "name": {
                 "en": "Colossal Squid",
                 "tl": "Colossal Squid",
-                "es": "Colossal Squid"
+                "es": "Calamar Colosal"
               },
               "heightLength": {
                 "en": "About 30–45 ft long with tentacles",
@@ -9317,7 +9317,7 @@
               "name": {
                 "en": "Cookiecutter Shark",
                 "tl": "Cookiecutter Shark",
-                "es": "Cookiecutter Shark"
+                "es": "Tiburón Galleta"
               },
               "heightLength": {
                 "en": "About 1.5 ft long",
@@ -9375,7 +9375,7 @@
               "name": {
                 "en": "Six Gill Shark",
                 "tl": "Six Gill Shark",
-                "es": "Six Gill Shark"
+                "es": "Tiburón de Seis Branquias"
               },
               "heightLength": {
                 "en": "About 12–18 ft long",
@@ -9433,7 +9433,7 @@
               "name": {
                 "en": "Grenadier Fish",
                 "tl": "Grenadier Fish",
-                "es": "Grenadier Fish"
+                "es": "Granadero"
               },
               "heightLength": {
                 "en": "About 1–3 ft long plus tail",
@@ -9491,7 +9491,7 @@
               "name": {
                 "en": "Lizardfish",
                 "tl": "Lizardfish",
-                "es": "Lizardfish"
+                "es": "Pez Lagarto"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -9555,7 +9555,7 @@
               "name": {
                 "en": "Snipe Eel",
                 "tl": "Snipe Eel",
-                "es": "Snipe Eel"
+                "es": "Anguila Aguja"
               },
               "heightLength": {
                 "en": "About 4–5 ft long but thin as pencil",
@@ -9613,7 +9613,7 @@
               "name": {
                 "en": "Cusk Eel",
                 "tl": "Cusk Eel",
-                "es": "Cusk Eel"
+                "es": "Anguila Cusk"
               },
               "heightLength": {
                 "en": "About 3–6 ft long",
@@ -9671,7 +9671,7 @@
               "name": {
                 "en": "Chimaera",
                 "tl": "Chimaera",
-                "es": "Chimaera"
+                "es": "Quimera"
               },
               "heightLength": {
                 "en": "About 2–5 ft long",
@@ -9729,7 +9729,7 @@
               "name": {
                 "en": "Ghost Shark",
                 "tl": "Ghost Shark",
-                "es": "Ghost Shark"
+                "es": "Tiburón Fantasma"
               },
               "heightLength": {
                 "en": "About 2–4 ft long",
@@ -9787,7 +9787,7 @@
               "name": {
                 "en": "Spookfish",
                 "tl": "Spookfish",
-                "es": "Spookfish"
+                "es": "Pez Fantasma"
               },
               "heightLength": {
                 "en": "About 1 ft long",
@@ -9845,7 +9845,7 @@
               "name": {
                 "en": "Wolffish",
                 "tl": "Wolffish",
-                "es": "Wolffish"
+                "es": "Pez Lobo"
               },
               "heightLength": {
                 "en": "About 4–5 ft long",
@@ -9903,7 +9903,7 @@
               "name": {
                 "en": "Mariana Snailfish",
                 "tl": "Mariana Snailfish",
-                "es": "Mariana Snailfish"
+                "es": "Pez Caracol de las Marianas"
               },
               "heightLength": {
                 "en": "About 11 in long",
@@ -9961,7 +9961,7 @@
               "name": {
                 "en": "Faceless Cusk",
                 "tl": "Faceless Cusk",
-                "es": "Faceless Cusk"
+                "es": "Cusk Sin Rostro"
               },
               "heightLength": {
                 "en": "About 1 ft long",
@@ -10019,7 +10019,7 @@
               "name": {
                 "en": "Black Swallower",
                 "tl": "Black Swallower",
-                "es": "Black Swallower"
+                "es": "Tragador Negro"
               },
               "heightLength": {
                 "en": "About 10 in long",
@@ -10077,7 +10077,7 @@
               "name": {
                 "en": "Deep Sea Jellyfish",
                 "tl": "Deep Sea Jellyfish",
-                "es": "Deep Sea Jellyfish"
+                "es": "Medusa de Profundidad"
               },
               "heightLength": {
                 "en": "Bell up to 3 ft wide",
@@ -10135,7 +10135,7 @@
               "name": {
                 "en": "Comb Jelly",
                 "tl": "Comb Jelly",
-                "es": "Comb Jelly"
+                "es": "Medusa Peine"
               },
               "heightLength": {
                 "en": "About 1–8 in long",
@@ -10193,7 +10193,7 @@
               "name": {
                 "en": "Abyssal Spiderfish",
                 "tl": "Abyssal Spiderfish",
-                "es": "Abyssal Spiderfish"
+                "es": "Pez Araña Abisal"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -10251,7 +10251,7 @@
               "name": {
                 "en": "Beaked Whale",
                 "tl": "Beaked Whale",
-                "es": "Beaked Whale"
+                "es": "Ballena Pico"
               },
               "heightLength": {
                 "en": "About 15–40 ft long",
@@ -10309,7 +10309,7 @@
               "name": {
                 "en": "Big Red Jelly",
                 "tl": "Big Red Jelly",
-                "es": "Big Red Jelly"
+                "es": "Medusa Roja Gigante"
               },
               "heightLength": {
                 "en": "Bell up to 2–3 ft wide",
@@ -10367,7 +10367,7 @@
               "name": {
                 "en": "Brisingid Starfish",
                 "tl": "Brisingid Starfish",
-                "es": "Brisingid Starfish"
+                "es": "Estrella de Mar Brisingida"
               },
               "heightLength": {
                 "en": "Arms span up to 2 ft",
@@ -10425,7 +10425,7 @@
               "name": {
                 "en": "Flashlight Fish",
                 "tl": "Flashlight Fish",
-                "es": "Flashlight Fish"
+                "es": "Pez Linterna"
               },
               "heightLength": {
                 "en": "About 4–5 in long",
@@ -10500,7 +10500,7 @@
               "name": {
                 "en": "Salamander",
                 "tl": "Salamander",
-                "es": "Salamander"
+                "es": "Salamandra"
               },
               "heightLength": {
                 "en": "About 4–12 in long",
@@ -10611,8 +10611,8 @@
               "id": "eagle",
               "name": {
                 "en": "Eagle",
-                "tl": "Eagle",
-                "es": "Eagle"
+                "tl": "Aguila",
+                "es": "Águila"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft long; wingspan 6–8 ft",
@@ -10669,8 +10669,8 @@
               "id": "hummingbird",
               "name": {
                 "en": "Hummingbird",
-                "tl": "Hummingbird",
-                "es": "Hummingbird"
+                "tl": "Ibon na Hummingbird",
+                "es": "Colibrí"
               },
               "heightLength": {
                 "en": "About 3–4 in long",
@@ -10728,7 +10728,7 @@
               "name": {
                 "en": "Cockatiel",
                 "tl": "Cockatiel",
-                "es": "Cockatiel"
+                "es": "Cacatúa Ninfa"
               },
               "heightLength": {
                 "en": "About 12–14 in long",
@@ -10786,7 +10786,7 @@
               "name": {
                 "en": "Parakeet",
                 "tl": "Parakeet",
-                "es": "Parakeet"
+                "es": "Periquito"
               },
               "heightLength": {
                 "en": "About 7–18 in long",
@@ -10844,7 +10844,7 @@
               "name": {
                 "en": "Cardinal",
                 "tl": "Cardinal",
-                "es": "Cardinal"
+                "es": "Cardenal"
               },
               "heightLength": {
                 "en": "About 8–9 in long",
@@ -10902,7 +10902,7 @@
               "name": {
                 "en": "Blue Jay",
                 "tl": "Blue Jay",
-                "es": "Blue Jay"
+                "es": "Arrendajo Azul"
               },
               "heightLength": {
                 "en": "About 10–12 in long",
@@ -10959,8 +10959,8 @@
               "id": "pelican",
               "name": {
                 "en": "Pelican",
-                "tl": "Pelican",
-                "es": "Pelican"
+                "tl": "Pelikano",
+                "es": "Pelícano"
               },
               "heightLength": {
                 "en": "About 4–6 ft wingspan",
@@ -11018,7 +11018,7 @@
               "name": {
                 "en": "Seagull",
                 "tl": "Seagull",
-                "es": "Seagull"
+                "es": "Gaviota"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft wingspan",
@@ -11076,7 +11076,7 @@
               "name": {
                 "en": "Albatross",
                 "tl": "Albatross",
-                "es": "Albatross"
+                "es": "Albatros"
               },
               "heightLength": {
                 "en": "Wingspan up to 11 ft",
@@ -11134,7 +11134,7 @@
               "name": {
                 "en": "Turkey Vulture",
                 "tl": "Turkey Vulture",
-                "es": "Turkey Vulture"
+                "es": "Zopilote"
               },
               "heightLength": {
                 "en": "About 2.5 ft long; wingspan 6 ft",
@@ -11192,7 +11192,7 @@
               "name": {
                 "en": "Penguin",
                 "tl": "Penguin",
-                "es": "Penguin"
+                "es": "Pingüino"
               },
               "heightLength": {
                 "en": "About 1–4 ft tall (species vary)",
@@ -11250,7 +11250,7 @@
               "name": {
                 "en": "Snowy Owl",
                 "tl": "Snowy Owl",
-                "es": "Snowy Owl"
+                "es": "Búho Níveo"
               },
               "heightLength": {
                 "en": "About 2 ft tall; wingspan 4–5 ft",
@@ -11307,8 +11307,8 @@
               "id": "parrot",
               "name": {
                 "en": "Parrot",
-                "tl": "Parrot",
-                "es": "Parrot"
+                "tl": "Loro",
+                "es": "Loro"
               },
               "heightLength": {
                 "en": "About 1–3 ft long",
@@ -11366,7 +11366,7 @@
               "name": {
                 "en": "Macaw",
                 "tl": "Macaw",
-                "es": "Macaw"
+                "es": "Guacamayo"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -11424,7 +11424,7 @@
               "name": {
                 "en": "Toucan",
                 "tl": "Toucan",
-                "es": "Toucan"
+                "es": "Tucán"
               },
               "heightLength": {
                 "en": "About 2 ft long; bill up to 8 in",
@@ -11482,7 +11482,7 @@
               "name": {
                 "en": "Barn Owl",
                 "tl": "Barn Owl",
-                "es": "Barn Owl"
+                "es": "Lechuza"
               },
               "heightLength": {
                 "en": "About 1 ft tall; wingspan 3 ft",
@@ -11546,7 +11546,7 @@
               "name": {
                 "en": "Great Horned Owl",
                 "tl": "Great Horned Owl",
-                "es": "Great Horned Owl"
+                "es": "Búho Cornudo"
               },
               "heightLength": {
                 "en": "About 2 ft tall; wingspan 4–5 ft",
@@ -11809,8 +11809,8 @@
               "id": "wolf",
               "name": {
                 "en": "Wolf",
-                "tl": "Wolf",
-                "es": "Wolf"
+                "tl": "Lobo",
+                "es": "Lobo"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft at shoulder",
@@ -11919,7 +11919,7 @@
               "name": {
                 "en": "Siamese Cat",
                 "tl": "Siamese Cat",
-                "es": "Siamese Cat"
+                "es": "Gato Siamés"
               },
               "heightLength": {
                 "en": "About 1 ft tall; 2 ft long",
@@ -11977,7 +11977,7 @@
               "name": {
                 "en": "Tabby Cat",
                 "tl": "Tabby Cat",
-                "es": "Tabby Cat"
+                "es": "Gato Atigrado"
               },
               "heightLength": {
                 "en": "About 1 ft tall; 1.5–2 ft long",
@@ -12035,7 +12035,7 @@
               "name": {
                 "en": "Bengal Tiger",
                 "tl": "Bengal Tiger",
-                "es": "Bengal Tiger"
+                "es": "Tigre de Bengala"
               },
               "heightLength": {
                 "en": "About 3 ft at shoulder; 9–10 ft long",
@@ -12093,7 +12093,7 @@
               "name": {
                 "en": "Bobcat",
                 "tl": "Bobcat",
-                "es": "Bobcat"
+                "es": "Lince Rojo"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -12151,7 +12151,7 @@
               "name": {
                 "en": "Lynx",
                 "tl": "Lynx",
-                "es": "Lynx"
+                "es": "Lince"
               },
               "heightLength": {
                 "en": "About 2.5–3.5 ft long",
@@ -12208,8 +12208,8 @@
               "id": "leopard",
               "name": {
                 "en": "Leopard",
-                "tl": "Leopard",
-                "es": "Leopard"
+                "tl": "Leopardo",
+                "es": "Leopardo"
               },
               "heightLength": {
                 "en": "About 3–6 ft long with tail",
@@ -12372,8 +12372,8 @@
               "id": "moth",
               "name": {
                 "en": "Moth",
-                "tl": "Moth",
-                "es": "Moth"
+                "tl": "Gamugamo",
+                "es": "Polilla"
               },
               "heightLength": {
                 "en": "Wingspan 0.5–12 in",
@@ -12431,7 +12431,7 @@
               "name": {
                 "en": "Tarantula",
                 "tl": "Tarantula",
-                "es": "Tarantula"
+                "es": "Tarántula"
               },
               "heightLength": {
                 "en": "About 4–11 in leg span",
@@ -12488,8 +12488,8 @@
               "id": "firefly",
               "name": {
                 "en": "Firefly",
-                "tl": "Firefly",
-                "es": "Firefly"
+                "tl": "Alitaptap",
+                "es": "Luciérnaga"
               },
               "heightLength": {
                 "en": "About 0.5–1 in long",
@@ -12547,7 +12547,7 @@
               "name": {
                 "en": "Leafcutter Ant",
                 "tl": "Leafcutter Ant",
-                "es": "Leafcutter Ant"
+                "es": "Hormiga Cortadora de Hojas"
               },
               "heightLength": {
                 "en": "Workers about 0.5 in long",
@@ -12604,8 +12604,8 @@
               "id": "turtle",
               "name": {
                 "en": "Turtle",
-                "tl": "Turtle",
-                "es": "Turtle"
+                "tl": "Pagong",
+                "es": "Tortuga"
               },
               "heightLength": {
                 "en": "About 6–12 in long (pet species vary)",
