@@ -10,7 +10,7 @@
     "columns": "7fr 9fr",
     "gap": "16px"
   },
-  "generatedAt": "2026-05-31T21:15:03.888Z",
+  "generatedAt": "2026-06-03T04:42:34.130Z",
   "categories": [
     {
       "id": "farm",
@@ -27,8 +27,8 @@
               "id": "cow",
               "name": {
                 "en": "Cow",
-                "tl": "Baka",
-                "es": "Vaca"
+                "tl": "Cow",
+                "es": "Cow"
               },
               "heightLength": {
                 "en": "About 4–5 ft at the shoulder",
@@ -69,7 +69,7 @@
               },
               "image": "/animals/Images/cow.webp",
               "nameSound": "/animals/Sounds/cow_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_cow_mooing_#3-1780191773686.mp3",
+              "animalSound": "/animals/Sounds/cow.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/cow_fact_en.mp3",
                 "tl": "/animals/Sounds/cow_fact_tl.mp3",
@@ -85,8 +85,8 @@
               "id": "pig",
               "name": {
                 "en": "Pig",
-                "tl": "Baboy",
-                "es": "Cerdo"
+                "tl": "Pig",
+                "es": "Pig"
               },
               "heightLength": {
                 "en": "About 2–3 ft tall at shoulder",
@@ -143,8 +143,8 @@
               "id": "chicken",
               "name": {
                 "en": "Chicken",
-                "tl": "Manok",
-                "es": "Pollo"
+                "tl": "Chicken",
+                "es": "Chicken"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -201,8 +201,8 @@
               "id": "horse",
               "name": {
                 "en": "Horse",
-                "tl": "Kabayo",
-                "es": "Caballo"
+                "tl": "Horse",
+                "es": "Horse"
               },
               "heightLength": {
                 "en": "About 5–6 ft at the shoulder",
@@ -259,8 +259,8 @@
               "id": "goat",
               "name": {
                 "en": "Goat",
-                "tl": "Kambing",
-                "es": "Cabra"
+                "tl": "Goat",
+                "es": "Goat"
               },
               "heightLength": {
                 "en": "About 2–3 ft at the shoulder",
@@ -317,8 +317,8 @@
               "id": "sheep",
               "name": {
                 "en": "Sheep",
-                "tl": "Tupa",
-                "es": "Oveja"
+                "tl": "Sheep",
+                "es": "Sheep"
               },
               "heightLength": {
                 "en": "About 2–3 ft at the shoulder",
@@ -375,8 +375,8 @@
               "id": "duck",
               "name": {
                 "en": "Duck",
-                "tl": "Bibe",
-                "es": "Pato"
+                "tl": "Duck",
+                "es": "Duck"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -417,7 +417,7 @@
               },
               "image": "/animals/Images/duck.webp",
               "nameSound": "/animals/Sounds/duck_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_duck_quacking_#1-1780191744083.mp3",
+              "animalSound": "/animals/Sounds/duck.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/duck_fact_en.mp3",
                 "tl": "/animals/Sounds/duck_fact_tl.mp3",
@@ -433,8 +433,8 @@
               "id": "turkey",
               "name": {
                 "en": "Turkey",
-                "tl": "Pabo",
-                "es": "Pavo"
+                "tl": "Turkey",
+                "es": "Turkey"
               },
               "heightLength": {
                 "en": "About 3–4 ft long with tail spread",
@@ -475,7 +475,7 @@
               },
               "image": "/animals/Images/turkey.webp",
               "nameSound": "/animals/Sounds/turkey_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_turkey_gobbling_#3-1780191879302.mp3",
+              "animalSound": "/animals/Sounds/turkey.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/turkey_fact_en.mp3",
                 "tl": "/animals/Sounds/turkey_fact_tl.mp3",
@@ -491,8 +491,8 @@
               "id": "rooster",
               "name": {
                 "en": "Rooster",
-                "tl": "Tandang",
-                "es": "Gallo"
+                "tl": "Rooster",
+                "es": "Rooster"
               },
               "heightLength": {
                 "en": "About 2–3 ft tall",
@@ -549,8 +549,8 @@
               "id": "donkey",
               "name": {
                 "en": "Donkey",
-                "tl": "Asno",
-                "es": "Burro"
+                "tl": "Donkey",
+                "es": "Donkey"
               },
               "heightLength": {
                 "en": "About 3–4 ft at the shoulder",
@@ -723,8 +723,8 @@
               "id": "rabbit",
               "name": {
                 "en": "Rabbit",
-                "tl": "Kuneho",
-                "es": "Conejo"
+                "tl": "Rabbit",
+                "es": "Rabbit"
               },
               "heightLength": {
                 "en": "About 1–1.5 ft long",
@@ -781,8 +781,8 @@
               "id": "goose",
               "name": {
                 "en": "Goose",
-                "tl": "Gansa",
-                "es": "Ganso"
+                "tl": "Goose",
+                "es": "Goose"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -839,8 +839,8 @@
               "id": "guinea_pig",
               "name": {
                 "en": "Guinea Pig",
-                "tl": "Daga-daga",
-                "es": "Cuy"
+                "tl": "Guinea Pig",
+                "es": "Guinea Pig"
               },
               "heightLength": {
                 "en": "About 8–10 in long",
@@ -898,7 +898,7 @@
               "name": {
                 "en": "Hamster",
                 "tl": "Hamster",
-                "es": "Hámster"
+                "es": "Hamster"
               },
               "heightLength": {
                 "en": "About 4–7 in long",
@@ -961,8 +961,8 @@
               "id": "ferret",
               "name": {
                 "en": "Ferret",
-                "tl": "Furet",
-                "es": "Hurón"
+                "tl": "Ferret",
+                "es": "Ferret"
               },
               "heightLength": {
                 "en": "About 1.5 ft long including tail",
@@ -1019,8 +1019,8 @@
               "id": "mule",
               "name": {
                 "en": "Mule",
-                "tl": "Mula",
-                "es": "Mula"
+                "tl": "Mule",
+                "es": "Mule"
               },
               "heightLength": {
                 "en": "About 4–5 ft at the shoulder",
@@ -1078,7 +1078,7 @@
               "name": {
                 "en": "Pony",
                 "tl": "Pony",
-                "es": "Poni"
+                "es": "Pony"
               },
               "heightLength": {
                 "en": "About 3–4 ft at the shoulder",
@@ -1135,8 +1135,8 @@
               "id": "pot_bellied_pig",
               "name": {
                 "en": "Pot Bellied Pig",
-                "tl": "Baboy na May Malaking Tiyan",
-                "es": "Cerdo Vietnamita"
+                "tl": "Pot Bellied Pig",
+                "es": "Pot Bellied Pig"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft tall",
@@ -1193,8 +1193,8 @@
               "id": "mouse",
               "name": {
                 "en": "Mouse",
-                "tl": "Daga",
-                "es": "Ratón"
+                "tl": "Mouse",
+                "es": "Mouse"
               },
               "heightLength": {
                 "en": "About 3–4 in long",
@@ -1251,8 +1251,8 @@
               "id": "rat",
               "name": {
                 "en": "Rat",
-                "tl": "Daga",
-                "es": "Rata"
+                "tl": "Rat",
+                "es": "Rat"
               },
               "heightLength": {
                 "en": "About 9–11 in long with tail",
@@ -1309,8 +1309,8 @@
               "id": "goldfish",
               "name": {
                 "en": "Goldfish",
-                "tl": "Gintong Isda",
-                "es": "Pez Dorado"
+                "tl": "Goldfish",
+                "es": "Goldfish"
               },
               "heightLength": {
                 "en": "About 6–12 in long (tank size varies)",
@@ -1367,8 +1367,8 @@
               "id": "hedgehog",
               "name": {
                 "en": "Hedgehog",
-                "tl": "Dagyaw",
-                "es": "Erizo"
+                "tl": "Hedgehog",
+                "es": "Hedgehog"
               },
               "heightLength": {
                 "en": "About 6–12 in long",
@@ -1425,8 +1425,8 @@
               "id": "wild_boar",
               "name": {
                 "en": "Wild Boar",
-                "tl": "Baboy Ramo",
-                "es": "Jabalí"
+                "tl": "Wild Boar",
+                "es": "Wild Boar"
               },
               "heightLength": {
                 "en": "About 2.5–3.5 ft at shoulder",
@@ -1483,8 +1483,8 @@
               "id": "opossum",
               "name": {
                 "en": "Opossum",
-                "tl": "Posum",
-                "es": "Zarigüeya"
+                "tl": "Opossum",
+                "es": "Opossum"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -1542,7 +1542,7 @@
               "name": {
                 "en": "Sugar Glider",
                 "tl": "Sugar Glider",
-                "es": "Petauro del Azúcar"
+                "es": "Sugar Glider"
               },
               "heightLength": {
                 "en": "About 6–8 in long",
@@ -1599,8 +1599,8 @@
               "id": "vampire_bat",
               "name": {
                 "en": "Vampire Bat",
-                "tl": "Paniki Bampira",
-                "es": "Murciélago Vampiro"
+                "tl": "Vampire Bat",
+                "es": "Vampire Bat"
               },
               "heightLength": {
                 "en": "About 3–4 in long",
@@ -1678,8 +1678,8 @@
               "id": "black_bear",
               "name": {
                 "en": "Black Bear",
-                "tl": "Itim na Oso",
-                "es": "Oso Negro"
+                "tl": "Black Bear",
+                "es": "Black Bear"
               },
               "heightLength": {
                 "en": "About 5–6 ft long standing",
@@ -1736,8 +1736,8 @@
               "id": "brown_bear",
               "name": {
                 "en": "Brown Bear",
-                "tl": "Pulang Oso",
-                "es": "Oso Pardo"
+                "tl": "Brown Bear",
+                "es": "Brown Bear"
               },
               "heightLength": {
                 "en": "About 6–9 ft long",
@@ -1794,8 +1794,8 @@
               "id": "white_tailed_deer",
               "name": {
                 "en": "White Tailed Deer",
-                "tl": "Usap",
-                "es": "Venado Cola Blanca"
+                "tl": "White Tailed Deer",
+                "es": "White Tailed Deer"
               },
               "heightLength": {
                 "en": "About 3–4 ft at shoulder",
@@ -1852,8 +1852,8 @@
               "id": "red_fox",
               "name": {
                 "en": "Red Fox",
-                "tl": "Pulang Soro",
-                "es": "Zorro Rojo"
+                "tl": "Red Fox",
+                "es": "Red Fox"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long plus tail",
@@ -1911,7 +1911,7 @@
               "name": {
                 "en": "Raccoon",
                 "tl": "Raccoon",
-                "es": "Mapache"
+                "es": "Raccoon"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -1968,8 +1968,8 @@
               "id": "squirrel",
               "name": {
                 "en": "Squirrel",
-                "tl": "Bising",
-                "es": "Ardilla"
+                "tl": "Squirrel",
+                "es": "Squirrel"
               },
               "heightLength": {
                 "en": "About 8–12 in long",
@@ -2027,7 +2027,7 @@
               "name": {
                 "en": "Moose",
                 "tl": "Moose",
-                "es": "Alce"
+                "es": "Moose"
               },
               "heightLength": {
                 "en": "About 5–7 ft at shoulder",
@@ -2085,7 +2085,7 @@
               "name": {
                 "en": "Elk",
                 "tl": "Elk",
-                "es": "Wapití"
+                "es": "Elk"
               },
               "heightLength": {
                 "en": "About 4–5 ft at shoulder",
@@ -2142,8 +2142,8 @@
               "id": "beaver",
               "name": {
                 "en": "Beaver",
-                "tl": "Biber",
-                "es": "Castor"
+                "tl": "Beaver",
+                "es": "Beaver"
               },
               "heightLength": {
                 "en": "About 3–4 ft long with tail",
@@ -2201,7 +2201,7 @@
               "name": {
                 "en": "Porcupine",
                 "tl": "Porcupine",
-                "es": "Puercoespín"
+                "es": "Porcupine"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -2259,7 +2259,7 @@
               "name": {
                 "en": "Skunk",
                 "tl": "Skunk",
-                "es": "Mofeta"
+                "es": "Skunk"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long",
@@ -2317,7 +2317,7 @@
               "name": {
                 "en": "Badger",
                 "tl": "Badger",
-                "es": "Tejón"
+                "es": "Badger"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -2375,7 +2375,7 @@
               "name": {
                 "en": "Chipmunk",
                 "tl": "Chipmunk",
-                "es": "Ardilla Listada"
+                "es": "Chipmunk"
               },
               "heightLength": {
                 "en": "About 4–7 in long",
@@ -2432,8 +2432,8 @@
               "id": "mole",
               "name": {
                 "en": "Mole",
-                "tl": "Tuldok",
-                "es": "Topo"
+                "tl": "Mole",
+                "es": "Mole"
               },
               "heightLength": {
                 "en": "About 4–7 in long",
@@ -2491,7 +2491,7 @@
               "name": {
                 "en": "Stoat",
                 "tl": "Stoat",
-                "es": "Armiño"
+                "es": "Stoat"
               },
               "heightLength": {
                 "en": "About 7–13 in long",
@@ -2549,7 +2549,7 @@
               "name": {
                 "en": "Ermine",
                 "tl": "Ermine",
-                "es": "Armiño"
+                "es": "Ermine"
               },
               "heightLength": {
                 "en": "About 7–13 in long",
@@ -2613,7 +2613,7 @@
               "name": {
                 "en": "Wolverine",
                 "tl": "Wolverine",
-                "es": "Glotón"
+                "es": "Wolverine"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft long",
@@ -2670,8 +2670,8 @@
               "id": "woodpecker",
               "name": {
                 "en": "Woodpecker",
-                "tl": "Picpio",
-                "es": "Pájaro Carpintero"
+                "tl": "Woodpecker",
+                "es": "Woodpecker"
               },
               "heightLength": {
                 "en": "About 7–19 in long",
@@ -2728,8 +2728,8 @@
               "id": "hawk",
               "name": {
                 "en": "Hawk",
-                "tl": "Lawin",
-                "es": "Halcón"
+                "tl": "Hawk",
+                "es": "Hawk"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long with wings",
@@ -2787,7 +2787,7 @@
               "name": {
                 "en": "Falcon",
                 "tl": "Falcon",
-                "es": "Halcón"
+                "es": "Falcon"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -2903,7 +2903,7 @@
               "name": {
                 "en": "Genet",
                 "tl": "Genet",
-                "es": "Geneta"
+                "es": "Genet"
               },
               "heightLength": {
                 "en": "About 17–22 in long plus tail",
@@ -2960,8 +2960,8 @@
               "id": "civet",
               "name": {
                 "en": "Civet",
-                "tl": "Musang",
-                "es": "Civeta"
+                "tl": "Civet",
+                "es": "Civet"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -3044,8 +3044,8 @@
               "id": "gorilla",
               "name": {
                 "en": "Gorilla",
-                "tl": "Gorilya",
-                "es": "Gorila"
+                "tl": "Gorilla",
+                "es": "Gorilla"
               },
               "heightLength": {
                 "en": "About 5–6 ft tall standing",
@@ -3102,8 +3102,8 @@
               "id": "chimpanzee",
               "name": {
                 "en": "Chimpanzee",
-                "tl": "Tsimpanse",
-                "es": "Chimpancé"
+                "tl": "Chimpanzee",
+                "es": "Chimpanzee"
               },
               "heightLength": {
                 "en": "About 3–4 ft tall",
@@ -3161,7 +3161,7 @@
               "name": {
                 "en": "Orangutan",
                 "tl": "Orangutan",
-                "es": "Orangután"
+                "es": "Orangutan"
               },
               "heightLength": {
                 "en": "About 4–5 ft long with arms",
@@ -3219,7 +3219,7 @@
               "name": {
                 "en": "Sloth",
                 "tl": "Sloth",
-                "es": "Pereza"
+                "es": "Sloth"
               },
               "heightLength": {
                 "en": "About 2–2.5 ft long",
@@ -3276,8 +3276,8 @@
               "id": "howler_monkey",
               "name": {
                 "en": "Howler Monkey",
-                "tl": "Unggoy na Sumisigaw",
-                "es": "Mono Aullador"
+                "tl": "Howler Monkey",
+                "es": "Howler Monkey"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -3335,7 +3335,7 @@
               "name": {
                 "en": "Capuchin Monkey",
                 "tl": "Capuchin Monkey",
-                "es": "Mono Capuchino"
+                "es": "Capuchin Monkey"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long",
@@ -3393,7 +3393,7 @@
               "name": {
                 "en": "Spider Monkey",
                 "tl": "Spider Monkey",
-                "es": "Mono Araña"
+                "es": "Spider Monkey"
               },
               "heightLength": {
                 "en": "About 2–3 ft long; tail longer than body",
@@ -3451,7 +3451,7 @@
               "name": {
                 "en": "Lemur",
                 "tl": "Lemur",
-                "es": "Lémur"
+                "es": "Lemur"
               },
               "heightLength": {
                 "en": "About 1–2 ft long with tail",
@@ -3624,8 +3624,8 @@
               "id": "chameleon",
               "name": {
                 "en": "Chameleon",
-                "tl": "Kamelyon",
-                "es": "Camaleón"
+                "tl": "Chameleon",
+                "es": "Chameleon"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -3682,8 +3682,8 @@
               "id": "green_iguana",
               "name": {
                 "en": "Green Iguana",
-                "tl": "Berde Iguana",
-                "es": "Iguana Verde"
+                "tl": "Green Iguana",
+                "es": "Green Iguana"
               },
               "heightLength": {
                 "en": "About 4–6 ft long with tail",
@@ -3798,8 +3798,8 @@
               "id": "python",
               "name": {
                 "en": "Python",
-                "tl": "Piton",
-                "es": "Pitón"
+                "tl": "Python",
+                "es": "Python"
               },
               "heightLength": {
                 "en": "About 10–20 ft long (species vary)",
@@ -3857,7 +3857,7 @@
               "name": {
                 "en": "Poison Dart Frog",
                 "tl": "Poison Dart Frog",
-                "es": "Rana Dardo Venenosa"
+                "es": "Poison Dart Frog"
               },
               "heightLength": {
                 "en": "About 0.5–2 in long",
@@ -3915,7 +3915,7 @@
               "name": {
                 "en": "Red Eyed Tree Frog",
                 "tl": "Red Eyed Tree Frog",
-                "es": "Rana de Ojos Rojos"
+                "es": "Red Eyed Tree Frog"
               },
               "heightLength": {
                 "en": "About 2–3 in long",
@@ -3979,7 +3979,7 @@
               "name": {
                 "en": "Anteater",
                 "tl": "Anteater",
-                "es": "Oso Hormiguero"
+                "es": "Anteater"
               },
               "heightLength": {
                 "en": "About 5–7 ft long with tail",
@@ -4095,7 +4095,7 @@
               "name": {
                 "en": "Kinkajou",
                 "tl": "Kinkajou",
-                "es": "Kinkajú"
+                "es": "Kinkajou"
               },
               "heightLength": {
                 "en": "About 16–24 in long plus tail",
@@ -4211,7 +4211,7 @@
               "name": {
                 "en": "Tarsier",
                 "tl": "Tarsier",
-                "es": "Tarsero"
+                "es": "Tarsier"
               },
               "heightLength": {
                 "en": "About 3–6 in long",
@@ -4268,8 +4268,8 @@
               "id": "fruit_bat",
               "name": {
                 "en": "Fruit Bat",
-                "tl": "Paniking Prutas",
-                "es": "Zorro Volador"
+                "tl": "Fruit Bat",
+                "es": "Fruit Bat"
               },
               "heightLength": {
                 "en": "About 1–1.5 ft wingspan",
@@ -4327,7 +4327,7 @@
               "name": {
                 "en": "Pangolin",
                 "tl": "Pangolin",
-                "es": "Pangolín"
+                "es": "Pangolin"
               },
               "heightLength": {
                 "en": "About 1–4 ft long",
@@ -4385,7 +4385,7 @@
               "name": {
                 "en": "Bush Baby",
                 "tl": "Bush Baby",
-                "es": "Gálago"
+                "es": "Bush Baby"
               },
               "heightLength": {
                 "en": "About 5–16 in long",
@@ -4617,7 +4617,7 @@
               "name": {
                 "en": "Tasmanian Devil",
                 "tl": "Tasmanian Devil",
-                "es": "Demonio de Tasmania"
+                "es": "Tasmanian Devil"
               },
               "heightLength": {
                 "en": "About 2 ft long",
@@ -4695,8 +4695,8 @@
               "id": "lion",
               "name": {
                 "en": "Lion",
-                "tl": "Leon",
-                "es": "León"
+                "tl": "Lion",
+                "es": "Lion"
               },
               "heightLength": {
                 "en": "About 4 ft at shoulder; 6–8 ft long",
@@ -4737,7 +4737,7 @@
               },
               "image": "/animals/Images/lion.webp",
               "nameSound": null,
-              "animalSound": "/animals/Sounds/animal sounds/a_lion_roaring_loud_#2-1780191843914.mp3",
+              "animalSound": "/animals/Sounds/lion.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/lion_fact_en.mp3",
                 "tl": "/animals/Sounds/lion_fact_tl.mp3",
@@ -4753,8 +4753,8 @@
               "id": "elephant",
               "name": {
                 "en": "Elephant",
-                "tl": "Elepante",
-                "es": "Elefante"
+                "tl": "Elephant",
+                "es": "Elephant"
               },
               "heightLength": {
                 "en": "About 8–13 ft at shoulder",
@@ -4795,7 +4795,7 @@
               },
               "image": "/animals/Images/elephant.webp",
               "nameSound": null,
-              "animalSound": "/animals/Sounds/animal sounds/an_african_elephants_#1-1780192517304.mp3",
+              "animalSound": "/animals/Sounds/elephant.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/elephant_fact_en.mp3",
                 "tl": "/animals/Sounds/elephant_fact_tl.mp3",
@@ -4811,8 +4811,8 @@
               "id": "hyena",
               "name": {
                 "en": "Hyena",
-                "tl": "Hiyena",
-                "es": "Hiena"
+                "tl": "Hyena",
+                "es": "Hyena"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft at shoulder",
@@ -4853,7 +4853,7 @@
               },
               "image": "/animals/Images/hyena.webp",
               "nameSound": "/animals/Sounds/hyena_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_hyena_laughing_#2-1780192545513.mp3",
+              "animalSound": "/animals/Sounds/hyena.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/hyena_fact_en.mp3",
                 "tl": "/animals/Sounds/hyena_fact_tl.mp3",
@@ -4870,7 +4870,7 @@
               "name": {
                 "en": "Aardvark",
                 "tl": "Aardvark",
-                "es": "Cerdo Hormiguero"
+                "es": "Aardvark"
               },
               "heightLength": {
                 "en": "About 4–5 ft long",
@@ -4979,7 +4979,7 @@
               "name": {
                 "en": "Fennec Fox",
                 "tl": "Fennec Fox",
-                "es": "Zorro del Desierto"
+                "es": "Fennec Fox"
               },
               "heightLength": {
                 "en": "About 1 ft tall; 1.5 ft long",
@@ -5094,8 +5094,8 @@
               "id": "scorpion",
               "name": {
                 "en": "Scorpion",
-                "tl": "Alakdan",
-                "es": "Escorpión"
+                "tl": "Scorpion",
+                "es": "Scorpion"
               },
               "heightLength": {
                 "en": "About 2–8 in long",
@@ -5152,8 +5152,8 @@
               "id": "gecko",
               "name": {
                 "en": "Gecko",
-                "tl": "Tuko",
-                "es": "Geco"
+                "tl": "Gecko",
+                "es": "Gecko"
               },
               "heightLength": {
                 "en": "About 4–12 in long",
@@ -5262,7 +5262,7 @@
               "name": {
                 "en": "Polar Bear",
                 "tl": "Polar Bear",
-                "es": "Oso Polar"
+                "es": "Polar Bear"
               },
               "heightLength": {
                 "en": "About 8–10 ft long standing",
@@ -5303,7 +5303,7 @@
               },
               "image": "/animals/Images/polar_bear.webp",
               "nameSound": "/animals/Sounds/polar_bear_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_polarbear_roaring_#1-1780192577704.mp3",
+              "animalSound": "/animals/Sounds/polar_bear.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/polar_bear_fact_en.mp3",
                 "tl": "/animals/Sounds/polar_bear_fact_tl.mp3",
@@ -5320,7 +5320,7 @@
               "name": {
                 "en": "Arctic Fox",
                 "tl": "Arctic Fox",
-                "es": "Zorro Ártico"
+                "es": "Arctic Fox"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long plus tail",
@@ -5361,7 +5361,7 @@
               },
               "image": "/animals/Images/arctic_fox.webp",
               "nameSound": "/animals/Sounds/arctic_fox_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/artic_fox_making_noi_#2-1780192598901.mp3",
+              "animalSound": "/animals/Sounds/arctic_fox.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/arctic_fox_fact_en.mp3",
                 "tl": "/animals/Sounds/arctic_fox_fact_tl.mp3",
@@ -5378,7 +5378,7 @@
               "name": {
                 "en": "Arctic Hare",
                 "tl": "Arctic Hare",
-                "es": "Liebre Ártica"
+                "es": "Arctic Hare"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft long",
@@ -5419,7 +5419,7 @@
               },
               "image": "/animals/Images/arctic_hare.webp",
               "nameSound": "/animals/Sounds/arctic_hare_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/artic_hare_making_no_#1-1780192621592.mp3",
+              "animalSound": "/animals/Sounds/arctic_hare.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/arctic_hare_fact_en.mp3",
                 "tl": "/animals/Sounds/arctic_hare_fact_tl.mp3",
@@ -5436,7 +5436,7 @@
               "name": {
                 "en": "Arctic Wolf",
                 "tl": "Arctic Wolf",
-                "es": "Lobo Ártico"
+                "es": "Arctic Wolf"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft at shoulder",
@@ -5477,7 +5477,7 @@
               },
               "image": "/animals/Images/arctic_wolf.webp",
               "nameSound": "/animals/Sounds/arctic_wolf_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/artic_wolf_howling_#1-1780192635742.mp3",
+              "animalSound": "/animals/Sounds/arctic_wolf.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/arctic_wolf_fact_en.mp3",
                 "tl": "/animals/Sounds/arctic_wolf_fact_tl.mp3",
@@ -5494,7 +5494,7 @@
               "name": {
                 "en": "Reindeer",
                 "tl": "Reindeer",
-                "es": "Reno"
+                "es": "Reindeer"
               },
               "heightLength": {
                 "en": "About 4 ft at shoulder",
@@ -5552,7 +5552,7 @@
               "name": {
                 "en": "Caribou",
                 "tl": "Caribou",
-                "es": "Caribú"
+                "es": "Caribou"
               },
               "heightLength": {
                 "en": "About 4 ft at shoulder",
@@ -5593,7 +5593,7 @@
               },
               "image": "/animals/Images/caribou.webp",
               "nameSound": "/animals/Sounds/caribou_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/Caribou_bellowing_wi_#1-1780192654751.mp3",
+              "animalSound": "/animals/Sounds/caribou.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/caribou_fact_en.mp3",
                 "tl": "/animals/Sounds/caribou_fact_tl.mp3",
@@ -5610,7 +5610,7 @@
               "name": {
                 "en": "Musk Ox",
                 "tl": "Musk Ox",
-                "es": "Buey Almizclero"
+                "es": "Musk Ox"
               },
               "heightLength": {
                 "en": "About 4–5 ft at shoulder",
@@ -5726,7 +5726,7 @@
               "name": {
                 "en": "Walrus",
                 "tl": "Walrus",
-                "es": "Morsa"
+                "es": "Walrus"
               },
               "heightLength": {
                 "en": "About 8–12 ft long",
@@ -5784,7 +5784,7 @@
               "name": {
                 "en": "Harp Seal",
                 "tl": "Harp Seal",
-                "es": "Foca Arpa"
+                "es": "Harp Seal"
               },
               "heightLength": {
                 "en": "About 5–6 ft long",
@@ -5842,7 +5842,7 @@
               "name": {
                 "en": "Harbor Seal",
                 "tl": "Harbor Seal",
-                "es": "Foca Común"
+                "es": "Harbor Seal"
               },
               "heightLength": {
                 "en": "About 5–6 ft long",
@@ -5900,7 +5900,7 @@
               "name": {
                 "en": "Beluga Whale",
                 "tl": "Beluga Whale",
-                "es": "Ballena Beluga"
+                "es": "Beluga Whale"
               },
               "heightLength": {
                 "en": "About 13–20 ft long",
@@ -5958,7 +5958,7 @@
               "name": {
                 "en": "Narwhal",
                 "tl": "Narwhal",
-                "es": "Narval"
+                "es": "Narwhal"
               },
               "heightLength": {
                 "en": "About 13–18 ft long plus tusk",
@@ -6016,7 +6016,7 @@
               "name": {
                 "en": "Bowhead Whale",
                 "tl": "Bowhead Whale",
-                "es": "Ballena Bowhead"
+                "es": "Bowhead Whale"
               },
               "heightLength": {
                 "en": "About 50–60 ft long",
@@ -6074,7 +6074,7 @@
               "name": {
                 "en": "Sperm Whale",
                 "tl": "Sperm Whale",
-                "es": "Cachalote"
+                "es": "Sperm Whale"
               },
               "heightLength": {
                 "en": "About 50–60 ft long",
@@ -6132,7 +6132,7 @@
               "name": {
                 "en": "Elephant Seal",
                 "tl": "Elephant Seal",
-                "es": "Foca Elefante"
+                "es": "Elephant Seal"
               },
               "heightLength": {
                 "en": "Males up to 16 ft long",
@@ -6196,7 +6196,7 @@
               "name": {
                 "en": "Leopard Seal",
                 "tl": "Leopard Seal",
-                "es": "Foca Leopardo"
+                "es": "Leopard Seal"
               },
               "heightLength": {
                 "en": "About 10–12 ft long",
@@ -6237,7 +6237,7 @@
               },
               "image": "/animals/Images/leopard_seal.webp",
               "nameSound": "/animals/Sounds/leopard_seal_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/leopard_seal.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/leopard_seal_fact_en.mp3",
                 "tl": "/animals/Sounds/leopard_seal_fact_tl.mp3",
@@ -6254,7 +6254,7 @@
               "name": {
                 "en": "Weddell Seal",
                 "tl": "Weddell Seal",
-                "es": "Foca de Weddell"
+                "es": "Weddell Seal"
               },
               "heightLength": {
                 "en": "About 8–10 ft long",
@@ -6295,7 +6295,7 @@
               },
               "image": "/animals/Images/weddell_seal.webp",
               "nameSound": "/animals/Sounds/weddell_seal_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/weddell_seal.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/weddell_seal_fact_en.mp3",
                 "tl": "/animals/Sounds/weddell_seal_fact_tl.mp3",
@@ -6312,7 +6312,7 @@
               "name": {
                 "en": "Emperor Penguin",
                 "tl": "Emperor Penguin",
-                "es": "Pingüino Emperador"
+                "es": "Emperor Penguin"
               },
               "heightLength": {
                 "en": "About 3–4 ft tall",
@@ -6353,7 +6353,7 @@
               },
               "image": "/animals/Images/emperor_penguin.webp",
               "nameSound": "/animals/Sounds/emperor_penguin_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/emperor_penguin.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/emperor_penguin_fact_en.mp3",
                 "tl": "/animals/Sounds/emperor_penguin_fact_tl.mp3",
@@ -6370,7 +6370,7 @@
               "name": {
                 "en": "Adelie Penguin",
                 "tl": "Adelie Penguin",
-                "es": "Pingüino Adelia"
+                "es": "Adelie Penguin"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft tall",
@@ -6411,7 +6411,7 @@
               },
               "image": "/animals/Images/adelie_penguin.webp",
               "nameSound": "/animals/Sounds/adelie_penguin_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/adelie_penguin.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/adelie_penguin_fact_en.mp3",
                 "tl": "/animals/Sounds/adelie_penguin_fact_tl.mp3",
@@ -6428,7 +6428,7 @@
               "name": {
                 "en": "Rockhopper Penguin",
                 "tl": "Rockhopper Penguin",
-                "es": "Pingüino Saltarrocas"
+                "es": "Rockhopper Penguin"
               },
               "heightLength": {
                 "en": "About 20 in tall",
@@ -6469,7 +6469,7 @@
               },
               "image": "/animals/Images/rockhopper_penguin.webp",
               "nameSound": "/animals/Sounds/rockhopper_penguin_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/rockhopper_penguin.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/rockhopper_penguin_fact_en.mp3",
                 "tl": "/animals/Sounds/rockhopper_penguin_fact_tl.mp3",
@@ -6486,7 +6486,7 @@
               "name": {
                 "en": "Krill Antarctic",
                 "tl": "Krill Antarctic",
-                "es": "Krill Antártico"
+                "es": "Krill Antarctic"
               },
               "heightLength": {
                 "en": "About 2 in long",
@@ -6527,7 +6527,7 @@
               },
               "image": "/animals/Images/krill_antarctic.webp",
               "nameSound": "/animals/Sounds/krill_antarctic_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/krill_antarctic.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/krill_antarctic_fact_en.mp3",
                 "tl": "/animals/Sounds/krill_antarctic_fact_tl.mp3",
@@ -6544,7 +6544,7 @@
               "name": {
                 "en": "Snow Goose",
                 "tl": "Snow Goose",
-                "es": "Ganso Nival"
+                "es": "Snow Goose"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -6585,7 +6585,7 @@
               },
               "image": "/animals/Images/snow_goose.webp",
               "nameSound": "/animals/Sounds/snow_goose_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/snow_goose.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/snow_goose_fact_en.mp3",
                 "tl": "/animals/Sounds/snow_goose_fact_tl.mp3",
@@ -6602,7 +6602,7 @@
               "name": {
                 "en": "Ptarmigan",
                 "tl": "Ptarmigan",
-                "es": "Lagópodo"
+                "es": "Ptarmigan"
               },
               "heightLength": {
                 "en": "About 12–17 in long",
@@ -6643,7 +6643,7 @@
               },
               "image": "/animals/Images/ptarmigan.webp",
               "nameSound": "/animals/Sounds/ptarmigan_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/ptarmigan.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/ptarmigan_fact_en.mp3",
                 "tl": "/animals/Sounds/ptarmigan_fact_tl.mp3",
@@ -6660,7 +6660,7 @@
               "name": {
                 "en": "Puffin",
                 "tl": "Puffin",
-                "es": "Frailecillo"
+                "es": "Puffin"
               },
               "heightLength": {
                 "en": "About 10–12 in tall",
@@ -6701,7 +6701,7 @@
               },
               "image": "/animals/Images/puffin.webp",
               "nameSound": "/animals/Sounds/puffin_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/puffin.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/puffin_fact_en.mp3",
                 "tl": "/animals/Sounds/puffin_fact_tl.mp3",
@@ -6742,7 +6742,7 @@
               "name": {
                 "en": "Clownfish",
                 "tl": "Clownfish",
-                "es": "Pez Payaso"
+                "es": "Clownfish"
               },
               "heightLength": {
                 "en": "About 2–4 in long",
@@ -6783,7 +6783,7 @@
               },
               "image": "/animals/Images/clownfish.webp",
               "nameSound": "/animals/Sounds/clownfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/clownfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/clownfish_fact_en.mp3",
                 "tl": "/animals/Sounds/clownfish_fact_tl.mp3",
@@ -6800,7 +6800,7 @@
               "name": {
                 "en": "Angelfish",
                 "tl": "Angelfish",
-                "es": "Pez Ángel"
+                "es": "Angelfish"
               },
               "heightLength": {
                 "en": "About 6–10 in long",
@@ -6841,7 +6841,7 @@
               },
               "image": "/animals/Images/angelfish.webp",
               "nameSound": "/animals/Sounds/angelfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/angelfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/angelfish_fact_en.mp3",
                 "tl": "/animals/Sounds/angelfish_fact_tl.mp3",
@@ -6857,8 +6857,8 @@
               "id": "jellyfish",
               "name": {
                 "en": "Jellyfish",
-                "tl": "Duyong",
-                "es": "Medusa"
+                "tl": "Jellyfish",
+                "es": "Jellyfish"
               },
               "heightLength": {
                 "en": "Bell 1 in to 6 ft wide",
@@ -6899,7 +6899,7 @@
               },
               "image": "/animals/Images/jellyfish.webp",
               "nameSound": "/animals/Sounds/jellyfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/jellyfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/jellyfish_fact_en.mp3",
                 "tl": "/animals/Sounds/jellyfish_fact_tl.mp3",
@@ -6916,7 +6916,7 @@
               "name": {
                 "en": "Starfish",
                 "tl": "Starfish",
-                "es": "Estrella de Mar"
+                "es": "Starfish"
               },
               "heightLength": {
                 "en": "About 4–12 in across arms",
@@ -6957,7 +6957,7 @@
               },
               "image": "/animals/Images/starfish.webp",
               "nameSound": "/animals/Sounds/starfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/starfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/starfish_fact_en.mp3",
                 "tl": "/animals/Sounds/starfish_fact_tl.mp3",
@@ -6974,7 +6974,7 @@
               "name": {
                 "en": "Seahorse",
                 "tl": "Seahorse",
-                "es": "Caballito de Mar"
+                "es": "Seahorse"
               },
               "heightLength": {
                 "en": "About 0.5–14 in long",
@@ -7015,7 +7015,7 @@
               },
               "image": "/animals/Images/seahorse.webp",
               "nameSound": "/animals/Sounds/seahorse_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/seahorse.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/seahorse_fact_en.mp3",
                 "tl": "/animals/Sounds/seahorse_fact_tl.mp3",
@@ -7031,8 +7031,8 @@
               "id": "sea_turtle",
               "name": {
                 "en": "Sea Turtle",
-                "tl": "Pawikan",
-                "es": "Tortuga Marina"
+                "tl": "Sea Turtle",
+                "es": "Sea Turtle"
               },
               "heightLength": {
                 "en": "About 2–6 ft long shell",
@@ -7073,7 +7073,7 @@
               },
               "image": "/animals/Images/sea_turtle.webp",
               "nameSound": "/animals/Sounds/sea_turtle_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/sea_turtle.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/sea_turtle_fact_en.mp3",
                 "tl": "/animals/Sounds/sea_turtle_fact_tl.mp3",
@@ -7090,7 +7090,7 @@
               "name": {
                 "en": "Lobster",
                 "tl": "Lobster",
-                "es": "Langosta"
+                "es": "Lobster"
               },
               "heightLength": {
                 "en": "About 1–3 ft long",
@@ -7131,7 +7131,7 @@
               },
               "image": "/animals/Images/lobster.webp",
               "nameSound": "/animals/Sounds/lobster_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/lobster.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/lobster_fact_en.mp3",
                 "tl": "/animals/Sounds/lobster_fact_tl.mp3",
@@ -7148,7 +7148,7 @@
               "name": {
                 "en": "Hermit Crab",
                 "tl": "Hermit Crab",
-                "es": "Cangrejo Ermitaño"
+                "es": "Hermit Crab"
               },
               "heightLength": {
                 "en": "About 0.5–16 in long",
@@ -7189,7 +7189,7 @@
               },
               "image": "/animals/Images/hermit_crab.webp",
               "nameSound": "/animals/Sounds/hermit_crab_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/hermit_crab.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/hermit_crab_fact_en.mp3",
                 "tl": "/animals/Sounds/hermit_crab_fact_tl.mp3",
@@ -7206,7 +7206,7 @@
               "name": {
                 "en": "Brain Coral",
                 "tl": "Brain Coral",
-                "es": "Coral Cerebro"
+                "es": "Brain Coral"
               },
               "heightLength": {
                 "en": "Colonies several feet wide",
@@ -7247,7 +7247,7 @@
               },
               "image": "/animals/Images/brain_coral.webp",
               "nameSound": "/animals/Sounds/brain_coral_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/brain_coral.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/brain_coral_fact_en.mp3",
                 "tl": "/animals/Sounds/brain_coral_fact_tl.mp3",
@@ -7264,7 +7264,7 @@
               "name": {
                 "en": "Sea Anemone",
                 "tl": "Sea Anemone",
-                "es": "Anémona de Mar"
+                "es": "Sea Anemone"
               },
               "heightLength": {
                 "en": "About 1–6 ft across tentacles",
@@ -7305,7 +7305,7 @@
               },
               "image": "/animals/Images/sea_anemone.webp",
               "nameSound": "/animals/Sounds/sea_anemone_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/sea_anemone.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/sea_anemone_fact_en.mp3",
                 "tl": "/animals/Sounds/sea_anemone_fact_tl.mp3",
@@ -7322,7 +7322,7 @@
               "name": {
                 "en": "Butterflyfish",
                 "tl": "Butterflyfish",
-                "es": "Pez Mariposa"
+                "es": "Butterflyfish"
               },
               "heightLength": {
                 "en": "About 4–8 in long",
@@ -7363,7 +7363,7 @@
               },
               "image": "/animals/Images/butterflyfish.webp",
               "nameSound": "/animals/Sounds/butterflyfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/butterflyfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/butterflyfish_fact_en.mp3",
                 "tl": "/animals/Sounds/butterflyfish_fact_tl.mp3",
@@ -7380,7 +7380,7 @@
               "name": {
                 "en": "Blue Tang",
                 "tl": "Blue Tang",
-                "es": "Cirujano Azul"
+                "es": "Blue Tang"
               },
               "heightLength": {
                 "en": "About 8–12 in long",
@@ -7421,7 +7421,7 @@
               },
               "image": "/animals/Images/blue_tang.webp",
               "nameSound": "/animals/Sounds/blue_tang_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/blue_tang.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/blue_tang_fact_en.mp3",
                 "tl": "/animals/Sounds/blue_tang_fact_tl.mp3",
@@ -7438,7 +7438,7 @@
               "name": {
                 "en": "Mandarinfish",
                 "tl": "Mandarinfish",
-                "es": "Pez Mandarín"
+                "es": "Mandarinfish"
               },
               "heightLength": {
                 "en": "About 2–3 in long",
@@ -7479,7 +7479,7 @@
               },
               "image": "/animals/Images/mandarinfish.webp",
               "nameSound": "/animals/Sounds/mandarinfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/mandarinfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/mandarinfish_fact_en.mp3",
                 "tl": "/animals/Sounds/mandarinfish_fact_tl.mp3",
@@ -7496,7 +7496,7 @@
               "name": {
                 "en": "Moorish Idol",
                 "tl": "Moorish Idol",
-                "es": "Ídolo Moro"
+                "es": "Moorish Idol"
               },
               "heightLength": {
                 "en": "About 8–10 in long",
@@ -7537,7 +7537,7 @@
               },
               "image": "/animals/Images/moorish_idol.webp",
               "nameSound": "/animals/Sounds/moorish_idol_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/moorish_idol.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/moorish_idol_fact_en.mp3",
                 "tl": "/animals/Sounds/moorish_idol_fact_tl.mp3",
@@ -7554,7 +7554,7 @@
               "name": {
                 "en": "Parrotfish",
                 "tl": "Parrotfish",
-                "es": "Pez Loro"
+                "es": "Parrotfish"
               },
               "heightLength": {
                 "en": "About 1–4 ft long",
@@ -7595,7 +7595,7 @@
               },
               "image": "/animals/Images/parrotfish.webp",
               "nameSound": "/animals/Sounds/parrotfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/parrotfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/parrotfish_fact_en.mp3",
                 "tl": "/animals/Sounds/parrotfish_fact_tl.mp3",
@@ -7612,7 +7612,7 @@
               "name": {
                 "en": "Triggerfish",
                 "tl": "Triggerfish",
-                "es": "Pez Ballesta"
+                "es": "Triggerfish"
               },
               "heightLength": {
                 "en": "About 1–3 ft long",
@@ -7653,7 +7653,7 @@
               },
               "image": "/animals/Images/triggerfish.webp",
               "nameSound": "/animals/Sounds/triggerfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/triggerfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/triggerfish_fact_en.mp3",
                 "tl": "/animals/Sounds/triggerfish_fact_tl.mp3",
@@ -7676,7 +7676,7 @@
               "name": {
                 "en": "Lionfish",
                 "tl": "Lionfish",
-                "es": "Pez León"
+                "es": "Lionfish"
               },
               "heightLength": {
                 "en": "About 12–15 in long",
@@ -7717,7 +7717,7 @@
               },
               "image": "/animals/Images/lionfish.webp",
               "nameSound": "/animals/Sounds/lionfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/lionfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/lionfish_fact_en.mp3",
                 "tl": "/animals/Sounds/lionfish_fact_tl.mp3",
@@ -7734,7 +7734,7 @@
               "name": {
                 "en": "Manta Ray",
                 "tl": "Manta Ray",
-                "es": "Manta Raya"
+                "es": "Manta Ray"
               },
               "heightLength": {
                 "en": "Wingspan up to 29 ft",
@@ -7775,7 +7775,7 @@
               },
               "image": "/animals/Images/manta_ray.webp",
               "nameSound": "/animals/Sounds/manta_ray_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/manta_ray.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/manta_ray_fact_en.mp3",
                 "tl": "/animals/Sounds/manta_ray_fact_tl.mp3",
@@ -7791,8 +7791,8 @@
               "id": "stingray",
               "name": {
                 "en": "Stingray",
-                "tl": "Pagi",
-                "es": "Raya"
+                "tl": "Stingray",
+                "es": "Stingray"
               },
               "heightLength": {
                 "en": "About 2–6 ft wide",
@@ -7833,7 +7833,7 @@
               },
               "image": "/animals/Images/stingray.webp",
               "nameSound": "/animals/Sounds/stingray_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/stingray.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/stingray_fact_en.mp3",
                 "tl": "/animals/Sounds/stingray_fact_tl.mp3",
@@ -7850,7 +7850,7 @@
               "name": {
                 "en": "Reef Shark",
                 "tl": "Reef Shark",
-                "es": "Tiburón de Arrecife"
+                "es": "Reef Shark"
               },
               "heightLength": {
                 "en": "About 5–6 ft long",
@@ -7891,7 +7891,7 @@
               },
               "image": "/animals/Images/reef_shark.webp",
               "nameSound": "/animals/Sounds/reef_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/reef_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/reef_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/reef_shark_fact_tl.mp3",
@@ -7908,7 +7908,7 @@
               "name": {
                 "en": "Hammerhead Shark",
                 "tl": "Hammerhead Shark",
-                "es": "Tiburón Martillo"
+                "es": "Hammerhead Shark"
               },
               "heightLength": {
                 "en": "About 10–20 ft long",
@@ -7949,7 +7949,7 @@
               },
               "image": "/animals/Images/hammerhead_shark.webp",
               "nameSound": "/animals/Sounds/hammerhead_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/hammerhead_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/hammerhead_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/hammerhead_shark_fact_tl.mp3",
@@ -7966,7 +7966,7 @@
               "name": {
                 "en": "Great White Shark",
                 "tl": "Great White Shark",
-                "es": "Tiburón Blanco"
+                "es": "Great White Shark"
               },
               "heightLength": {
                 "en": "About 15–20 ft long",
@@ -8007,7 +8007,7 @@
               },
               "image": "/animals/Images/great_white_shark.webp",
               "nameSound": "/animals/Sounds/great_white_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/great_white_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/great_white_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/great_white_shark_fact_tl.mp3",
@@ -8024,7 +8024,7 @@
               "name": {
                 "en": "Tiger Shark",
                 "tl": "Tiger Shark",
-                "es": "Tiburón Tigre"
+                "es": "Tiger Shark"
               },
               "heightLength": {
                 "en": "About 10–14 ft long",
@@ -8065,7 +8065,7 @@
               },
               "image": "/animals/Images/tiger_shark.webp",
               "nameSound": "/animals/Sounds/tiger_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/tiger_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/tiger_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/tiger_shark_fact_tl.mp3",
@@ -8082,7 +8082,7 @@
               "name": {
                 "en": "Sea Urchin",
                 "tl": "Sea Urchin",
-                "es": "Erizo de Mar"
+                "es": "Sea Urchin"
               },
               "heightLength": {
                 "en": "About 2–4 in across",
@@ -8123,7 +8123,7 @@
               },
               "image": "/animals/Images/sea_urchin.webp",
               "nameSound": "/animals/Sounds/sea_urchin_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/sea_urchin.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/sea_urchin_fact_en.mp3",
                 "tl": "/animals/Sounds/sea_urchin_fact_tl.mp3",
@@ -8139,8 +8139,8 @@
               "id": "octopus",
               "name": {
                 "en": "Octopus",
-                "tl": "Pugita",
-                "es": "Pulpo"
+                "tl": "Octopus",
+                "es": "Octopus"
               },
               "heightLength": {
                 "en": "About 3–4 ft arm span",
@@ -8181,7 +8181,7 @@
               },
               "image": "/animals/Images/octopus.webp",
               "nameSound": "/animals/Sounds/octopus_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/octopus.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/octopus_fact_en.mp3",
                 "tl": "/animals/Sounds/octopus_fact_tl.mp3",
@@ -8198,7 +8198,7 @@
               "name": {
                 "en": "Cuttlefish",
                 "tl": "Cuttlefish",
-                "es": "Sepia"
+                "es": "Cuttlefish"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -8239,7 +8239,7 @@
               },
               "image": "/animals/Images/cuttlefish.webp",
               "nameSound": "/animals/Sounds/cuttlefish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/cuttlefish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/cuttlefish_fact_en.mp3",
                 "tl": "/animals/Sounds/cuttlefish_fact_tl.mp3",
@@ -8256,7 +8256,7 @@
               "name": {
                 "en": "Moray Eel",
                 "tl": "Moray Eel",
-                "es": "Morena"
+                "es": "Moray Eel"
               },
               "heightLength": {
                 "en": "About 3–10 ft long",
@@ -8297,7 +8297,7 @@
               },
               "image": "/animals/Images/moray_eel.webp",
               "nameSound": "/animals/Sounds/moray_eel_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/moray_eel.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/moray_eel_fact_en.mp3",
                 "tl": "/animals/Sounds/moray_eel_fact_tl.mp3",
@@ -8314,7 +8314,7 @@
               "name": {
                 "en": "Pufferfish",
                 "tl": "Pufferfish",
-                "es": "Pez Globo"
+                "es": "Pufferfish"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -8355,7 +8355,7 @@
               },
               "image": "/animals/Images/pufferfish.webp",
               "nameSound": "/animals/Sounds/pufferfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/pufferfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/pufferfish_fact_en.mp3",
                 "tl": "/animals/Sounds/pufferfish_fact_tl.mp3",
@@ -8372,7 +8372,7 @@
               "name": {
                 "en": "Bottlenose Dolphin",
                 "tl": "Bottlenose Dolphin",
-                "es": "Delfín Nariz de Botella"
+                "es": "Bottlenose Dolphin"
               },
               "heightLength": {
                 "en": "About 6–12 ft long",
@@ -8413,7 +8413,7 @@
               },
               "image": "/animals/Images/bottlenose_dolphin.webp",
               "nameSound": "/animals/Sounds/bottlenose_dolphin_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/bottlenose_dolphin.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/bottlenose_dolphin_fact_en.mp3",
                 "tl": "/animals/Sounds/bottlenose_dolphin_fact_tl.mp3",
@@ -8471,7 +8471,7 @@
               },
               "image": "/animals/Images/orca.webp",
               "nameSound": "/animals/Sounds/orca_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/orca.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/orca_fact_en.mp3",
                 "tl": "/animals/Sounds/orca_fact_tl.mp3",
@@ -8488,7 +8488,7 @@
               "name": {
                 "en": "Sea Lion",
                 "tl": "Sea Lion",
-                "es": "León Marino"
+                "es": "Sea Lion"
               },
               "heightLength": {
                 "en": "About 6–8 ft long",
@@ -8529,7 +8529,7 @@
               },
               "image": "/animals/Images/sea_lion.webp",
               "nameSound": "/animals/Sounds/sea_lion_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/sea_lion.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/sea_lion_fact_en.mp3",
                 "tl": "/animals/Sounds/sea_lion_fact_tl.mp3",
@@ -8546,7 +8546,7 @@
               "name": {
                 "en": "Sea Otter",
                 "tl": "Sea Otter",
-                "es": "Nutria Marina"
+                "es": "Sea Otter"
               },
               "heightLength": {
                 "en": "About 4 ft long",
@@ -8587,7 +8587,7 @@
               },
               "image": "/animals/Images/sea_otter.webp",
               "nameSound": "/animals/Sounds/sea_otter_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/sea_otter.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/sea_otter_fact_en.mp3",
                 "tl": "/animals/Sounds/sea_otter_fact_tl.mp3",
@@ -8621,7 +8621,7 @@
               "name": {
                 "en": "Goblin Shark",
                 "tl": "Goblin Shark",
-                "es": "Tiburón Duende"
+                "es": "Goblin Shark"
               },
               "heightLength": {
                 "en": "About 10–13 ft long",
@@ -8662,7 +8662,7 @@
               },
               "image": "/animals/Images/goblin_shark.webp",
               "nameSound": "/animals/Sounds/goblin_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/goblin_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/goblin_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/goblin_shark_fact_tl.mp3",
@@ -8679,7 +8679,7 @@
               "name": {
                 "en": "Frilled Shark",
                 "tl": "Frilled Shark",
-                "es": "Tiburón Fraile"
+                "es": "Frilled Shark"
               },
               "heightLength": {
                 "en": "About 6–7 ft long",
@@ -8720,7 +8720,7 @@
               },
               "image": "/animals/Images/frilled_shark.webp",
               "nameSound": "/animals/Sounds/frilled_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/frilled_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/frilled_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/frilled_shark_fact_tl.mp3",
@@ -8737,7 +8737,7 @@
               "name": {
                 "en": "Dragonfish",
                 "tl": "Dragonfish",
-                "es": "Pez Dragón"
+                "es": "Dragonfish"
               },
               "heightLength": {
                 "en": "About 6–15 in long",
@@ -8778,7 +8778,7 @@
               },
               "image": "/animals/Images/dragonfish.webp",
               "nameSound": "/animals/Sounds/dragonfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/dragonfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/dragonfish_fact_en.mp3",
                 "tl": "/animals/Sounds/dragonfish_fact_tl.mp3",
@@ -8795,7 +8795,7 @@
               "name": {
                 "en": "Viperfish",
                 "tl": "Viperfish",
-                "es": "Pez Víbora"
+                "es": "Viperfish"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -8836,7 +8836,7 @@
               },
               "image": "/animals/Images/viperfish.webp",
               "nameSound": "/animals/Sounds/viperfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/viperfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/viperfish_fact_en.mp3",
                 "tl": "/animals/Sounds/viperfish_fact_tl.mp3",
@@ -8853,7 +8853,7 @@
               "name": {
                 "en": "Fangtooth",
                 "tl": "Fangtooth",
-                "es": "Pez Diente de Colmillo"
+                "es": "Fangtooth"
               },
               "heightLength": {
                 "en": "About 6 in long",
@@ -8894,7 +8894,7 @@
               },
               "image": "/animals/Images/fangtooth.webp",
               "nameSound": "/animals/Sounds/fangtooth_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/fangtooth.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/fangtooth_fact_en.mp3",
                 "tl": "/animals/Sounds/fangtooth_fact_tl.mp3",
@@ -8911,7 +8911,7 @@
               "name": {
                 "en": "Gulper Eel",
                 "tl": "Gulper Eel",
-                "es": "Anguila Gulpadora"
+                "es": "Gulper Eel"
               },
               "heightLength": {
                 "en": "About 3–6 ft long; mouth huge",
@@ -8952,7 +8952,7 @@
               },
               "image": "/animals/Images/gulper_eel.webp",
               "nameSound": "/animals/Sounds/gulper_eel_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/gulper_eel.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/gulper_eel_fact_en.mp3",
                 "tl": "/animals/Sounds/gulper_eel_fact_tl.mp3",
@@ -8969,7 +8969,7 @@
               "name": {
                 "en": "Hatchetfish",
                 "tl": "Hatchetfish",
-                "es": "Pez Hacha"
+                "es": "Hatchetfish"
               },
               "heightLength": {
                 "en": "About 1–6 in long",
@@ -9010,7 +9010,7 @@
               },
               "image": "/animals/Images/hatchetfish.webp",
               "nameSound": "/animals/Sounds/hatchetfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/hatchetfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/hatchetfish_fact_en.mp3",
                 "tl": "/animals/Sounds/hatchetfish_fact_tl.mp3",
@@ -9027,7 +9027,7 @@
               "name": {
                 "en": "Lanternfish",
                 "tl": "Lanternfish",
-                "es": "Pez Linterna"
+                "es": "Lanternfish"
               },
               "heightLength": {
                 "en": "About 2–12 in long",
@@ -9068,7 +9068,7 @@
               },
               "image": "/animals/Images/lanternfish.webp",
               "nameSound": "/animals/Sounds/lanternfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/lanternfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/lanternfish_fact_en.mp3",
                 "tl": "/animals/Sounds/lanternfish_fact_tl.mp3",
@@ -9085,7 +9085,7 @@
               "name": {
                 "en": "Barreleye",
                 "tl": "Barreleye",
-                "es": "Pez Ojo de Barril"
+                "es": "Barreleye"
               },
               "heightLength": {
                 "en": "About 6 in long",
@@ -9126,7 +9126,7 @@
               },
               "image": "/animals/Images/barreleye.webp",
               "nameSound": "/animals/Sounds/barreleye_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/barreleye.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/barreleye_fact_en.mp3",
                 "tl": "/animals/Sounds/barreleye_fact_tl.mp3",
@@ -9143,7 +9143,7 @@
               "name": {
                 "en": "Coffinfish",
                 "tl": "Coffinfish",
-                "es": "Pez Ataúd"
+                "es": "Coffinfish"
               },
               "heightLength": {
                 "en": "About 8–10 in long",
@@ -9184,7 +9184,7 @@
               },
               "image": "/animals/Images/coffinfish.webp",
               "nameSound": "/animals/Sounds/coffinfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/coffinfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/coffinfish_fact_en.mp3",
                 "tl": "/animals/Sounds/coffinfish_fact_tl.mp3",
@@ -9201,7 +9201,7 @@
               "name": {
                 "en": "Oarfish",
                 "tl": "Oarfish",
-                "es": "Pez Remo"
+                "es": "Oarfish"
               },
               "heightLength": {
                 "en": "About 26–36 ft long",
@@ -9242,7 +9242,7 @@
               },
               "image": "/animals/Images/oarfish.webp",
               "nameSound": "/animals/Sounds/oarfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/oarfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/oarfish_fact_en.mp3",
                 "tl": "/animals/Sounds/oarfish_fact_tl.mp3",
@@ -9259,7 +9259,7 @@
               "name": {
                 "en": "Colossal Squid",
                 "tl": "Colossal Squid",
-                "es": "Calamar Colosal"
+                "es": "Colossal Squid"
               },
               "heightLength": {
                 "en": "About 30–45 ft long with tentacles",
@@ -9300,7 +9300,7 @@
               },
               "image": "/animals/Images/colossal_squid.webp",
               "nameSound": "/animals/Sounds/colossal_squid_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/colossal_squid.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/colossal_squid_fact_en.mp3",
                 "tl": "/animals/Sounds/colossal_squid_fact_tl.mp3",
@@ -9317,7 +9317,7 @@
               "name": {
                 "en": "Cookiecutter Shark",
                 "tl": "Cookiecutter Shark",
-                "es": "Tiburón Galleta"
+                "es": "Cookiecutter Shark"
               },
               "heightLength": {
                 "en": "About 1.5 ft long",
@@ -9358,7 +9358,7 @@
               },
               "image": "/animals/Images/cookiecutter_shark.webp",
               "nameSound": "/animals/Sounds/cookiecutter_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/cookiecutter_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/cookiecutter_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/cookiecutter_shark_fact_tl.mp3",
@@ -9375,7 +9375,7 @@
               "name": {
                 "en": "Six Gill Shark",
                 "tl": "Six Gill Shark",
-                "es": "Tiburón de Seis Branquias"
+                "es": "Six Gill Shark"
               },
               "heightLength": {
                 "en": "About 12–18 ft long",
@@ -9416,7 +9416,7 @@
               },
               "image": "/animals/Images/six_gill_shark.webp",
               "nameSound": "/animals/Sounds/six_gill_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/six_gill_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/six_gill_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/six_gill_shark_fact_tl.mp3",
@@ -9433,7 +9433,7 @@
               "name": {
                 "en": "Grenadier Fish",
                 "tl": "Grenadier Fish",
-                "es": "Granadero"
+                "es": "Grenadier Fish"
               },
               "heightLength": {
                 "en": "About 1–3 ft long plus tail",
@@ -9474,7 +9474,7 @@
               },
               "image": "/animals/Images/grenadier_fish.webp",
               "nameSound": "/animals/Sounds/grenadier_fish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/grenadier_fish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/grenadier_fish_fact_en.mp3",
                 "tl": "/animals/Sounds/grenadier_fish_fact_tl.mp3",
@@ -9491,7 +9491,7 @@
               "name": {
                 "en": "Lizardfish",
                 "tl": "Lizardfish",
-                "es": "Pez Lagarto"
+                "es": "Lizardfish"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -9532,7 +9532,7 @@
               },
               "image": "/animals/Images/lizardfish.webp",
               "nameSound": "/animals/Sounds/lizardfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/lizardfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/lizardfish_fact_en.mp3",
                 "tl": "/animals/Sounds/lizardfish_fact_tl.mp3",
@@ -9555,7 +9555,7 @@
               "name": {
                 "en": "Snipe Eel",
                 "tl": "Snipe Eel",
-                "es": "Anguila Aguja"
+                "es": "Snipe Eel"
               },
               "heightLength": {
                 "en": "About 4–5 ft long but thin as pencil",
@@ -9596,7 +9596,7 @@
               },
               "image": "/animals/Images/snipe_eel.webp",
               "nameSound": "/animals/Sounds/snipe_eel_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/snipe_eel.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/snipe_eel_fact_en.mp3",
                 "tl": "/animals/Sounds/snipe_eel_fact_tl.mp3",
@@ -9613,7 +9613,7 @@
               "name": {
                 "en": "Cusk Eel",
                 "tl": "Cusk Eel",
-                "es": "Anguila Cusk"
+                "es": "Cusk Eel"
               },
               "heightLength": {
                 "en": "About 3–6 ft long",
@@ -9654,7 +9654,7 @@
               },
               "image": "/animals/Images/cusk_eel.webp",
               "nameSound": "/animals/Sounds/cusk_eel_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/cusk_eel.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/cusk_eel_fact_en.mp3",
                 "tl": "/animals/Sounds/cusk_eel_fact_tl.mp3",
@@ -9671,7 +9671,7 @@
               "name": {
                 "en": "Chimaera",
                 "tl": "Chimaera",
-                "es": "Quimera"
+                "es": "Chimaera"
               },
               "heightLength": {
                 "en": "About 2–5 ft long",
@@ -9712,7 +9712,7 @@
               },
               "image": "/animals/Images/chimaera.webp",
               "nameSound": "/animals/Sounds/chimaera_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/chimaera.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/chimaera_fact_en.mp3",
                 "tl": "/animals/Sounds/chimaera_fact_tl.mp3",
@@ -9729,7 +9729,7 @@
               "name": {
                 "en": "Ghost Shark",
                 "tl": "Ghost Shark",
-                "es": "Tiburón Fantasma"
+                "es": "Ghost Shark"
               },
               "heightLength": {
                 "en": "About 2–4 ft long",
@@ -9770,7 +9770,7 @@
               },
               "image": "/animals/Images/ghost_shark.webp",
               "nameSound": "/animals/Sounds/ghost_shark_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/ghost_shark.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/ghost_shark_fact_en.mp3",
                 "tl": "/animals/Sounds/ghost_shark_fact_tl.mp3",
@@ -9787,7 +9787,7 @@
               "name": {
                 "en": "Spookfish",
                 "tl": "Spookfish",
-                "es": "Pez Fantasma"
+                "es": "Spookfish"
               },
               "heightLength": {
                 "en": "About 1 ft long",
@@ -9828,7 +9828,7 @@
               },
               "image": "/animals/Images/spookfish.webp",
               "nameSound": "/animals/Sounds/spookfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/spookfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/spookfish_fact_en.mp3",
                 "tl": "/animals/Sounds/spookfish_fact_tl.mp3",
@@ -9845,7 +9845,7 @@
               "name": {
                 "en": "Wolffish",
                 "tl": "Wolffish",
-                "es": "Pez Lobo"
+                "es": "Wolffish"
               },
               "heightLength": {
                 "en": "About 4–5 ft long",
@@ -9886,7 +9886,7 @@
               },
               "image": "/animals/Images/wolffish.webp",
               "nameSound": "/animals/Sounds/wolffish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/wolffish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/wolffish_fact_en.mp3",
                 "tl": "/animals/Sounds/wolffish_fact_tl.mp3",
@@ -9903,7 +9903,7 @@
               "name": {
                 "en": "Mariana Snailfish",
                 "tl": "Mariana Snailfish",
-                "es": "Pez Caracol de las Marianas"
+                "es": "Mariana Snailfish"
               },
               "heightLength": {
                 "en": "About 11 in long",
@@ -9944,7 +9944,7 @@
               },
               "image": "/animals/Images/mariana_snailfish.webp",
               "nameSound": "/animals/Sounds/mariana_snailfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/mariana_snailfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/mariana_snailfish_fact_en.mp3",
                 "tl": "/animals/Sounds/mariana_snailfish_fact_tl.mp3",
@@ -9961,7 +9961,7 @@
               "name": {
                 "en": "Faceless Cusk",
                 "tl": "Faceless Cusk",
-                "es": "Cusk Sin Rostro"
+                "es": "Faceless Cusk"
               },
               "heightLength": {
                 "en": "About 1 ft long",
@@ -10002,7 +10002,7 @@
               },
               "image": "/animals/Images/faceless_cusk.webp",
               "nameSound": "/animals/Sounds/faceless_cusk_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/faceless_cusk.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/faceless_cusk_fact_en.mp3",
                 "tl": "/animals/Sounds/faceless_cusk_fact_tl.mp3",
@@ -10019,7 +10019,7 @@
               "name": {
                 "en": "Black Swallower",
                 "tl": "Black Swallower",
-                "es": "Tragador Negro"
+                "es": "Black Swallower"
               },
               "heightLength": {
                 "en": "About 10 in long",
@@ -10060,7 +10060,7 @@
               },
               "image": "/animals/Images/black_swallower.webp",
               "nameSound": "/animals/Sounds/black_swallower_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/black_swallower.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/black_swallower_fact_en.mp3",
                 "tl": "/animals/Sounds/black_swallower_fact_tl.mp3",
@@ -10077,7 +10077,7 @@
               "name": {
                 "en": "Deep Sea Jellyfish",
                 "tl": "Deep Sea Jellyfish",
-                "es": "Medusa de Profundidad"
+                "es": "Deep Sea Jellyfish"
               },
               "heightLength": {
                 "en": "Bell up to 3 ft wide",
@@ -10118,7 +10118,7 @@
               },
               "image": "/animals/Images/deep_sea_jellyfish.webp",
               "nameSound": "/animals/Sounds/deep_sea_jellyfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/deep_sea_jellyfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/deep_sea_jellyfish_fact_en.mp3",
                 "tl": "/animals/Sounds/deep_sea_jellyfish_fact_tl.mp3",
@@ -10135,7 +10135,7 @@
               "name": {
                 "en": "Comb Jelly",
                 "tl": "Comb Jelly",
-                "es": "Medusa Peine"
+                "es": "Comb Jelly"
               },
               "heightLength": {
                 "en": "About 1–8 in long",
@@ -10176,7 +10176,7 @@
               },
               "image": "/animals/Images/comb_jelly.webp",
               "nameSound": "/animals/Sounds/comb_jelly_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/comb_jelly.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/comb_jelly_fact_en.mp3",
                 "tl": "/animals/Sounds/comb_jelly_fact_tl.mp3",
@@ -10193,7 +10193,7 @@
               "name": {
                 "en": "Abyssal Spiderfish",
                 "tl": "Abyssal Spiderfish",
-                "es": "Pez Araña Abisal"
+                "es": "Abyssal Spiderfish"
               },
               "heightLength": {
                 "en": "About 1–2 ft long",
@@ -10234,7 +10234,7 @@
               },
               "image": "/animals/Images/abyssal_spiderfish.webp",
               "nameSound": "/animals/Sounds/abyssal_spiderfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/abyssal_spiderfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/abyssal_spiderfish_fact_en.mp3",
                 "tl": "/animals/Sounds/abyssal_spiderfish_fact_tl.mp3",
@@ -10251,7 +10251,7 @@
               "name": {
                 "en": "Beaked Whale",
                 "tl": "Beaked Whale",
-                "es": "Ballena Pico"
+                "es": "Beaked Whale"
               },
               "heightLength": {
                 "en": "About 15–40 ft long",
@@ -10292,7 +10292,7 @@
               },
               "image": "/animals/Images/beaked_whale.webp",
               "nameSound": "/animals/Sounds/beaked_whale_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/beaked_whale.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/beaked_whale_fact_en.mp3",
                 "tl": "/animals/Sounds/beaked_whale_fact_tl.mp3",
@@ -10309,7 +10309,7 @@
               "name": {
                 "en": "Big Red Jelly",
                 "tl": "Big Red Jelly",
-                "es": "Medusa Roja Gigante"
+                "es": "Big Red Jelly"
               },
               "heightLength": {
                 "en": "Bell up to 2–3 ft wide",
@@ -10350,7 +10350,7 @@
               },
               "image": "/animals/Images/big_red_jelly.webp",
               "nameSound": "/animals/Sounds/big_red_jelly_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/big_red_jelly.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/big_red_jelly_fact_en.mp3",
                 "tl": "/animals/Sounds/big_red_jelly_fact_tl.mp3",
@@ -10367,7 +10367,7 @@
               "name": {
                 "en": "Brisingid Starfish",
                 "tl": "Brisingid Starfish",
-                "es": "Estrella de Mar Brisingida"
+                "es": "Brisingid Starfish"
               },
               "heightLength": {
                 "en": "Arms span up to 2 ft",
@@ -10408,7 +10408,7 @@
               },
               "image": "/animals/Images/brisingid_starfish.webp",
               "nameSound": "/animals/Sounds/brisingid_starfish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/brisingid_starfish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/brisingid_starfish_fact_en.mp3",
                 "tl": "/animals/Sounds/brisingid_starfish_fact_tl.mp3",
@@ -10425,7 +10425,7 @@
               "name": {
                 "en": "Flashlight Fish",
                 "tl": "Flashlight Fish",
-                "es": "Pez Linterna"
+                "es": "Flashlight Fish"
               },
               "heightLength": {
                 "en": "About 4–5 in long",
@@ -10466,7 +10466,7 @@
               },
               "image": "/animals/Images/flashlight_fish.webp",
               "nameSound": "/animals/Sounds/flashlight_fish_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/flashlight_fish.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/flashlight_fish_fact_en.mp3",
                 "tl": "/animals/Sounds/flashlight_fish_fact_tl.mp3",
@@ -10500,7 +10500,7 @@
               "name": {
                 "en": "Salamander",
                 "tl": "Salamander",
-                "es": "Salamandra"
+                "es": "Salamander"
               },
               "heightLength": {
                 "en": "About 4–12 in long",
@@ -10541,7 +10541,7 @@
               },
               "image": "/animals/Images/salamander.webp",
               "nameSound": "/animals/Sounds/salamander_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/salamander.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/salamander_fact_en.mp3",
                 "tl": "/animals/Sounds/salamander_fact_tl.mp3",
@@ -10611,8 +10611,8 @@
               "id": "eagle",
               "name": {
                 "en": "Eagle",
-                "tl": "Aguila",
-                "es": "Águila"
+                "tl": "Eagle",
+                "es": "Eagle"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft long; wingspan 6–8 ft",
@@ -10653,7 +10653,7 @@
               },
               "image": "/animals/Images/eagle.webp",
               "nameSound": "/animals/Sounds/eagle_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_bald_eagle_hunting_#1-1780192071847.mp3",
+              "animalSound": "/animals/Sounds/eagle.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/eagle_fact_en.mp3",
                 "tl": "/animals/Sounds/eagle_fact_tl.mp3",
@@ -10669,8 +10669,8 @@
               "id": "hummingbird",
               "name": {
                 "en": "Hummingbird",
-                "tl": "Ibon na Hummingbird",
-                "es": "Colibrí"
+                "tl": "Hummingbird",
+                "es": "Hummingbird"
               },
               "heightLength": {
                 "en": "About 3–4 in long",
@@ -10711,7 +10711,7 @@
               },
               "image": "/animals/Images/hummingbird.webp",
               "nameSound": "/animals/Sounds/hummingbird_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/hummingbird.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/hummingbird_fact_en.mp3",
                 "tl": "/animals/Sounds/hummingbird_fact_tl.mp3",
@@ -10728,7 +10728,7 @@
               "name": {
                 "en": "Cockatiel",
                 "tl": "Cockatiel",
-                "es": "Cacatúa Ninfa"
+                "es": "Cockatiel"
               },
               "heightLength": {
                 "en": "About 12–14 in long",
@@ -10769,7 +10769,7 @@
               },
               "image": "/animals/Images/cockatiel.webp",
               "nameSound": "/animals/Sounds/cockatiel_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_cockateil_chirping_#1-1780192176735.mp3",
+              "animalSound": "/animals/Sounds/cockatiel.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/cockatiel_fact_en.mp3",
                 "tl": "/animals/Sounds/cockatiel_fact_tl.mp3",
@@ -10786,7 +10786,7 @@
               "name": {
                 "en": "Parakeet",
                 "tl": "Parakeet",
-                "es": "Periquito"
+                "es": "Parakeet"
               },
               "heightLength": {
                 "en": "About 7–18 in long",
@@ -10827,7 +10827,7 @@
               },
               "image": "/animals/Images/parakeet.webp",
               "nameSound": "/animals/Sounds/parakeet_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/parakeet.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/parakeet_fact_en.mp3",
                 "tl": "/animals/Sounds/parakeet_fact_tl.mp3",
@@ -10844,7 +10844,7 @@
               "name": {
                 "en": "Cardinal",
                 "tl": "Cardinal",
-                "es": "Cardenal"
+                "es": "Cardinal"
               },
               "heightLength": {
                 "en": "About 8–9 in long",
@@ -10885,7 +10885,7 @@
               },
               "image": "/animals/Images/cardinal.webp",
               "nameSound": "/animals/Sounds/cardinal_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_cardinal_chirping_#1-1780192221634.mp3",
+              "animalSound": "/animals/Sounds/cardinal.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/cardinal_fact_en.mp3",
                 "tl": "/animals/Sounds/cardinal_fact_tl.mp3",
@@ -10902,7 +10902,7 @@
               "name": {
                 "en": "Blue Jay",
                 "tl": "Blue Jay",
-                "es": "Arrendajo Azul"
+                "es": "Blue Jay"
               },
               "heightLength": {
                 "en": "About 10–12 in long",
@@ -10943,7 +10943,7 @@
               },
               "image": "/animals/Images/blue_jay.webp",
               "nameSound": "/animals/Sounds/blue_jay_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_bluejay_chirping_#1-1780192209926.mp3",
+              "animalSound": "/animals/Sounds/blue_jay.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/blue_jay_fact_en.mp3",
                 "tl": "/animals/Sounds/blue_jay_fact_tl.mp3",
@@ -10959,8 +10959,8 @@
               "id": "pelican",
               "name": {
                 "en": "Pelican",
-                "tl": "Pelikano",
-                "es": "Pelícano"
+                "tl": "Pelican",
+                "es": "Pelican"
               },
               "heightLength": {
                 "en": "About 4–6 ft wingspan",
@@ -11001,7 +11001,7 @@
               },
               "image": "/animals/Images/pelican.webp",
               "nameSound": "/animals/Sounds/pelican_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_pelican_making_pel_#4-1780192252287.mp3",
+              "animalSound": "/animals/Sounds/pelican.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/pelican_fact_en.mp3",
                 "tl": "/animals/Sounds/pelican_fact_tl.mp3",
@@ -11018,7 +11018,7 @@
               "name": {
                 "en": "Seagull",
                 "tl": "Seagull",
-                "es": "Gaviota"
+                "es": "Seagull"
               },
               "heightLength": {
                 "en": "About 1.5–2 ft wingspan",
@@ -11059,7 +11059,7 @@
               },
               "image": "/animals/Images/seagull.webp",
               "nameSound": "/animals/Sounds/seagull_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/seagull.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/seagull_fact_en.mp3",
                 "tl": "/animals/Sounds/seagull_fact_tl.mp3",
@@ -11076,7 +11076,7 @@
               "name": {
                 "en": "Albatross",
                 "tl": "Albatross",
-                "es": "Albatros"
+                "es": "Albatross"
               },
               "heightLength": {
                 "en": "Wingspan up to 11 ft",
@@ -11117,7 +11117,7 @@
               },
               "image": "/animals/Images/albatross.webp",
               "nameSound": "/animals/Sounds/albatross_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/an_albatross_chirpin_#1-1780192279896.mp3",
+              "animalSound": "/animals/Sounds/albatross.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/albatross_fact_en.mp3",
                 "tl": "/animals/Sounds/albatross_fact_tl.mp3",
@@ -11134,7 +11134,7 @@
               "name": {
                 "en": "Turkey Vulture",
                 "tl": "Turkey Vulture",
-                "es": "Zopilote"
+                "es": "Turkey Vulture"
               },
               "heightLength": {
                 "en": "About 2.5 ft long; wingspan 6 ft",
@@ -11175,7 +11175,7 @@
               },
               "image": "/animals/Images/turkey_vulture.webp",
               "nameSound": "/animals/Sounds/turkey_vulture_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/turkey_vulture.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/turkey_vulture_fact_en.mp3",
                 "tl": "/animals/Sounds/turkey_vulture_fact_tl.mp3",
@@ -11192,7 +11192,7 @@
               "name": {
                 "en": "Penguin",
                 "tl": "Penguin",
-                "es": "Pingüino"
+                "es": "Penguin"
               },
               "heightLength": {
                 "en": "About 1–4 ft tall (species vary)",
@@ -11250,7 +11250,7 @@
               "name": {
                 "en": "Snowy Owl",
                 "tl": "Snowy Owl",
-                "es": "Búho Níveo"
+                "es": "Snowy Owl"
               },
               "heightLength": {
                 "en": "About 2 ft tall; wingspan 4–5 ft",
@@ -11291,7 +11291,7 @@
               },
               "image": "/animals/Images/snowy_owl.webp",
               "nameSound": "/animals/Sounds/snowy_owl_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/snowy_owl.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/snowy_owl_fact_en.mp3",
                 "tl": "/animals/Sounds/snowy_owl_fact_tl.mp3",
@@ -11307,8 +11307,8 @@
               "id": "parrot",
               "name": {
                 "en": "Parrot",
-                "tl": "Loro",
-                "es": "Loro"
+                "tl": "Parrot",
+                "es": "Parrot"
               },
               "heightLength": {
                 "en": "About 1–3 ft long",
@@ -11349,7 +11349,7 @@
               },
               "image": "/animals/Images/parrot.webp",
               "nameSound": "/animals/Sounds/parrot_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/parrot.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/parrot_fact_en.mp3",
                 "tl": "/animals/Sounds/parrot_fact_tl.mp3",
@@ -11366,7 +11366,7 @@
               "name": {
                 "en": "Macaw",
                 "tl": "Macaw",
-                "es": "Guacamayo"
+                "es": "Macaw"
               },
               "heightLength": {
                 "en": "About 2–3 ft long with tail",
@@ -11407,7 +11407,7 @@
               },
               "image": "/animals/Images/macaw.webp",
               "nameSound": "/animals/Sounds/macaw_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_macaw_cawing_and_t_#4-1780192433935.mp3",
+              "animalSound": "/animals/Sounds/macaw.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/macaw_fact_en.mp3",
                 "tl": "/animals/Sounds/macaw_fact_tl.mp3",
@@ -11424,7 +11424,7 @@
               "name": {
                 "en": "Toucan",
                 "tl": "Toucan",
-                "es": "Tucán"
+                "es": "Toucan"
               },
               "heightLength": {
                 "en": "About 2 ft long; bill up to 8 in",
@@ -11465,7 +11465,7 @@
               },
               "image": "/animals/Images/toucan.webp",
               "nameSound": "/animals/Sounds/toucan_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_toucan_making_touc_#1-1780192490122.mp3",
+              "animalSound": "/animals/Sounds/toucan.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/toucan_fact_en.mp3",
                 "tl": "/animals/Sounds/toucan_fact_tl.mp3",
@@ -11482,7 +11482,7 @@
               "name": {
                 "en": "Barn Owl",
                 "tl": "Barn Owl",
-                "es": "Lechuza"
+                "es": "Barn Owl"
               },
               "heightLength": {
                 "en": "About 1 ft tall; wingspan 3 ft",
@@ -11523,7 +11523,7 @@
               },
               "image": "/animals/Images/barn_owl.webp",
               "nameSound": "/animals/Sounds/barn_owl_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_barn_owl_whooing_#2-1780192331236.mp3",
+              "animalSound": "/animals/Sounds/barn_owl.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/barn_owl_fact_en.mp3",
                 "tl": "/animals/Sounds/barn_owl_fact_tl.mp3",
@@ -11546,7 +11546,7 @@
               "name": {
                 "en": "Great Horned Owl",
                 "tl": "Great Horned Owl",
-                "es": "Búho Cornudo"
+                "es": "Great Horned Owl"
               },
               "heightLength": {
                 "en": "About 2 ft tall; wingspan 4–5 ft",
@@ -11587,7 +11587,7 @@
               },
               "image": "/animals/Images/great_horned_owl.webp",
               "nameSound": "/animals/Sounds/great_horned_owl_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/great_horned_owl.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/great_horned_owl_fact_en.mp3",
                 "tl": "/animals/Sounds/great_horned_owl_fact_tl.mp3",
@@ -11677,7 +11677,7 @@
               },
               "image": "/animals/Images/border_collie.webp",
               "nameSound": "/animals/Sounds/border_collie_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/border_collie.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/border_collie_fact_en.mp3",
                 "tl": "/animals/Sounds/border_collie_fact_tl.mp3",
@@ -11735,7 +11735,7 @@
               },
               "image": "/animals/Images/golden_retriever.webp",
               "nameSound": "/animals/Sounds/golden_retriever_name.mp3",
-              "animalSound": "/animals/Sounds/animal sounds/a_golden_retriever_b_#1-1780191794453.mp3",
+              "animalSound": "/animals/Sounds/golden_retriever.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/golden_retriever_fact_en.mp3",
                 "tl": "/animals/Sounds/golden_retriever_fact_tl.mp3",
@@ -11793,7 +11793,7 @@
               },
               "image": "/animals/Images/coyote.webp",
               "nameSound": "/animals/Sounds/coyote_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/coyote.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/coyote_fact_en.mp3",
                 "tl": "/animals/Sounds/coyote_fact_tl.mp3",
@@ -11809,8 +11809,8 @@
               "id": "wolf",
               "name": {
                 "en": "Wolf",
-                "tl": "Lobo",
-                "es": "Lobo"
+                "tl": "Wolf",
+                "es": "Wolf"
               },
               "heightLength": {
                 "en": "About 2.5–3 ft at shoulder",
@@ -11851,7 +11851,7 @@
               },
               "image": "/animals/Images/wolf.webp",
               "nameSound": "/animals/Sounds/wolf_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/wolf.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/wolf_fact_en.mp3",
                 "tl": "/animals/Sounds/wolf_fact_tl.mp3",
@@ -11919,7 +11919,7 @@
               "name": {
                 "en": "Siamese Cat",
                 "tl": "Siamese Cat",
-                "es": "Gato Siamés"
+                "es": "Siamese Cat"
               },
               "heightLength": {
                 "en": "About 1 ft tall; 2 ft long",
@@ -11960,7 +11960,7 @@
               },
               "image": "/animals/Images/siamese_cat.webp",
               "nameSound": "/animals/Sounds/siamese_cat_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/siamese_cat.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/siamese_cat_fact_en.mp3",
                 "tl": "/animals/Sounds/siamese_cat_fact_tl.mp3",
@@ -11977,7 +11977,7 @@
               "name": {
                 "en": "Tabby Cat",
                 "tl": "Tabby Cat",
-                "es": "Gato Atigrado"
+                "es": "Tabby Cat"
               },
               "heightLength": {
                 "en": "About 1 ft tall; 1.5–2 ft long",
@@ -12018,7 +12018,7 @@
               },
               "image": "/animals/Images/tabby_cat.webp",
               "nameSound": "/animals/Sounds/tabby_cat_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/tabby_cat.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/tabby_cat_fact_en.mp3",
                 "tl": "/animals/Sounds/tabby_cat_fact_tl.mp3",
@@ -12035,7 +12035,7 @@
               "name": {
                 "en": "Bengal Tiger",
                 "tl": "Bengal Tiger",
-                "es": "Tigre de Bengala"
+                "es": "Bengal Tiger"
               },
               "heightLength": {
                 "en": "About 3 ft at shoulder; 9–10 ft long",
@@ -12076,7 +12076,7 @@
               },
               "image": "/animals/Images/bengal_tiger.webp",
               "nameSound": "/animals/Sounds/bengal_tiger_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/bengal_tiger.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/bengal_tiger_fact_en.mp3",
                 "tl": "/animals/Sounds/bengal_tiger_fact_tl.mp3",
@@ -12093,7 +12093,7 @@
               "name": {
                 "en": "Bobcat",
                 "tl": "Bobcat",
-                "es": "Lince Rojo"
+                "es": "Bobcat"
               },
               "heightLength": {
                 "en": "About 2–3 ft long",
@@ -12134,7 +12134,7 @@
               },
               "image": "/animals/Images/bobcat.webp",
               "nameSound": "/animals/Sounds/bobcat_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/bobcat.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/bobcat_fact_en.mp3",
                 "tl": "/animals/Sounds/bobcat_fact_tl.mp3",
@@ -12151,7 +12151,7 @@
               "name": {
                 "en": "Lynx",
                 "tl": "Lynx",
-                "es": "Lince"
+                "es": "Lynx"
               },
               "heightLength": {
                 "en": "About 2.5–3.5 ft long",
@@ -12192,7 +12192,7 @@
               },
               "image": "/animals/Images/lynx.webp",
               "nameSound": "/animals/Sounds/lynx_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/lynx.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/lynx_fact_en.mp3",
                 "tl": "/animals/Sounds/lynx_fact_tl.mp3",
@@ -12208,8 +12208,8 @@
               "id": "leopard",
               "name": {
                 "en": "Leopard",
-                "tl": "Leopardo",
-                "es": "Leopardo"
+                "tl": "Leopard",
+                "es": "Leopard"
               },
               "heightLength": {
                 "en": "About 3–6 ft long with tail",
@@ -12250,7 +12250,7 @@
               },
               "image": "/animals/Images/leopard.webp",
               "nameSound": "/animals/Sounds/leopard_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/leopard.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/leopard_fact_en.mp3",
                 "tl": "/animals/Sounds/leopard_fact_tl.mp3",
@@ -12308,7 +12308,7 @@
               },
               "image": "/animals/Images/jaguar.webp",
               "nameSound": "/animals/Sounds/jaguar_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/jaguar.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/jaguar_fact_en.mp3",
                 "tl": "/animals/Sounds/jaguar_fact_tl.mp3",
@@ -12372,8 +12372,8 @@
               "id": "moth",
               "name": {
                 "en": "Moth",
-                "tl": "Gamugamo",
-                "es": "Polilla"
+                "tl": "Moth",
+                "es": "Moth"
               },
               "heightLength": {
                 "en": "Wingspan 0.5–12 in",
@@ -12414,7 +12414,7 @@
               },
               "image": "/animals/Images/moth.webp",
               "nameSound": "/animals/Sounds/moth_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/moth.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/moth_fact_en.mp3",
                 "tl": "/animals/Sounds/moth_fact_tl.mp3",
@@ -12431,7 +12431,7 @@
               "name": {
                 "en": "Tarantula",
                 "tl": "Tarantula",
-                "es": "Tarántula"
+                "es": "Tarantula"
               },
               "heightLength": {
                 "en": "About 4–11 in leg span",
@@ -12472,7 +12472,7 @@
               },
               "image": "/animals/Images/tarantula.webp",
               "nameSound": "/animals/Sounds/tarantula_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/tarantula.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/tarantula_fact_en.mp3",
                 "tl": "/animals/Sounds/tarantula_fact_tl.mp3",
@@ -12488,8 +12488,8 @@
               "id": "firefly",
               "name": {
                 "en": "Firefly",
-                "tl": "Alitaptap",
-                "es": "Luciérnaga"
+                "tl": "Firefly",
+                "es": "Firefly"
               },
               "heightLength": {
                 "en": "About 0.5–1 in long",
@@ -12530,7 +12530,7 @@
               },
               "image": "/animals/Images/firefly.webp",
               "nameSound": "/animals/Sounds/firefly_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/firefly.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/firefly_fact_en.mp3",
                 "tl": "/animals/Sounds/firefly_fact_tl.mp3",
@@ -12547,7 +12547,7 @@
               "name": {
                 "en": "Leafcutter Ant",
                 "tl": "Leafcutter Ant",
-                "es": "Hormiga Cortadora de Hojas"
+                "es": "Leafcutter Ant"
               },
               "heightLength": {
                 "en": "Workers about 0.5 in long",
@@ -12588,7 +12588,7 @@
               },
               "image": "/animals/Images/leafcutter_ant.webp",
               "nameSound": "/animals/Sounds/leafcutter_ant_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/leafcutter_ant.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/leafcutter_ant_fact_en.mp3",
                 "tl": "/animals/Sounds/leafcutter_ant_fact_tl.mp3",
@@ -12604,8 +12604,8 @@
               "id": "turtle",
               "name": {
                 "en": "Turtle",
-                "tl": "Pagong",
-                "es": "Tortuga"
+                "tl": "Turtle",
+                "es": "Turtle"
               },
               "heightLength": {
                 "en": "About 6–12 in long (pet species vary)",
@@ -12646,7 +12646,7 @@
               },
               "image": "/animals/Images/turtle.webp",
               "nameSound": "/animals/Sounds/turtle_name.mp3",
-              "animalSound": null,
+              "animalSound": "/animals/Sounds/turtle.mp3",
               "factSounds": {
                 "en": "/animals/Sounds/turtle_fact_en.mp3",
                 "tl": "/animals/Sounds/turtle_fact_tl.mp3",
