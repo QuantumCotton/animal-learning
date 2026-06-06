@@ -92,12 +92,13 @@ function isPlaceholderAnimalMp3(id) {
 }
 
 function animalSoundPath(id) {
+  // Prefer the clean {id}.mp3 file over the messy import source path
+  if (fs.existsSync(path.join(SOUNDS_DIR, `${id}.mp3`)) && !isPlaceholderAnimalMp3(id)) {
+    return `/animals/Sounds/${id}.mp3`;
+  }
   const rel = soundImports[id];
   if (rel && !String(rel).startsWith("_") && fs.existsSync(path.join(SOUNDS_DIR, rel))) {
     return `/animals/Sounds/${rel.replace(/\\/g, "/")}`;
-  }
-  if (fs.existsSync(path.join(SOUNDS_DIR, `${id}.mp3`)) && !isPlaceholderAnimalMp3(id)) {
-    return `/animals/Sounds/${id}.mp3`;
   }
   return null;
 }
